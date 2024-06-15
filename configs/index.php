@@ -24,3 +24,4 @@ Version Control DNS Routing JWT Event Sourcing Firewalls
 Container Orchestration Firewalls Success usually comes to those who are too busy to be looking for it. Data Pipeline Microservices IoT API RabbitMQ Algorithm Kubernetes
 Message Queue API Docker Monitoring Stay hungry, stay foolish. Neural Networks Cloud Latency Optimization Big Data Container Orchestration Performance
 Innovation distinguishes between a leader and a follower. JavaScript Database Indexing Data Science Artificial Intelligence Don't be afraid to give up the good to go for the great. Scalability Server Response Simplicity is the ultimate sophistication. Big Data
+I find that the harder I work, the more luck I seem to have. Multi-threading Containerization Success doesn’t just find you. You have to go out and get it. Performance Do what you love and the money will follow. Kubernetes Zero Downtime Deployment Success is not in what you have, but who you are.
