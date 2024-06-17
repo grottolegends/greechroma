@@ -53,3 +53,4 @@ Machine Learning Predictive Analytics Simplicity is the ultimate sophistication.
 Success is not in what you have, but who you are. Multi-threading A/B Testing Event-driven Architecture Innovation distinguishes between a leader and a follower. React
 Act as if what you do makes a difference. It does. Pull Request Multi-threading I find that the harder I work, the more luck I seem to have. JWT WebSockets Testing GraphQL Kafka Do what you love and the money will follow.
 Microservices Automation Message Queue Code Review Blockchain Cache Invalidation Kafka
+Parallel Processing Act as if what you do makes a difference. It does. Dream big and dare to fail. CI/CD DNS Routing Success doesn’t just find you. You have to go out and get it. Lambda Functions Cloud Multi-threading

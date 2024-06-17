@@ -35,3 +35,4 @@ Do what you love and the money will follow. Docker Difficult roads often lead to
 Backend Containerization Big Data Agile The only way to do great work is to love what you do. RabbitMQ Database Indexing Code Review
 Python Load Balancing Event Sourcing Virtual Machines Version Control
 Microservices CI/CD Python JavaScript Simplicity is the ultimate sophistication.
+Monitoring API Gateway Data Science Artificial Intelligence Serverless Great things never come from comfort zones. RabbitMQ
