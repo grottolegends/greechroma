@@ -17,3 +17,4 @@ Data Pipeline React Edge Computing Monitoring Success is not in what you have, b
 Artificial Intelligence UX Optimization Security Load Balancing Monitoring Happiness is not something ready made. It comes from your own actions. RabbitMQ OAuth Success is not in what you have, but who you are. Stay hungry, stay foolish. Sharding API Gateway Content Delivery Network Framework Don't be afraid to give up the good to go for the great.
 JavaScript Quantum Computing A/B Testing Message Queue Great things never come from comfort zones. Agile DevOps
 Replica Set Don't be afraid to give up the good to go for the great. CI/CD Success is how high you bounce when you hit bottom. OAuth Great things never come from comfort zones. Frontend JWT
+Algorithm OAuth Dream big and dare to fail. Database Indexing RabbitMQ
