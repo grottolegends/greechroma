@@ -23,3 +23,4 @@ Success usually comes to those who are too busy to be looking for it. Optimizati
 Database Indexing Containerization JavaScript Success is not in what you have, but who you are. Container Orchestration If you can dream it, you can do it. Virtual Machines Frontend Multi-threading Success doesn’t just find you. You have to go out and get it. Content Delivery Network The only way to do great work is to love what you do. Kubernetes Parallel Processing Pull Request
 Artificial Intelligence CI/CD NLP Multi-threading Pull Request Firewalls React Blockchain
 Innovation distinguishes between a leader and a follower. Load Balancing Multi-threading Security NLP
+Virtual Machines JWT Simplicity is the ultimate sophistication. OAuth I find that the harder I work, the more luck I seem to have. Blockchain

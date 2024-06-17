@@ -26,3 +26,4 @@ The only way to do great work is to love what you do. Edge Computing Load Testin
 Do what you love and the money will follow. Stay hungry, stay foolish. Artificial Intelligence Code Review The only way to do great work is to love what you do. Version Control Cloud Functions
 JWT Artificial Intelligence Microservices Database Indexing Logging Pull Request Blockchain WebSockets Multi-threading Data Pipeline Kafka
 Multi-threading Microservices Python CI/CD Event-driven Architecture Success is how high you bounce when you hit bottom. Firewalls Work hard in silence, let your success be your noise. Sharding
+Stay hungry, stay foolish. Happiness is not something ready made. It comes from your own actions. RabbitMQ Automation Cloud Functions Artificial Intelligence Lambda Functions
