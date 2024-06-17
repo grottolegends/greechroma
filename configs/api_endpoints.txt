@@ -22,3 +22,4 @@ Do what you love and the money will follow. Logging Load Balancing Monitoring Te
 Great things never come from comfort zones. Data Science Artificial Intelligence Docker Machine Learning
 NLP Cloud Functions Docker Serverless Firewalls Testing Success doesn’t just find you. You have to go out and get it. Success is not in what you have, but who you are. API
 Act as if what you do makes a difference. It does. Dream big and dare to fail. Big Data Docker Automation Kubernetes Predictive Analytics React Server Response Load Balancing
+Cloud Latency Optimization RabbitMQ Frontend Logging IoT Sharding
