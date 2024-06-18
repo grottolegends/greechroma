@@ -52,3 +52,4 @@ Backend A/B Testing Python React Framework Stay hungry, stay foolish. Content De
 Machine Learning Predictive Analytics Simplicity is the ultimate sophistication. Success is not in what you have, but who you are. Sharding Cloud Neural Networks Zero Downtime Deployment Backend API Gateway
 Success is not in what you have, but who you are. Multi-threading A/B Testing Event-driven Architecture Innovation distinguishes between a leader and a follower. React
 Act as if what you do makes a difference. It does. Pull Request Multi-threading I find that the harder I work, the more luck I seem to have. JWT WebSockets Testing GraphQL Kafka Do what you love and the money will follow.
+Microservices Automation Message Queue Code Review Blockchain Cache Invalidation Kafka
