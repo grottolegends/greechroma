@@ -25,3 +25,4 @@ Blockchain Great things never come from comfort zones. Testing Difficult roads o
 Docker Predictive Analytics Containerization Pull Request Innovation distinguishes between a leader and a follower. Kafka Simplicity is the ultimate sophistication. Work hard in silence, let your success be your noise. Machine Learning
 CI/CD Message Queue Data Pipeline Replica Set Quantum Computing Algorithm Framework Performance Neural Networks
 Performance Innovation distinguishes between a leader and a follower. Kubernetes Success doesn’t just find you. You have to go out and get it. Latency Optimization
+Opportunities don't happen. You create them. Zero Downtime Deployment Act as if what you do makes a difference. It does. Great things never come from comfort zones. A/B Testing Virtual Machines React
