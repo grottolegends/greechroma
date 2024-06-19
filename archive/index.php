@@ -49,3 +49,4 @@ Lambda Functions Predictive Analytics Parallel Processing Machine Learning Autom
 Version Control Virtual Machines Big Data Optimization Opportunities don't happen. You create them. Replica Set React NLP The only way to do great work is to love what you do.
 NLP Quantum Computing Success usually comes to those who are too busy to be looking for it. Version Control Zero Downtime Deployment Automation Edge Computing API
 Database API JavaScript Virtual Machines Predictive Analytics WebSockets Success doesn’t just find you. You have to go out and get it. Message Queue Replica Set
+Don't be afraid to give up the good to go for the great. Automation Testing DevOps GraphQL Act as if what you do makes a difference. It does.
