@@ -50,3 +50,4 @@ Version Control Virtual Machines Big Data Optimization Opportunities don't happe
 NLP Quantum Computing Success usually comes to those who are too busy to be looking for it. Version Control Zero Downtime Deployment Automation Edge Computing API
 Database API JavaScript Virtual Machines Predictive Analytics WebSockets Success doesn’t just find you. You have to go out and get it. Message Queue Replica Set
 Don't be afraid to give up the good to go for the great. Automation Testing DevOps GraphQL Act as if what you do makes a difference. It does.
+GraphQL Machine Learning Monitoring Algorithm Replica Set Happiness is not something ready made. It comes from your own actions. Performance Load Balancing NLP Dream big and dare to fail. Optimization Frontend Stay hungry, stay foolish.

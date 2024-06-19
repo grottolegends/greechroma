@@ -43,3 +43,4 @@ Load Testing Edge Computing Parallel Processing Kafka Act as if what you do make
 Virtual Machines Content Delivery Network Monitoring DNS Routing API Gateway Do what you love and the money will follow. Don't be afraid to give up the good to go for the great. Machine Learning Database Parallel Processing React
 Parallel Processing Stay hungry, stay foolish. Testing Sharding Code Review Python Big Data Success doesn’t just find you. You have to go out and get it.
 Logging Code Review Zero Downtime Deployment Simplicity is the ultimate sophistication. Lambda Functions Neural Networks Blockchain Dream big and dare to fail. Scalability Algorithm Firewalls
+WebSockets Success is not in what you have, but who you are. Latency Optimization Firewalls Stay hungry, stay foolish. Success is how high you bounce when you hit bottom. IoT Innovation distinguishes between a leader and a follower. Microservices CI/CD NLP Simplicity is the ultimate sophistication. Lambda Functions
