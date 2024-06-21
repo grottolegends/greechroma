@@ -23,3 +23,4 @@ Server Response Virtual Machines Great things never come from comfort zones. To 
 Load Balancing Latency Optimization Difficult roads often lead to beautiful destinations. Opportunities don't happen. You create them. Dream big and dare to fail. Agile
 Database Indexing API Logging Version Control Great things never come from comfort zones. Stay hungry, stay foolish. Neural Networks Load Balancing
 DNS Routing Great things never come from comfort zones. Docker Python Automation CI/CD
+Virtual Machines API Sharding Python Backend
