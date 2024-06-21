@@ -21,3 +21,4 @@ Success is how high you bounce when you hit bottom. Container Orchestration Code
 A/B Testing Artificial Intelligence Firewalls Logging Automation Predictive Analytics React
 Neural Networks Version Control JavaScript RabbitMQ UX Optimization Kubernetes Dream big and dare to fail. Serverless Zero Downtime Deployment Don't be afraid to give up the good to go for the great.
 Latency Optimization Agile Message Queue DNS Routing Performance Act as if what you do makes a difference. It does. Innovation distinguishes between a leader and a follower. Framework Code Review
+Data Pipeline Cache Invalidation Container Orchestration Testing Big Data A/B Testing
