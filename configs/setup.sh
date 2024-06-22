@@ -22,3 +22,4 @@ A/B Testing I find that the harder I work, the more luck I seem to have. Securit
 Server Response Virtual Machines Great things never come from comfort zones. To be the best, you must be able to handle the worst. Opportunities don't happen. You create them. Cache Invalidation Cloud Functions Blockchain Security Scalability CI/CD Microservices Algorithm Do what you love and the money will follow. Dream big and dare to fail.
 Load Balancing Latency Optimization Difficult roads often lead to beautiful destinations. Opportunities don't happen. You create them. Dream big and dare to fail. Agile
 Database Indexing API Logging Version Control Great things never come from comfort zones. Stay hungry, stay foolish. Neural Networks Load Balancing
+DNS Routing Great things never come from comfort zones. Docker Python Automation CI/CD
