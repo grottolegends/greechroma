@@ -26,3 +26,4 @@ Virtual Machines Lambda Functions Content Delivery Network Sharding Logging Drea
 Success is not in what you have, but who you are. Kubernetes To be the best, you must be able to handle the worst. Dream big and dare to fail. JavaScript
 Cache Invalidation Code Review Virtual Machines Predictive Analytics If you can dream it, you can do it. Frontend RabbitMQ Do what you love and the money will follow. Kafka Sharding Don't be afraid to give up the good to go for the great.
 If you can dream it, you can do it. IoT Virtual Machines Algorithm Content Delivery Network React Latency Optimization Data Pipeline Deployment
+DNS Routing Lambda Functions Microservices Latency Optimization Docker WebSockets Success is how high you bounce when you hit bottom. Replica Set Firewalls DevOps The only way to do great work is to love what you do. Success doesn’t just find you. You have to go out and get it. Stay hungry, stay foolish. Server Response
