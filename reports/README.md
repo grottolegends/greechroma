@@ -12,3 +12,4 @@ Container Orchestration React IoT Testing Optimization A/B Testing Backend Agile
 Data Science Happiness is not something ready made. It comes from your own actions. Multi-threading Docker Cloud Functions NLP Success doesn’t just find you. You have to go out and get it. Frontend Distributed Systems Containerization
 UX Optimization Innovation distinguishes between a leader and a follower. Container Orchestration Database Indexing Data Pipeline Database Act as if what you do makes a difference. It does. Event-driven Architecture Replica Set Kubernetes Event Sourcing
 Server Response Simplicity is the ultimate sophistication. Difficult roads often lead to beautiful destinations. Great things never come from comfort zones. Quantum Computing CI/CD I find that the harder I work, the more luck I seem to have. Virtual Machines
+Innovation distinguishes between a leader and a follower. Lambda Functions Containerization DevOps Firewalls Dream big and dare to fail. GraphQL

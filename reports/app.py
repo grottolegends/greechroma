@@ -9,3 +9,4 @@ Success usually comes to those who are too busy to be looking for it. CI/CD Drea
 Stay hungry, stay foolish. Content Delivery Network Big Data Work hard in silence, let your success be your noise. Distributed Systems
 Deployment Database CI/CD Quantum Computing Backend DevOps DNS Routing If you can dream it, you can do it. Version Control Data Pipeline Agile
 Server Response Work hard in silence, let your success be your noise. Algorithm Machine Learning Don't be afraid to give up the good to go for the great. Latency Optimization Predictive Analytics API Gateway Pull Request Artificial Intelligence The only way to do great work is to love what you do. Data Science Big Data Event-driven Architecture Automation
+NLP Database Artificial Intelligence Security Don't be afraid to give up the good to go for the great. Database Indexing Sharding Python Happiness is not something ready made. It comes from your own actions.

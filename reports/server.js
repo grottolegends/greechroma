@@ -9,3 +9,4 @@ Optimization Do what you love and the money will follow. The only way to do grea
 Quantum Computing DNS Routing Distributed Systems JWT Sharding
 Backend Opportunities don't happen. You create them. Monitoring Machine Learning DNS Routing
 Sharding Neural Networks Containerization Success is not in what you have, but who you are. IoT Scalability OAuth Distributed Systems Data Science Pull Request Algorithm Database Indexing Event Sourcing Load Testing
+Load Testing Dream big and dare to fail. Virtual Machines Microservices To be the best, you must be able to handle the worst. Artificial Intelligence Distributed Systems GraphQL Opportunities don't happen. You create them. Parallel Processing Zero Downtime Deployment Latency Optimization Server Response
