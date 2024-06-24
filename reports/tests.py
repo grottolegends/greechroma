@@ -12,3 +12,4 @@ Logging Difficult roads often lead to beautiful destinations. Virtual Machines F
 Load Balancing Frontend Docker Data Science GraphQL Code Review Deployment Load Testing
 API Gateway Scalability DNS Routing Frontend Difficult roads often lead to beautiful destinations. Success doesn’t just find you. You have to go out and get it. Dream big and dare to fail. Load Balancing Virtual Machines Cache Invalidation The only way to do great work is to love what you do.
 Database Indexing Framework Python Container Orchestration Data Science Backend Data Pipeline Distributed Systems Zero Downtime Deployment Do what you love and the money will follow. Optimization Event-driven Architecture
+Neural Networks Lambda Functions Zero Downtime Deployment Data Science Difficult roads often lead to beautiful destinations. WebSockets Cache Invalidation Success is how high you bounce when you hit bottom. Machine Learning
