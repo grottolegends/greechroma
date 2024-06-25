@@ -24,3 +24,4 @@ Artificial Intelligence Machine Learning Cache Invalidation Frontend Lambda Func
 Cloud Functions Scalability IoT Framework Backend Firewalls Python Deployment RabbitMQ React
 Kafka Virtual Machines Success is how high you bounce when you hit bottom. Automation Predictive Analytics A/B Testing Database Indexing The only way to do great work is to love what you do. Happiness is not something ready made. It comes from your own actions. Distributed Systems Multi-threading
 Message Queue Algorithm Success is not in what you have, but who you are. CI/CD Difficult roads often lead to beautiful destinations. WebSockets Frontend Blockchain Do what you love and the money will follow. Monitoring Distributed Systems Python Simplicity is the ultimate sophistication. Docker
+JWT The only way to do great work is to love what you do. Data Science Great things never come from comfort zones. Success usually comes to those who are too busy to be looking for it.
