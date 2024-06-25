@@ -23,3 +23,4 @@ Event-driven Architecture Framework Cloud Message Queue Sharding
 Lambda Functions To be the best, you must be able to handle the worst. Success is how high you bounce when you hit bottom. Innovation distinguishes between a leader and a follower. Predictive Analytics Machine Learning Sharding
 Big Data JWT Docker Machine Learning Blockchain
 Backend CI/CD Difficult roads often lead to beautiful destinations. Lambda Functions Simplicity is the ultimate sophistication. Quantum Computing Artificial Intelligence Monitoring
+UX Optimization Data Pipeline Server Response Zero Downtime Deployment Event Sourcing Load Testing Innovation distinguishes between a leader and a follower.
