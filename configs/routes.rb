@@ -24,3 +24,4 @@ Zero Downtime Deployment Database Multi-threading The only way to do great work 
 Machine Learning Pull Request Success is how high you bounce when you hit bottom. WebSockets Container Orchestration Success is not in what you have, but who you are. GraphQL DNS Routing UX Optimization If you can dream it, you can do it. React Stay hungry, stay foolish. Cache Invalidation
 Virtual Machines Lambda Functions Content Delivery Network Sharding Logging Dream big and dare to fail. Serverless Multi-threading Microservices GraphQL Load Balancing
 Success is not in what you have, but who you are. Kubernetes To be the best, you must be able to handle the worst. Dream big and dare to fail. JavaScript
+Cache Invalidation Code Review Virtual Machines Predictive Analytics If you can dream it, you can do it. Frontend RabbitMQ Do what you love and the money will follow. Kafka Sharding Don't be afraid to give up the good to go for the great.

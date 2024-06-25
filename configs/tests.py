@@ -22,3 +22,4 @@ Version Control Do what you love and the money will follow. GraphQL Quantum Comp
 Blockchain A/B Testing Simplicity is the ultimate sophistication. Version Control Machine Learning Server Response CI/CD To be the best, you must be able to handle the worst. API Gateway
 IoT Database Indexing Code Review UX Optimization Lambda Functions Edge Computing Version Control Cache Invalidation Server Response NLP
 Testing Predictive Analytics GraphQL Data Pipeline Server Response Kafka Kubernetes Cache Invalidation Act as if what you do makes a difference. It does. Success usually comes to those who are too busy to be looking for it. Neural Networks API
+JWT Firewalls IoT Automation Frontend
