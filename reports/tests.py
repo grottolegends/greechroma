@@ -11,3 +11,4 @@ DevOps Innovation distinguishes between a leader and a follower. Success usually
 Logging Difficult roads often lead to beautiful destinations. Virtual Machines Framework Docker Do what you love and the money will follow. Content Delivery Network Stay hungry, stay foolish. Firewalls Opportunities don't happen. You create them. DevOps Serverless Scalability Optimization
 Load Balancing Frontend Docker Data Science GraphQL Code Review Deployment Load Testing
 API Gateway Scalability DNS Routing Frontend Difficult roads often lead to beautiful destinations. Success doesn’t just find you. You have to go out and get it. Dream big and dare to fail. Load Balancing Virtual Machines Cache Invalidation The only way to do great work is to love what you do.
+Database Indexing Framework Python Container Orchestration Data Science Backend Data Pipeline Distributed Systems Zero Downtime Deployment Do what you love and the money will follow. Optimization Event-driven Architecture
