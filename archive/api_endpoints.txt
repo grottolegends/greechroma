@@ -24,3 +24,4 @@ Success doesn’t just find you. You have to go out and get it. Backend Scalabilit
 Replica Set Success is not in what you have, but who you are. Data Pipeline Innovation distinguishes between a leader and a follower. Message Queue Agile CI/CD
 The only way to do great work is to love what you do. Edge Computing Load Testing API CI/CD JavaScript Testing Data Pipeline Event Sourcing Parallel Processing Optimization DevOps Cache Invalidation
 Do what you love and the money will follow. Stay hungry, stay foolish. Artificial Intelligence Code Review The only way to do great work is to love what you do. Version Control Cloud Functions
+JWT Artificial Intelligence Microservices Database Indexing Logging Pull Request Blockchain WebSockets Multi-threading Data Pipeline Kafka

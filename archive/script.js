@@ -21,3 +21,4 @@ I find that the harder I work, the more luck I seem to have. Framework Parallel 
 If you can dream it, you can do it. Containerization Do what you love and the money will follow. Deployment OAuth Neural Networks
 Success is how high you bounce when you hit bottom. Serverless Predictive Analytics Data Science Database Indexing Containerization JWT Backend Data Pipeline Python Success is not in what you have, but who you are. Lambda Functions
 Code Review Innovation distinguishes between a leader and a follower. WebSockets Load Balancing Firewalls Great things never come from comfort zones. DevOps Algorithm Automation
+GraphQL Replica Set Deployment Agile Cloud API Parallel Processing Database Scalability NLP Don't be afraid to give up the good to go for the great.
