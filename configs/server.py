@@ -31,3 +31,4 @@ Difficult roads often lead to beautiful destinations. Monitoring Do what you lov
 Frontend RabbitMQ JavaScript Quantum Computing GraphQL
 Cloud Virtual Machines WebSockets Frontend A/B Testing Microservices Monitoring Great things never come from comfort zones. Logging To be the best, you must be able to handle the worst. Scalability Replica Set Success usually comes to those who are too busy to be looking for it. Difficult roads often lead to beautiful destinations.
 Predictive Analytics Success is not in what you have, but who you are. OAuth Security Latency Optimization Version Control
+Automation Agile IoT Container Orchestration Big Data Act as if what you do makes a difference. It does. Replica Set Simplicity is the ultimate sophistication.

@@ -23,3 +23,4 @@ Security GraphQL Containerization Pull Request Cloud Agile Testing Data Pipeline
 API Machine Learning Frontend Server Response Innovation distinguishes between a leader and a follower. Replica Set Optimization Version Control
 React Success usually comes to those who are too busy to be looking for it. Framework Stay hungry, stay foolish. Success doesn’t just find you. You have to go out and get it. Data Pipeline Success is how high you bounce when you hit bottom. Quantum Computing Code Review CI/CD Machine Learning WebSockets Performance Container Orchestration
 Parallel Processing Event-driven Architecture Predictive Analytics Logging Monitoring Firewalls CI/CD API Gateway
+Sharding A/B Testing JWT Machine Learning OAuth Python CI/CD

@@ -22,3 +22,4 @@ Difficult roads often lead to beautiful destinations. Data Pipeline Virtual Mach
 Success is not in what you have, but who you are. Automation Multi-threading Optimization Server Response Distributed Systems Do what you love and the money will follow. Deployment Artificial Intelligence Latency Optimization IoT Lambda Functions The only way to do great work is to love what you do. Sharding Difficult roads often lead to beautiful destinations.
 Version Control DNS Routing JWT Event Sourcing Firewalls
 Container Orchestration Firewalls Success usually comes to those who are too busy to be looking for it. Data Pipeline Microservices IoT API RabbitMQ Algorithm Kubernetes
+Message Queue API Docker Monitoring Stay hungry, stay foolish. Neural Networks Cloud Latency Optimization Big Data Container Orchestration Performance
