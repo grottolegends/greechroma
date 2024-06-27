@@ -34,3 +34,4 @@ Sharding IoT Containerization Machine Learning Logging I find that the harder I 
 Do what you love and the money will follow. Docker Difficult roads often lead to beautiful destinations. Security Algorithm API Data Pipeline Data Science Work hard in silence, let your success be your noise.
 Backend Containerization Big Data Agile The only way to do great work is to love what you do. RabbitMQ Database Indexing Code Review
 Python Load Balancing Event Sourcing Virtual Machines Version Control
+Microservices CI/CD Python JavaScript Simplicity is the ultimate sophistication.

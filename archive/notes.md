@@ -51,3 +51,4 @@ The only way to do great work is to love what you do. RabbitMQ Data Pipeline Opp
 Kafka Backend Version Control Success doesn’t just find you. You have to go out and get it. Code Review Work hard in silence, let your success be your noise. Frontend Deployment A/B Testing Cloud Functions Don't be afraid to give up the good to go for the great. Framework Multi-threading
 Message Queue Scalability Logging Virtual Machines UX Optimization Container Orchestration Server Response NLP Great things never come from comfort zones. Firewalls Version Control Load Testing JavaScript Opportunities don't happen. You create them.
 Big Data Success is how high you bounce when you hit bottom. Container Orchestration Frontend Python Cloud Code Review Testing
+Container Orchestration Monitoring React Frontend OAuth Microservices Data Science Big Data Content Delivery Network IoT Server Response I find that the harder I work, the more luck I seem to have.
