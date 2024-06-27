@@ -13,3 +13,4 @@ Server Response JWT Monitoring RabbitMQ Machine Learning Edge Computing Predicti
 Server Response RabbitMQ Algorithm Load Testing Quantum Computing To be the best, you must be able to handle the worst.
 Zero Downtime Deployment API Kafka Data Science DevOps Version Control Virtual Machines Success is how high you bounce when you hit bottom. OAuth CI/CD Frontend Success usually comes to those who are too busy to be looking for it. Event-driven Architecture
 Zero Downtime Deployment NLP Database JWT Kafka Dream big and dare to fail. Server Response Message Queue Do what you love and the money will follow. To be the best, you must be able to handle the worst. Load Testing Container Orchestration OAuth
+DNS Routing Data Science Kubernetes Cloud Functions Optimization Content Delivery Network Innovation distinguishes between a leader and a follower. Predictive Analytics Success doesn’t just find you. You have to go out and get it. Agile Testing
