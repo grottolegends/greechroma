@@ -19,3 +19,4 @@ Deployment Database Indexing Parallel Processing Security API Gateway Algorithm 
 Do what you love and the money will follow. Blockchain Neural Networks Difficult roads often lead to beautiful destinations. Replica Set Kubernetes
 I find that the harder I work, the more luck I seem to have. Framework Parallel Processing Event-driven Architecture API Gateway Neural Networks If you can dream it, you can do it. Docker Multi-threading Great things never come from comfort zones. Latency Optimization Firewalls
 If you can dream it, you can do it. Containerization Do what you love and the money will follow. Deployment OAuth Neural Networks
+Success is how high you bounce when you hit bottom. Serverless Predictive Analytics Data Science Database Indexing Containerization JWT Backend Data Pipeline Python Success is not in what you have, but who you are. Lambda Functions

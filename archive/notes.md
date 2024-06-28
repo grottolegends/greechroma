@@ -22,3 +22,4 @@ Success is how high you bounce when you hit bottom. Automation Cache Invalidatio
 JavaScript Predictive Analytics Multi-threading Parallel Processing Load Balancing CI/CD
 Server Response Replica Set Frontend Do what you love and the money will follow. Code Review Docker JavaScript
 IoT API JavaScript Parallel Processing Database Indexing UX Optimization Success is how high you bounce when you hit bottom.
+Dream big and dare to fail. Serverless The only way to do great work is to love what you do. Security Success is how high you bounce when you hit bottom. Edge Computing Virtual Machines Kafka OAuth Version Control NLP
