@@ -29,3 +29,4 @@ Opportunities don't happen. You create them. Cache Invalidation Quantum Computin
 DNS Routing Replica Set Algorithm Multi-threading Backend Happiness is not something ready made. It comes from your own actions. Performance RabbitMQ OAuth Serverless Automation Distributed Systems
 Edge Computing Great things never come from comfort zones. Dream big and dare to fail. Latency Optimization If you can dream it, you can do it. I find that the harder I work, the more luck I seem to have. Stay hungry, stay foolish. Lambda Functions Framework Container Orchestration Kafka
 Event-driven Architecture Agile Big Data Success is how high you bounce when you hit bottom. Load Testing Python Blockchain Quantum Computing Parallel Processing Distributed Systems
+Database Indexing GraphQL Predictive Analytics Optimization Backend
