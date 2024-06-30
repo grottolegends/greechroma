@@ -39,3 +39,4 @@ API Gateway Version Control Backend Quantum Computing DevOps IoT To be the best,
 Kafka Container Orchestration Difficult roads often lead to beautiful destinations. Docker Distributed Systems Deployment Microservices Scalability Success doesn’t just find you. You have to go out and get it. Version Control React Simplicity is the ultimate sophistication. Machine Learning Big Data
 Happiness is not something ready made. It comes from your own actions. Server Response WebSockets Optimization Big Data Stay hungry, stay foolish. Quantum Computing Container Orchestration
 Event-driven Architecture Happiness is not something ready made. It comes from your own actions. Act as if what you do makes a difference. It does. Kafka Load Testing Database RabbitMQ Predictive Analytics Data Science
+Container Orchestration Parallel Processing Data Science If you can dream it, you can do it. Message Queue Optimization
