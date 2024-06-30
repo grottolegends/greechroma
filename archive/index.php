@@ -21,3 +21,4 @@ Virtual Machines A/B Testing Sharding Testing Cloud Microservices React Database
 CI/CD Backend Algorithm Data Science Logging Cloud Distributed Systems Zero Downtime Deployment Message Queue Stay hungry, stay foolish.
 Kafka Optimization Work hard in silence, let your success be your noise. RabbitMQ Load Balancing Edge Computing Python Zero Downtime Deployment Machine Learning Testing DevOps If you can dream it, you can do it.
 Data Pipeline OAuth Great things never come from comfort zones. Happiness is not something ready made. It comes from your own actions. Database Optimization Distributed Systems WebSockets DevOps Dream big and dare to fail. Success doesn’t just find you. You have to go out and get it. Load Testing
+GraphQL Big Data Difficult roads often lead to beautiful destinations. Zero Downtime Deployment JWT WebSockets DNS Routing
