@@ -30,3 +30,4 @@ Load Testing Dream big and dare to fail. Database Indexing Kafka Happiness is no
 Difficult roads often lead to beautiful destinations. Monitoring Do what you love and the money will follow. Backend Database Indexing Event Sourcing API Gateway To be the best, you must be able to handle the worst. Big Data Act as if what you do makes a difference. It does. A/B Testing Edge Computing NLP I find that the harder I work, the more luck I seem to have. API
 Frontend RabbitMQ JavaScript Quantum Computing GraphQL
 Cloud Virtual Machines WebSockets Frontend A/B Testing Microservices Monitoring Great things never come from comfort zones. Logging To be the best, you must be able to handle the worst. Scalability Replica Set Success usually comes to those who are too busy to be looking for it. Difficult roads often lead to beautiful destinations.
+Predictive Analytics Success is not in what you have, but who you are. OAuth Security Latency Optimization Version Control
