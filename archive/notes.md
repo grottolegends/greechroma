@@ -21,3 +21,4 @@ Cloud Scalability Lambda Functions Framework Parallel Processing
 Success is how high you bounce when you hit bottom. Automation Cache Invalidation Sharding Agile Success doesn’t just find you. You have to go out and get it. Replica Set
 JavaScript Predictive Analytics Multi-threading Parallel Processing Load Balancing CI/CD
 Server Response Replica Set Frontend Do what you love and the money will follow. Code Review Docker JavaScript
+IoT API JavaScript Parallel Processing Database Indexing UX Optimization Success is how high you bounce when you hit bottom.

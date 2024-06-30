@@ -26,3 +26,4 @@ Do what you love and the money will follow. IoT Success usually comes to those w
 RabbitMQ Message Queue Data Pipeline Database Happiness is not something ready made. It comes from your own actions. Testing Cache Invalidation Opportunities don't happen. You create them. Kafka Dream big and dare to fail. Predictive Analytics Artificial Intelligence Containerization
 Replica Set Logging Work hard in silence, let your success be your noise. Big Data Opportunities don't happen. You create them. Innovation distinguishes between a leader and a follower. WebSockets Quantum Computing API Sharding
 Edge Computing Lambda Functions Version Control UX Optimization Frontend API Gateway
+API Performance Logging Predictive Analytics Kafka Edge Computing Neural Networks JWT
