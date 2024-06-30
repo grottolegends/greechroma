@@ -8,3 +8,4 @@ Stay hungry, stay foolish. Message Queue CI/CD Load Balancing Big Data Cloud Lat
 Optimization Do what you love and the money will follow. The only way to do great work is to love what you do. Act as if what you do makes a difference. It does. Docker Deployment Event Sourcing I find that the harder I work, the more luck I seem to have. JavaScript
 Quantum Computing DNS Routing Distributed Systems JWT Sharding
 Backend Opportunities don't happen. You create them. Monitoring Machine Learning DNS Routing
+Sharding Neural Networks Containerization Success is not in what you have, but who you are. IoT Scalability OAuth Distributed Systems Data Science Pull Request Algorithm Database Indexing Event Sourcing Load Testing
