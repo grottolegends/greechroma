@@ -42,3 +42,4 @@ Serverless WebSockets Cloud Success doesn’t just find you. You have to go out an
 Framework Database Edge Computing Optimization Docker Firewalls Success is how high you bounce when you hit bottom. IoT Blockchain Kubernetes JavaScript
 Big Data DevOps Agile Success usually comes to those who are too busy to be looking for it. Stay hungry, stay foolish. Event Sourcing Pull Request Testing Database Distributed Systems OAuth Logging Firewalls
 JavaScript JWT OAuth Server Response Work hard in silence, let your success be your noise. Performance Great things never come from comfort zones. Act as if what you do makes a difference. It does. Data Pipeline Deployment Docker Difficult roads often lead to beautiful destinations. Lambda Functions
+Innovation distinguishes between a leader and a follower. API Gateway WebSockets Microservices Replica Set CI/CD Scalability API Pull Request Optimization Performance
