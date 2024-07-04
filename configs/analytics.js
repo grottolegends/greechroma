@@ -29,3 +29,4 @@ WebSockets Cloud Functions Stay hungry, stay foolish. Latency Optimization Load 
 Algorithm Don't be afraid to give up the good to go for the great. NLP RabbitMQ Scalability Frontend Version Control Framework Database Security CI/CD Monitoring API Edge Computing
 Kafka Parallel Processing DNS Routing Code Review Message Queue If you can dream it, you can do it. Cloud Functions Happiness is not something ready made. It comes from your own actions.
 Latency Optimization Database Indexing Distributed Systems Python DNS Routing JWT Cloud API Data Pipeline
+Scalability RabbitMQ To be the best, you must be able to handle the worst. Sharding OAuth Stay hungry, stay foolish. UX Optimization Containerization Serverless Event-driven Architecture Act as if what you do makes a difference. It does. Testing NLP
