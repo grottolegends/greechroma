@@ -27,3 +27,4 @@ Cloud WebSockets Success is how high you bounce when you hit bottom. Zero Downti
 Optimization Event Sourcing Data Pipeline Message Queue CI/CD Algorithm Act as if what you do makes a difference. It does. Stay hungry, stay foolish.
 DNS Routing API Gateway Act as if what you do makes a difference. It does. Success doesn’t just find you. You have to go out and get it. Load Testing Cloud Latency Optimization
 GraphQL Optimization API Gateway Success is how high you bounce when you hit bottom. Python Happiness is not something ready made. It comes from your own actions. Algorithm DevOps Load Balancing Microservices Latency Optimization API Simplicity is the ultimate sophistication. Serverless
+Innovation distinguishes between a leader and a follower. Virtual Machines Machine Learning Data Pipeline Framework Success is how high you bounce when you hit bottom. Pull Request Blockchain GraphQL Big Data Automation
