@@ -40,3 +40,4 @@ Version Control Cloud Functions Act as if what you do makes a difference. It doe
 DevOps Scalability Edge Computing Content Delivery Network Neural Networks Cache Invalidation CI/CD
 Innovation distinguishes between a leader and a follower. Sharding UX Optimization Framework Neural Networks Difficult roads often lead to beautiful destinations.
 Load Testing Edge Computing Parallel Processing Kafka Act as if what you do makes a difference. It does. Opportunities don't happen. You create them. Success doesn’t just find you. You have to go out and get it. Sharding Cache Invalidation
+Virtual Machines Content Delivery Network Monitoring DNS Routing API Gateway Do what you love and the money will follow. Don't be afraid to give up the good to go for the great. Machine Learning Database Parallel Processing React
