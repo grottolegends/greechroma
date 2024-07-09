@@ -51,3 +51,4 @@ Server Response Quantum Computing Data Pipeline Agile Load Testing Cloud Functio
 If you can dream it, you can do it. OAuth Event Sourcing CI/CD React Artificial Intelligence Cloud Data Science Stay hungry, stay foolish. Opportunities don't happen. You create them.
 Server Response OAuth Difficult roads often lead to beautiful destinations. Machine Learning I find that the harder I work, the more luck I seem to have. Pull Request Container Orchestration Logging Security
 Scalability Agile Server Response JWT Multi-threading Monitoring I find that the harder I work, the more luck I seem to have. Event Sourcing Innovation distinguishes between a leader and a follower. GraphQL
+Performance Happiness is not something ready made. It comes from your own actions. Work hard in silence, let your success be your noise. Neural Networks Success doesn’t just find you. You have to go out and get it. DevOps
