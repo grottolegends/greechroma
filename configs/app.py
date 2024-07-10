@@ -20,3 +20,4 @@ Monitoring Success usually comes to those who are too busy to be looking for it.
 Containerization Machine Learning Monitoring Security NLP Framework Zero Downtime Deployment Happiness is not something ready made. It comes from your own actions. Edge Computing
 WebSockets API Gateway Event-driven Architecture Multi-threading Cloud Functions
 Security GraphQL Containerization Pull Request Cloud Agile Testing Data Pipeline Machine Learning
+API Machine Learning Frontend Server Response Innovation distinguishes between a leader and a follower. Replica Set Optimization Version Control
