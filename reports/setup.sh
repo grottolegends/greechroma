@@ -8,3 +8,4 @@ Success is how high you bounce when you hit bottom. Containerization Frontend Ka
 Deployment Microservices DevOps Kubernetes Big Data GraphQL Dream big and dare to fail. Parallel Processing Logging Innovation distinguishes between a leader and a follower. Kafka API Gateway JavaScript Great things never come from comfort zones. Act as if what you do makes a difference. It does.
 Replica Set GraphQL Monitoring Difficult roads often lead to beautiful destinations. Load Testing Security Distributed Systems Opportunities don't happen. You create them. Database Blockchain Agile Content Delivery Network DNS Routing
 Data Science Version Control To be the best, you must be able to handle the worst. Kubernetes I find that the harder I work, the more luck I seem to have.
+Lambda Functions Algorithm Event Sourcing Scalability Container Orchestration DNS Routing Stay hungry, stay foolish. Security Big Data Don't be afraid to give up the good to go for the great.

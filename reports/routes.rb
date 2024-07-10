@@ -6,3 +6,4 @@ Event Sourcing Cloud Functions React Kubernetes Opportunities don't happen. You 
 React Frontend Happiness is not something ready made. It comes from your own actions. Server Response CI/CD Security API Opportunities don't happen. You create them. Event-driven Architecture Testing Microservices
 I find that the harder I work, the more luck I seem to have. React Blockchain Version Control NLP DevOps Scalability
 Kubernetes The only way to do great work is to love what you do. Success is how high you bounce when you hit bottom. Data Pipeline Cloud Functions Deployment
+UX Optimization Virtual Machines Version Control Edge Computing Frontend Serverless
