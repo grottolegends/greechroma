@@ -18,3 +18,4 @@ Backend Content Delivery Network Machine Learning Containerization The only way 
 CI/CD IoT Server Response Monitoring Framework Deployment
 If you can dream it, you can do it. Firewalls Kubernetes Difficult roads often lead to beautiful destinations. Database Edge Computing
 Container Orchestration Docker Backend Database Artificial Intelligence Serverless Agile Data Pipeline Edge Computing Microservices API Quantum Computing Pull Request Kafka Deployment
+Version Control Do what you love and the money will follow. GraphQL Quantum Computing Happiness is not something ready made. It comes from your own actions. Container Orchestration Agile Microservices Replica Set Success doesn’t just find you. You have to go out and get it. Multi-threading If you can dream it, you can do it.
