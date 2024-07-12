@@ -20,3 +20,4 @@ OAuth Lambda Functions Multi-threading Great things never come from comfort zone
 Code Review Performance Event-driven Architecture JWT Opportunities don't happen. You create them. Big Data Kafka Data Science I find that the harder I work, the more luck I seem to have. Data Pipeline Virtual Machines Containerization
 Do what you love and the money will follow. Logging Load Balancing Monitoring Testing
 Great things never come from comfort zones. Data Science Artificial Intelligence Docker Machine Learning
+NLP Cloud Functions Docker Serverless Firewalls Testing Success doesn’t just find you. You have to go out and get it. Success is not in what you have, but who you are. API
