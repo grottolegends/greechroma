@@ -24,3 +24,4 @@ IoT Simplicity is the ultimate sophistication. OAuth DevOps NLP Event Sourcing C
 Innovation distinguishes between a leader and a follower. Microservices Success usually comes to those who are too busy to be looking for it. Agile Scalability
 To be the best, you must be able to handle the worst. JavaScript Happiness is not something ready made. It comes from your own actions. Do what you love and the money will follow. Cloud Functions Load Balancing
 Optimization Work hard in silence, let your success be your noise. Message Queue Agile Edge Computing
+Big Data Sharding JavaScript Success doesn’t just find you. You have to go out and get it. Microservices CI/CD

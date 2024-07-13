@@ -21,3 +21,4 @@ UX Optimization Deployment Success is how high you bounce when you hit bottom. A
 Database DNS Routing Load Balancing Lambda Functions Cloud Functions API Gateway Container Orchestration Blockchain UX Optimization DevOps Success is not in what you have, but who you are. Multi-threading
 Event-driven Architecture Framework Cloud Message Queue Sharding
 Lambda Functions To be the best, you must be able to handle the worst. Success is how high you bounce when you hit bottom. Innovation distinguishes between a leader and a follower. Predictive Analytics Machine Learning Sharding
+Big Data JWT Docker Machine Learning Blockchain
