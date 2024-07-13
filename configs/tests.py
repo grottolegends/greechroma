@@ -17,3 +17,4 @@ Kubernetes Sharding Algorithm Event-driven Architecture Lambda Functions If you 
 Backend Content Delivery Network Machine Learning Containerization The only way to do great work is to love what you do. Big Data GraphQL Database Indexing
 CI/CD IoT Server Response Monitoring Framework Deployment
 If you can dream it, you can do it. Firewalls Kubernetes Difficult roads often lead to beautiful destinations. Database Edge Computing
+Container Orchestration Docker Backend Database Artificial Intelligence Serverless Agile Data Pipeline Edge Computing Microservices API Quantum Computing Pull Request Kafka Deployment
