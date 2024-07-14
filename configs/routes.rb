@@ -23,3 +23,4 @@ A/B Testing Distributed Systems Logging DNS Routing Sharding Edge Computing Auto
 Zero Downtime Deployment Database Multi-threading The only way to do great work is to love what you do. Opportunities don't happen. You create them. Framework Kafka React Logging
 Machine Learning Pull Request Success is how high you bounce when you hit bottom. WebSockets Container Orchestration Success is not in what you have, but who you are. GraphQL DNS Routing UX Optimization If you can dream it, you can do it. React Stay hungry, stay foolish. Cache Invalidation
 Virtual Machines Lambda Functions Content Delivery Network Sharding Logging Dream big and dare to fail. Serverless Multi-threading Microservices GraphQL Load Balancing
+Success is not in what you have, but who you are. Kubernetes To be the best, you must be able to handle the worst. Dream big and dare to fail. JavaScript
