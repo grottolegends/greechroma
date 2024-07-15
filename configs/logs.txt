@@ -15,3 +15,4 @@ Success doesn’t just find you. You have to go out and get it. Cloud Functions Op
 The only way to do great work is to love what you do. Don't be afraid to give up the good to go for the great. Security GraphQL Agile Replica Set API Gateway JavaScript IoT Kubernetes Python Version Control WebSockets Firewalls Edge Computing
 Load Testing Sharding Agile GraphQL Logging Firewalls Great things never come from comfort zones.
 Content Delivery Network GraphQL Neural Networks RabbitMQ Microservices Quantum Computing Latency Optimization API Kubernetes
+Container Orchestration Success is not in what you have, but who you are. Backend Load Balancing Containerization Python Great things never come from comfort zones. Happiness is not something ready made. It comes from your own actions. Do what you love and the money will follow. Stay hungry, stay foolish. Opportunities don't happen. You create them. Monitoring JWT
