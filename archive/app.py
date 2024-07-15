@@ -23,3 +23,4 @@ Security React Virtual Machines Kubernetes OAuth Performance API Gateway A/B Tes
 Version Control Latency Optimization Success is not in what you have, but who you are. Work hard in silence, let your success be your noise. Database Cache Invalidation Content Delivery Network Docker Predictive Analytics JavaScript
 IoT Blockchain Act as if what you do makes a difference. It does. If you can dream it, you can do it. Latency Optimization
 React Logging I find that the harder I work, the more luck I seem to have. Kafka Framework Server Response
+I find that the harder I work, the more luck I seem to have. Success is not in what you have, but who you are. Machine Learning Load Testing UX Optimization Automation Lambda Functions Replica Set Success is how high you bounce when you hit bottom. Distributed Systems Do what you love and the money will follow. Sharding React Security Innovation distinguishes between a leader and a follower.
