@@ -28,3 +28,4 @@ Work hard in silence, let your success be your noise. Success usually comes to t
 Agile Algorithm IoT OAuth Lambda Functions
 Load Testing Dream big and dare to fail. Database Indexing Kafka Happiness is not something ready made. It comes from your own actions.
 Difficult roads often lead to beautiful destinations. Monitoring Do what you love and the money will follow. Backend Database Indexing Event Sourcing API Gateway To be the best, you must be able to handle the worst. Big Data Act as if what you do makes a difference. It does. A/B Testing Edge Computing NLP I find that the harder I work, the more luck I seem to have. API
+Frontend RabbitMQ JavaScript Quantum Computing GraphQL

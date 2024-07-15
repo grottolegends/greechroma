@@ -14,3 +14,4 @@ Success usually comes to those who are too busy to be looking for it. Frontend K
 Success doesn’t just find you. You have to go out and get it. Cloud Functions Optimization JWT Kafka
 The only way to do great work is to love what you do. Don't be afraid to give up the good to go for the great. Security GraphQL Agile Replica Set API Gateway JavaScript IoT Kubernetes Python Version Control WebSockets Firewalls Edge Computing
 Load Testing Sharding Agile GraphQL Logging Firewalls Great things never come from comfort zones.
+Content Delivery Network GraphQL Neural Networks RabbitMQ Microservices Quantum Computing Latency Optimization API Kubernetes
