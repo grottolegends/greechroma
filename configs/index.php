@@ -18,3 +18,4 @@ Docker JavaScript Logging API Algorithm Blockchain Success usually comes to thos
 Kubernetes Testing Pull Request CI/CD If you can dream it, you can do it.
 Testing Kubernetes Cloud Functions Success is not in what you have, but who you are. React Load Balancing Cache Invalidation Latency Optimization
 Blockchain Opportunities don't happen. You create them. RabbitMQ Algorithm Python Deployment Zero Downtime Deployment Replica Set Success doesn’t just find you. You have to go out and get it. DNS Routing Machine Learning
+Difficult roads often lead to beautiful destinations. Data Pipeline Virtual Machines I find that the harder I work, the more luck I seem to have. Edge Computing If you can dream it, you can do it. Version Control Predictive Analytics Cloud Do what you love and the money will follow. React Content Delivery Network Event-driven Architecture
