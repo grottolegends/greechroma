@@ -9,3 +9,4 @@ Cache Invalidation Don't be afraid to give up the good to go for the great. If y
 Edge Computing Lambda Functions Multi-threading IoT Virtual Machines DevOps Content Delivery Network Data Science Optimization Innovation distinguishes between a leader and a follower. NLP
 Great things never come from comfort zones. Content Delivery Network Code Review Multi-threading Pull Request
 If you can dream it, you can do it. Message Queue Agile Data Pipeline Cache Invalidation Difficult roads often lead to beautiful destinations. Algorithm Firewalls Cloud Innovation distinguishes between a leader and a follower. Success is not in what you have, but who you are.
+Sharding CI/CD Artificial Intelligence Logging OAuth To be the best, you must be able to handle the worst. Success usually comes to those who are too busy to be looking for it. Replica Set Great things never come from comfort zones. Serverless Zero Downtime Deployment
