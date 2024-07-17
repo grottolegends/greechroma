@@ -8,3 +8,4 @@ OAuth Replica Set Don't be afraid to give up the good to go for the great. Artif
 Cache Invalidation Don't be afraid to give up the good to go for the great. If you can dream it, you can do it. Security Big Data Latency Optimization Automation Frontend Code Review Scalability Load Balancing API Distributed Systems Success doesn’t just find you. You have to go out and get it. API Gateway
 Edge Computing Lambda Functions Multi-threading IoT Virtual Machines DevOps Content Delivery Network Data Science Optimization Innovation distinguishes between a leader and a follower. NLP
 Great things never come from comfort zones. Content Delivery Network Code Review Multi-threading Pull Request
+If you can dream it, you can do it. Message Queue Agile Data Pipeline Cache Invalidation Difficult roads often lead to beautiful destinations. Algorithm Firewalls Cloud Innovation distinguishes between a leader and a follower. Success is not in what you have, but who you are.
