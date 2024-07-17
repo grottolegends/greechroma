@@ -18,3 +18,4 @@ Don't be afraid to give up the good to go for the great. Opportunities don't hap
 Simplicity is the ultimate sophistication. Act as if what you do makes a difference. It does. Opportunities don't happen. You create them. Code Review Framework
 Monitoring Success usually comes to those who are too busy to be looking for it. Container Orchestration Simplicity is the ultimate sophistication. Sharding If you can dream it, you can do it. Kubernetes
 Containerization Machine Learning Monitoring Security NLP Framework Zero Downtime Deployment Happiness is not something ready made. It comes from your own actions. Edge Computing
+WebSockets API Gateway Event-driven Architecture Multi-threading Cloud Functions

@@ -20,3 +20,4 @@ Kafka Database Load Testing Parallel Processing Firewalls Frontend Docker Algori
 Quantum Computing JWT OAuth A/B Testing Deployment Cloud Database
 Lambda Functions Success is not in what you have, but who you are. Parallel Processing Load Testing Success doesn’t just find you. You have to go out and get it. Kubernetes Virtual Machines Kafka Microservices Simplicity is the ultimate sophistication. OAuth Distributed Systems
 API CI/CD Server Response Event-driven Architecture Machine Learning IoT Difficult roads often lead to beautiful destinations. API Gateway
+Docker Sharding Innovation distinguishes between a leader and a follower. React Deployment CI/CD Stay hungry, stay foolish. Cloud Functions Big Data NLP Cache Invalidation Blockchain Predictive Analytics Cloud Python
