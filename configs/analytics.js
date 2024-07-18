@@ -28,3 +28,4 @@ Work hard in silence, let your success be your noise. Quantum Computing Server R
 WebSockets Cloud Functions Stay hungry, stay foolish. Latency Optimization Load Testing
 Algorithm Don't be afraid to give up the good to go for the great. NLP RabbitMQ Scalability Frontend Version Control Framework Database Security CI/CD Monitoring API Edge Computing
 Kafka Parallel Processing DNS Routing Code Review Message Queue If you can dream it, you can do it. Cloud Functions Happiness is not something ready made. It comes from your own actions.
+Latency Optimization Database Indexing Distributed Systems Python DNS Routing JWT Cloud API Data Pipeline
