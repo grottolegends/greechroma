@@ -54,3 +54,4 @@ Container Orchestration Act as if what you do makes a difference. It does. JavaS
 Work hard in silence, let your success be your noise. WebSockets Cloud Machine Learning RabbitMQ Code Review Scalability Server Response Dream big and dare to fail. Automation Edge Computing JavaScript
 Neural Networks Code Review Great things never come from comfort zones. Agile Docker Framework Parallel Processing Act as if what you do makes a difference. It does.
 Virtual Machines Testing A/B Testing Deployment Edge Computing DNS Routing Version Control Firewalls Algorithm Dream big and dare to fail. Database Indexing Code Review Neural Networks Stay hungry, stay foolish. JavaScript
+Happiness is not something ready made. It comes from your own actions. Innovation distinguishes between a leader and a follower. Sharding Data Science Success usually comes to those who are too busy to be looking for it. Edge Computing
