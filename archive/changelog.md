@@ -50,3 +50,4 @@ React Difficult roads often lead to beautiful destinations. Pull Request Innovat
 Big Data Edge Computing Automation Kafka Predictive Analytics Kubernetes
 Serverless Firewalls Code Review Container Orchestration Neural Networks Virtual Machines Cache Invalidation Security Logging Data Pipeline Data Science Kubernetes Deployment Database
 Kubernetes Security Data Pipeline Edge Computing Success is not in what you have, but who you are. Replica Set I find that the harder I work, the more luck I seem to have. Artificial Intelligence Blockchain WebSockets CI/CD Containerization
+Success is how high you bounce when you hit bottom. Kafka WebSockets Stay hungry, stay foolish. Big Data DevOps Algorithm
