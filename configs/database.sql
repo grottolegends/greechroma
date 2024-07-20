@@ -19,3 +19,4 @@ Server Response Big Data Quantum Computing Deployment Microservices Machine Lear
 Kafka Database Load Testing Parallel Processing Firewalls Frontend Docker Algorithm Automation To be the best, you must be able to handle the worst. Event Sourcing Microservices
 Quantum Computing JWT OAuth A/B Testing Deployment Cloud Database
 Lambda Functions Success is not in what you have, but who you are. Parallel Processing Load Testing Success doesn’t just find you. You have to go out and get it. Kubernetes Virtual Machines Kafka Microservices Simplicity is the ultimate sophistication. OAuth Distributed Systems
+API CI/CD Server Response Event-driven Architecture Machine Learning IoT Difficult roads often lead to beautiful destinations. API Gateway
