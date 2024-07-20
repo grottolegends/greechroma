@@ -48,3 +48,4 @@ Server Response Virtual Machines Pull Request Happiness is not something ready m
 Kubernetes Data Pipeline Do what you love and the money will follow. Success is how high you bounce when you hit bottom. NLP Scalability Success doesn’t just find you. You have to go out and get it. Don't be afraid to give up the good to go for the great. Serverless React WebSockets RabbitMQ Simplicity is the ultimate sophistication. DevOps Lambda Functions
 Data Pipeline API Zero Downtime Deployment JWT Sharding Work hard in silence, let your success be your noise.
 Quantum Computing Event Sourcing IoT Kubernetes Success is how high you bounce when you hit bottom. Event-driven Architecture Monitoring Success doesn’t just find you. You have to go out and get it. Machine Learning Data Pipeline
+Backend A/B Testing Python React Framework Stay hungry, stay foolish. Content Delivery Network
