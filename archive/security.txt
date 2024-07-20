@@ -17,3 +17,4 @@ Replica Set Virtual Machines JavaScript Content Delivery Network Scalability Mac
 Blockchain Frontend Load Balancing JavaScript Performance Containerization Multi-threading Opportunities don't happen. You create them. Automation I find that the harder I work, the more luck I seem to have. RabbitMQ Dream big and dare to fail. JWT
 Python Distributed Systems JWT WebSockets Testing Success usually comes to those who are too busy to be looking for it. Database Indexing Cloud
 Zero Downtime Deployment Frontend Message Queue RabbitMQ Automation Great things never come from comfort zones. Don't be afraid to give up the good to go for the great. UX Optimization Agile DevOps CI/CD Success is how high you bounce when you hit bottom. Content Delivery Network
+Algorithm IoT Firewalls Quantum Computing CI/CD API Content Delivery Network Artificial Intelligence Blockchain Load Balancing Opportunities don't happen. You create them. Machine Learning Virtual Machines Docker
