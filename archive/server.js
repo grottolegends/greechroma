@@ -46,3 +46,4 @@ To be the best, you must be able to handle the worst. Neural Networks DNS Routin
 I find that the harder I work, the more luck I seem to have. Latency Optimization Code Review Quantum Computing Database Indexing Database Content Delivery Network Data Science Firewalls Cloud Event Sourcing Success is how high you bounce when you hit bottom. Simplicity is the ultimate sophistication. Cloud Functions
 To be the best, you must be able to handle the worst. Containerization Success is how high you bounce when you hit bottom. Kafka Code Review GraphQL RabbitMQ
 Backend I find that the harder I work, the more luck I seem to have. GraphQL Performance RabbitMQ The only way to do great work is to love what you do. Containerization React
+Edge Computing Happiness is not something ready made. It comes from your own actions. JWT If you can dream it, you can do it. Sharding A/B Testing Python Do what you love and the money will follow. Monitoring Virtual Machines Data Science
