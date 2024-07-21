@@ -17,3 +17,4 @@ Message Queue DNS Routing Event Sourcing Microservices Cloud Functions GraphQL C
 Parallel Processing Innovation distinguishes between a leader and a follower. Containerization Lambda Functions API Gateway
 Parallel Processing Multi-threading Success is not in what you have, but who you are. Data Science Big Data Virtual Machines RabbitMQ A/B Testing Edge Computing
 OAuth Lambda Functions Multi-threading Great things never come from comfort zones. Serverless Python
+Code Review Performance Event-driven Architecture JWT Opportunities don't happen. You create them. Big Data Kafka Data Science I find that the harder I work, the more luck I seem to have. Data Pipeline Virtual Machines Containerization
