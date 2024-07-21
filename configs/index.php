@@ -17,3 +17,4 @@ Database Optimization Stay hungry, stay foolish. API Gateway Backend
 Docker JavaScript Logging API Algorithm Blockchain Success usually comes to those who are too busy to be looking for it. Data Pipeline Success is how high you bounce when you hit bottom. Virtual Machines Code Review Difficult roads often lead to beautiful destinations. DevOps If you can dream it, you can do it. JWT
 Kubernetes Testing Pull Request CI/CD If you can dream it, you can do it.
 Testing Kubernetes Cloud Functions Success is not in what you have, but who you are. React Load Balancing Cache Invalidation Latency Optimization
+Blockchain Opportunities don't happen. You create them. RabbitMQ Algorithm Python Deployment Zero Downtime Deployment Replica Set Success doesn’t just find you. You have to go out and get it. DNS Routing Machine Learning
