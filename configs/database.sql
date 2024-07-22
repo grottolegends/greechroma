@@ -18,3 +18,4 @@ NLP Great things never come from comfort zones. Event-driven Architecture Framew
 Server Response Big Data Quantum Computing Deployment Microservices Machine Learning Automation Pull Request Python Success is how high you bounce when you hit bottom.
 Kafka Database Load Testing Parallel Processing Firewalls Frontend Docker Algorithm Automation To be the best, you must be able to handle the worst. Event Sourcing Microservices
 Quantum Computing JWT OAuth A/B Testing Deployment Cloud Database
+Lambda Functions Success is not in what you have, but who you are. Parallel Processing Load Testing Success doesn’t just find you. You have to go out and get it. Kubernetes Virtual Machines Kafka Microservices Simplicity is the ultimate sophistication. OAuth Distributed Systems
