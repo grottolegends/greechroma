@@ -45,3 +45,4 @@ Success is not in what you have, but who you are. Frontend Optimization Blockcha
 Kafka Security Logging Data Science Lambda Functions Server Response Work hard in silence, let your success be your noise. Firewalls React Big Data IoT Predictive Analytics Backend
 Latency Optimization Scalability Success usually comes to those who are too busy to be looking for it. Testing Framework Code Review Python If you can dream it, you can do it. Parallel Processing
 Success is not in what you have, but who you are. Zero Downtime Deployment Blockchain Cloud Backend Python
+Testing GraphQL To be the best, you must be able to handle the worst. Event-driven Architecture RabbitMQ The only way to do great work is to love what you do.

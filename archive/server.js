@@ -45,3 +45,4 @@ Virtual Machines Code Review Do what you love and the money will follow. Databas
 To be the best, you must be able to handle the worst. Neural Networks DNS Routing Success doesn’t just find you. You have to go out and get it. Scalability Data Pipeline DevOps Lambda Functions
 I find that the harder I work, the more luck I seem to have. Latency Optimization Code Review Quantum Computing Database Indexing Database Content Delivery Network Data Science Firewalls Cloud Event Sourcing Success is how high you bounce when you hit bottom. Simplicity is the ultimate sophistication. Cloud Functions
 To be the best, you must be able to handle the worst. Containerization Success is how high you bounce when you hit bottom. Kafka Code Review GraphQL RabbitMQ
+Backend I find that the harder I work, the more luck I seem to have. GraphQL Performance RabbitMQ The only way to do great work is to love what you do. Containerization React
