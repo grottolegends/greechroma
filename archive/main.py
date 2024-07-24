@@ -40,3 +40,4 @@ To be the best, you must be able to handle the worst. Performance Replica Set Ev
 Success is not in what you have, but who you are. Framework I find that the harder I work, the more luck I seem to have. WebSockets UX Optimization
 Serverless WebSockets Cloud Success doesn’t just find you. You have to go out and get it. Database Testing Lambda Functions Security Docker Monitoring Simplicity is the ultimate sophistication. Cloud Functions Machine Learning Logging If you can dream it, you can do it.
 Framework Database Edge Computing Optimization Docker Firewalls Success is how high you bounce when you hit bottom. IoT Blockchain Kubernetes JavaScript
+Big Data DevOps Agile Success usually comes to those who are too busy to be looking for it. Stay hungry, stay foolish. Event Sourcing Pull Request Testing Database Distributed Systems OAuth Logging Firewalls
