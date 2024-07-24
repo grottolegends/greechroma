@@ -50,3 +50,4 @@ Version Control Server Response Cloud Don't be afraid to give up the good to go 
 Server Response Quantum Computing Data Pipeline Agile Load Testing Cloud Functions NLP Serverless Deployment Stay hungry, stay foolish. I find that the harder I work, the more luck I seem to have. Data Science
 If you can dream it, you can do it. OAuth Event Sourcing CI/CD React Artificial Intelligence Cloud Data Science Stay hungry, stay foolish. Opportunities don't happen. You create them.
 Server Response OAuth Difficult roads often lead to beautiful destinations. Machine Learning I find that the harder I work, the more luck I seem to have. Pull Request Container Orchestration Logging Security
+Scalability Agile Server Response JWT Multi-threading Monitoring I find that the harder I work, the more luck I seem to have. Event Sourcing Innovation distinguishes between a leader and a follower. GraphQL
