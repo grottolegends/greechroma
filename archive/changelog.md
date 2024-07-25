@@ -20,3 +20,4 @@ Multi-threading Automation GraphQL Database Indexing Security Distributed System
 Event-driven Architecture Great things never come from comfort zones. Machine Learning NLP A/B Testing API Gateway Pull Request Container Orchestration Difficult roads often lead to beautiful destinations. Database Indexing
 Containerization Agile A/B Testing To be the best, you must be able to handle the worst. JavaScript Success is not in what you have, but who you are. Serverless
 Difficult roads often lead to beautiful destinations. Artificial Intelligence Edge Computing API NLP
+Artificial Intelligence Machine Learning Cache Invalidation Frontend Lambda Functions Performance Success usually comes to those who are too busy to be looking for it. Neural Networks Stay hungry, stay foolish. Automation Virtual Machines Sharding A/B Testing
