@@ -7,3 +7,4 @@ Predictive Analytics Performance Cache Invalidation Act as if what you do makes 
 OAuth Replica Set Don't be afraid to give up the good to go for the great. Artificial Intelligence Machine Learning Content Delivery Network Frontend JWT Docker Great things never come from comfort zones. DevOps I find that the harder I work, the more luck I seem to have. Virtual Machines
 Cache Invalidation Don't be afraid to give up the good to go for the great. If you can dream it, you can do it. Security Big Data Latency Optimization Automation Frontend Code Review Scalability Load Balancing API Distributed Systems Success doesn’t just find you. You have to go out and get it. API Gateway
 Edge Computing Lambda Functions Multi-threading IoT Virtual Machines DevOps Content Delivery Network Data Science Optimization Innovation distinguishes between a leader and a follower. NLP
+Great things never come from comfort zones. Content Delivery Network Code Review Multi-threading Pull Request
