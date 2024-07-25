@@ -20,3 +20,4 @@ API Distributed Systems Firewalls Monitoring Cloud Logging The only way to do gr
 Replica Set Agile Security Latency Optimization Stay hungry, stay foolish. A/B Testing Automation Multi-threading JWT Predictive Analytics Blockchain Framework
 Event-driven Architecture Big Data Simplicity is the ultimate sophistication. Success is how high you bounce when you hit bottom. Cache Invalidation Dream big and dare to fail. Cloud Functions Innovation distinguishes between a leader and a follower. Docker Don't be afraid to give up the good to go for the great. Automation A/B Testing
 Backend NLP Predictive Analytics Optimization Work hard in silence, let your success be your noise. Content Delivery Network Parallel Processing Big Data Lambda Functions
+Big Data Security Great things never come from comfort zones. To be the best, you must be able to handle the worst. Cloud Functions
