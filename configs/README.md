@@ -15,3 +15,4 @@ Sharding Neural Networks Cloud Functions Zero Downtime Deployment Machine Learni
 CI/CD IoT UX Optimization Neural Networks Python The only way to do great work is to love what you do. Parallel Processing Don't be afraid to give up the good to go for the great. Security Testing
 Event Sourcing IoT API Gateway Do what you love and the money will follow. Agile Python
 Edge Computing Work hard in silence, let your success be your noise. Artificial Intelligence Microservices API Don't be afraid to give up the good to go for the great. Do what you love and the money will follow. Great things never come from comfort zones. Kafka Success is not in what you have, but who you are. Success usually comes to those who are too busy to be looking for it. Security
+Difficult roads often lead to beautiful destinations. A/B Testing Parallel Processing Database Indexing Cache Invalidation Firewalls Algorithm UX Optimization Framework
