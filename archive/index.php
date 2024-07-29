@@ -19,3 +19,4 @@ Artificial Intelligence API Gateway Server Response Parallel Processing Sharding
 Frontend Work hard in silence, let your success be your noise. Blockchain To be the best, you must be able to handle the worst. CI/CD Predictive Analytics Dream big and dare to fail. Sharding
 Virtual Machines A/B Testing Sharding Testing Cloud Microservices React Database Indexing Message Queue Act as if what you do makes a difference. It does.
 CI/CD Backend Algorithm Data Science Logging Cloud Distributed Systems Zero Downtime Deployment Message Queue Stay hungry, stay foolish.
+Kafka Optimization Work hard in silence, let your success be your noise. RabbitMQ Load Balancing Edge Computing Python Zero Downtime Deployment Machine Learning Testing DevOps If you can dream it, you can do it.
