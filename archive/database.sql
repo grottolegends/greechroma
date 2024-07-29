@@ -24,3 +24,4 @@ Logging Server Response Security Algorithm GraphQL Cache Invalidation DevOps Fro
 Serverless Work hard in silence, let your success be your noise. A/B Testing DevOps Logging Multi-threading Database Indexing Edge Computing Zero Downtime Deployment Opportunities don't happen. You create them.
 JavaScript Predictive Analytics Firewalls Happiness is not something ready made. It comes from your own actions. OAuth Simplicity is the ultimate sophistication. Server Response Data Science Distributed Systems To be the best, you must be able to handle the worst. Kubernetes Code Review
 Cloud WebSockets Success is how high you bounce when you hit bottom. Zero Downtime Deployment Server Response Automation Success usually comes to those who are too busy to be looking for it. Kubernetes Version Control Container Orchestration
+Optimization Event Sourcing Data Pipeline Message Queue CI/CD Algorithm Act as if what you do makes a difference. It does. Stay hungry, stay foolish.
