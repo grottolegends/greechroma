@@ -15,3 +15,4 @@ CI/CD Cloud Functions Big Data Kafka Performance Multi-threading Algorithm Loggi
 NLP Success is how high you bounce when you hit bottom. Container Orchestration Cloud Automation Pull Request CI/CD
 Message Queue DNS Routing Event Sourcing Microservices Cloud Functions GraphQL Content Delivery Network Docker Success usually comes to those who are too busy to be looking for it. I find that the harder I work, the more luck I seem to have.
 Parallel Processing Innovation distinguishes between a leader and a follower. Containerization Lambda Functions API Gateway
+Parallel Processing Multi-threading Success is not in what you have, but who you are. Data Science Big Data Virtual Machines RabbitMQ A/B Testing Edge Computing
