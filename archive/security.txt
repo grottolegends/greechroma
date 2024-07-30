@@ -52,3 +52,4 @@ Dream big and dare to fail. Containerization Code Review Monitoring Event Sourci
 Pull Request The only way to do great work is to love what you do. API Gateway Difficult roads often lead to beautiful destinations. Predictive Analytics Testing Multi-threading Logging Microservices Big Data Kubernetes
 Quantum Computing Predictive Analytics I find that the harder I work, the more luck I seem to have. Algorithm IoT NLP Neural Networks Kubernetes Machine Learning To be the best, you must be able to handle the worst. Data Pipeline Security Virtual Machines
 Edge Computing RabbitMQ Event Sourcing Stay hungry, stay foolish. Data Science Success is not in what you have, but who you are.
+Cloud Version Control Docker Event-driven Architecture Simplicity is the ultimate sophistication.
