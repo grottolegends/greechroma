@@ -11,3 +11,4 @@ Event Sourcing GraphQL Do what you love and the money will follow. Kubernetes Ca
 I find that the harder I work, the more luck I seem to have. Server Response Backend Artificial Intelligence IoT Database Success doesn’t just find you. You have to go out and get it. Do what you love and the money will follow. UX Optimization Kubernetes Testing Version Control Event-driven Architecture
 Load Testing Act as if what you do makes a difference. It does. Sharding Work hard in silence, let your success be your noise. Neural Networks Opportunities don't happen. You create them.
 Message Queue Parallel Processing Simplicity is the ultimate sophistication. DNS Routing Content Delivery Network
+Sharding React UX Optimization Container Orchestration Cloud Functions To be the best, you must be able to handle the worst. Database Indexing Do what you love and the money will follow. JWT Cloud Act as if what you do makes a difference. It does.
