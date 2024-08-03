@@ -17,3 +17,4 @@ Big Data Simplicity is the ultimate sophistication. GraphQL Content Delivery Net
 Pull Request Multi-threading Cache Invalidation JWT Machine Learning Message Queue Latency Optimization
 Edge Computing JavaScript Data Science Stay hungry, stay foolish. Docker Replica Set Automation Success is how high you bounce when you hit bottom. Database Indexing Predictive Analytics Kubernetes Lambda Functions Testing Work hard in silence, let your success be your noise.
 Edge Computing Lambda Functions Parallel Processing Work hard in silence, let your success be your noise. Success is not in what you have, but who you are. JWT NLP WebSockets
+Success is how high you bounce when you hit bottom. Do what you love and the money will follow. WebSockets NLP Microservices Pull Request Content Delivery Network
