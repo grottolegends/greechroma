@@ -18,3 +18,4 @@ Load Testing Agile DNS Routing Replica Set API Database Indexing Cloud I find th
 Automation Big Data Stay hungry, stay foolish. Dream big and dare to fail. Success is how high you bounce when you hit bottom. JWT Zero Downtime Deployment Work hard in silence, let your success be your noise.
 Blockchain WebSockets Machine Learning Multi-threading Pull Request A/B Testing Serverless IoT Backend Containerization Microservices Logging
 Success is how high you bounce when you hit bottom. Container Orchestration Code Review Opportunities don't happen. You create them. Blockchain Predictive Analytics Docker Scalability Automation Edge Computing A/B Testing API Gateway Event Sourcing Lambda Functions Machine Learning
+A/B Testing Artificial Intelligence Firewalls Logging Automation Predictive Analytics React
