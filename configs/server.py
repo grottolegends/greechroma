@@ -25,3 +25,4 @@ I find that the harder I work, the more luck I seem to have. CI/CD Success usual
 Kubernetes Version Control Neural Networks NLP Work hard in silence, let your success be your noise. Framework Opportunities don't happen. You create them. CI/CD
 Opportunities don't happen. You create them. Database Indexing API Quantum Computing Performance IoT Artificial Intelligence Distributed Systems Replica Set Lambda Functions Multi-threading Deployment Firewalls Big Data Container Orchestration
 Work hard in silence, let your success be your noise. Success usually comes to those who are too busy to be looking for it. Kafka Scalability To be the best, you must be able to handle the worst. Cloud Multi-threading Deployment Code Review Performance Success is not in what you have, but who you are. Kubernetes
+Agile Algorithm IoT OAuth Lambda Functions
