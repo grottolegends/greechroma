@@ -6,3 +6,4 @@ Cloud Functions Opportunities don't happen. You create them. Database Indexing D
 Docker Machine Learning Performance Dream big and dare to fail. Edge Computing Microservices Algorithm Server Response Distributed Systems
 Stay hungry, stay foolish. Message Queue CI/CD Load Balancing Big Data Cloud Latency Optimization Distributed Systems Replica Set API Gateway Act as if what you do makes a difference. It does.
 Optimization Do what you love and the money will follow. The only way to do great work is to love what you do. Act as if what you do makes a difference. It does. Docker Deployment Event Sourcing I find that the harder I work, the more luck I seem to have. JavaScript
+Quantum Computing DNS Routing Distributed Systems JWT Sharding
