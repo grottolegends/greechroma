@@ -13,3 +13,4 @@ Containerization Happiness is not something ready made. It comes from your own a
 Load Balancing Python Latency Optimization Database Automation To be the best, you must be able to handle the worst. I find that the harder I work, the more luck I seem to have. Microservices Stay hungry, stay foolish. Work hard in silence, let your success be your noise. Firewalls Frontend Opportunities don't happen. You create them.
 CI/CD Cloud Functions Big Data Kafka Performance Multi-threading Algorithm Logging
 NLP Success is how high you bounce when you hit bottom. Container Orchestration Cloud Automation Pull Request CI/CD
+Message Queue DNS Routing Event Sourcing Microservices Cloud Functions GraphQL Content Delivery Network Docker Success usually comes to those who are too busy to be looking for it. I find that the harder I work, the more luck I seem to have.

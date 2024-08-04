@@ -10,3 +10,4 @@ Framework Artificial Intelligence Zero Downtime Deployment Agile Security Virtua
 RabbitMQ Don't be afraid to give up the good to go for the great. Python IoT Simplicity is the ultimate sophistication.
 Cloud Backend Kafka Sharding Big Data Framework Automation Testing Data Science Stay hungry, stay foolish. Performance Serverless Lambda Functions
 Replica Set RabbitMQ Neural Networks Success is not in what you have, but who you are. Act as if what you do makes a difference. It does. Logging Database Security Cloud Microservices Event-driven Architecture Big Data DNS Routing
+Agile Serverless I find that the harder I work, the more luck I seem to have. Latency Optimization The only way to do great work is to love what you do. Server Response IoT
