@@ -48,3 +48,4 @@ Container Orchestration Virtual Machines Kafka Security RabbitMQ I find that the
 Great things never come from comfort zones. Code Review Automation Simplicity is the ultimate sophistication. The only way to do great work is to love what you do. Replica Set Stay hungry, stay foolish. Event-driven Architecture GraphQL
 React Difficult roads often lead to beautiful destinations. Pull Request Innovation distinguishes between a leader and a follower. Data Pipeline Agile
 Big Data Edge Computing Automation Kafka Predictive Analytics Kubernetes
+Serverless Firewalls Code Review Container Orchestration Neural Networks Virtual Machines Cache Invalidation Security Logging Data Pipeline Data Science Kubernetes Deployment Database
