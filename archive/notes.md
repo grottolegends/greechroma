@@ -18,3 +18,4 @@ Cache Invalidation Code Review Event Sourcing IoT RabbitMQ OAuth Python Load Tes
 Logging Parallel Processing Difficult roads often lead to beautiful destinations. Serverless Machine Learning React Kafka Act as if what you do makes a difference. It does. Pull Request Framework Backend Event Sourcing Replica Set
 Microservices Performance Innovation distinguishes between a leader and a follower. UX Optimization Success is not in what you have, but who you are. JavaScript Great things never come from comfort zones. Firewalls React Do what you love and the money will follow.
 Cloud Scalability Lambda Functions Framework Parallel Processing
+Success is how high you bounce when you hit bottom. Automation Cache Invalidation Sharding Agile Success doesn’t just find you. You have to go out and get it. Replica Set
