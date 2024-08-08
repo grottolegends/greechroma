@@ -16,3 +16,4 @@ DevOps Stay hungry, stay foolish. Success usually comes to those who are too bus
 Data Science To be the best, you must be able to handle the worst. GraphQL Cache Invalidation React Great things never come from comfort zones. Performance Innovation distinguishes between a leader and a follower. Pull Request Event-driven Architecture
 Backend RabbitMQ Cloud Functions Cloud The only way to do great work is to love what you do. Serverless I find that the harder I work, the more luck I seem to have. JavaScript Monitoring Distributed Systems
 Event Sourcing Automation RabbitMQ GraphQL Server Response Happiness is not something ready made. It comes from your own actions.
+Database Indexing Latency Optimization Microservices Success doesn’t just find you. You have to go out and get it. Backend Kubernetes Sharding Success is how high you bounce when you hit bottom. WebSockets Replica Set

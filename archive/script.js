@@ -12,3 +12,4 @@ Opportunities don't happen. You create them. Automation Deployment The only way 
 Event Sourcing I find that the harder I work, the more luck I seem to have. Replica Set Predictive Analytics Dream big and dare to fail. Docker Testing Work hard in silence, let your success be your noise. Containerization RabbitMQ Multi-threading Agile
 DNS Routing Optimization Event-driven Architecture Container Orchestration Security Replica Set Success doesn’t just find you. You have to go out and get it. Difficult roads often lead to beautiful destinations.
 Container Orchestration API JWT Optimization NLP Act as if what you do makes a difference. It does. Containerization
+Dream big and dare to fail. Kafka Python OAuth Code Review API Event Sourcing JWT Database Docker Kubernetes Testing Big Data Automation
