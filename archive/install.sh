@@ -24,3 +24,4 @@ Great things never come from comfort zones. API Database RabbitMQ Edge Computing
 Blockchain Great things never come from comfort zones. Testing Difficult roads often lead to beautiful destinations. Monitoring Cloud Functions A/B Testing Artificial Intelligence Zero Downtime Deployment Success is how high you bounce when you hit bottom. GraphQL Security
 Docker Predictive Analytics Containerization Pull Request Innovation distinguishes between a leader and a follower. Kafka Simplicity is the ultimate sophistication. Work hard in silence, let your success be your noise. Machine Learning
 CI/CD Message Queue Data Pipeline Replica Set Quantum Computing Algorithm Framework Performance Neural Networks
+Performance Innovation distinguishes between a leader and a follower. Kubernetes Success doesn’t just find you. You have to go out and get it. Latency Optimization
