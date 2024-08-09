@@ -50,3 +50,4 @@ RabbitMQ Optimization Cloud Functions Microservices Load Testing I find that the
 Frontend Framework Containerization Do what you love and the money will follow. Artificial Intelligence API Gateway Automation Dream big and dare to fail.
 OAuth Kubernetes Do what you love and the money will follow. Difficult roads often lead to beautiful destinations. Big Data UX Optimization Neural Networks Cache Invalidation
 Don't be afraid to give up the good to go for the great. Virtual Machines Database Event-driven Architecture Blockchain Success usually comes to those who are too busy to be looking for it. Logging Automation GraphQL Zero Downtime Deployment Lambda Functions A/B Testing Success doesn’t just find you. You have to go out and get it.
+Cache Invalidation Serverless Do what you love and the money will follow. Replica Set Don't be afraid to give up the good to go for the great. Machine Learning Blockchain Automation Python
