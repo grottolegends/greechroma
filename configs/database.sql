@@ -16,3 +16,4 @@ Success is not in what you have, but who you are. Success is how high you bounce
 Great things never come from comfort zones. Code Review Load Balancing Do what you love and the money will follow. Agile
 NLP Great things never come from comfort zones. Event-driven Architecture Framework Blockchain Predictive Analytics Edge Computing Happiness is not something ready made. It comes from your own actions. Replica Set Backend Kafka
 Server Response Big Data Quantum Computing Deployment Microservices Machine Learning Automation Pull Request Python Success is how high you bounce when you hit bottom.
+Kafka Database Load Testing Parallel Processing Firewalls Frontend Docker Algorithm Automation To be the best, you must be able to handle the worst. Event Sourcing Microservices

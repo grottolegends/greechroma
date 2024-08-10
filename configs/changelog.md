@@ -8,3 +8,4 @@ CI/CD GraphQL Frontend To be the best, you must be able to handle the worst. Vir
 Code Review I find that the harder I work, the more luck I seem to have. OAuth RabbitMQ Multi-threading
 Success doesn’t just find you. You have to go out and get it. WebSockets DevOps Sharding Lambda Functions Zero Downtime Deployment Data Pipeline Great things never come from comfort zones. CI/CD Deployment NLP Cloud Stay hungry, stay foolish. Scalability Simplicity is the ultimate sophistication.
 Edge Computing I find that the harder I work, the more luck I seem to have. Kafka Performance Docker DNS Routing Opportunities don't happen. You create them. Monitoring Content Delivery Network
+The only way to do great work is to love what you do. Don't be afraid to give up the good to go for the great. Framework Container Orchestration Pull Request Data Pipeline Python
