@@ -43,3 +43,4 @@ Database Indexing Data Pipeline Artificial Intelligence Happiness is not somethi
 Act as if what you do makes a difference. It does. Version Control Replica Set Deployment Predictive Analytics Lambda Functions Machine Learning Logging Firewalls
 Dream big and dare to fail. Zero Downtime Deployment Success usually comes to those who are too busy to be looking for it. Docker Artificial Intelligence Happiness is not something ready made. It comes from your own actions. IoT
 Latency Optimization Automation Frontend Sharding Replica Set Edge Computing Happiness is not something ready made. It comes from your own actions. Security To be the best, you must be able to handle the worst. Machine Learning NLP
+Microservices Logging Neural Networks IoT Success usually comes to those who are too busy to be looking for it. A/B Testing The only way to do great work is to love what you do.
