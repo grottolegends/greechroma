@@ -23,3 +23,4 @@ Kubernetes GraphQL Blockchain Code Review Performance Content Delivery Network V
 Logging Distributed Systems GraphQL Monitoring Cloud Functions Agile Docker Database Container Orchestration Lambda Functions Security
 Code Review Distributed Systems Success is how high you bounce when you hit bottom. Multi-threading Backend DevOps CI/CD Cloud
 OAuth API Gateway I find that the harder I work, the more luck I seem to have. Edge Computing API Big Data Container Orchestration Zero Downtime Deployment Data Science Work hard in silence, let your success be your noise. Kafka Lambda Functions Logging
+Serverless Cloud Functions Version Control Great things never come from comfort zones. Load Testing React Lambda Functions Docker Automation Dream big and dare to fail. Stay hungry, stay foolish. Virtual Machines Act as if what you do makes a difference. It does. Difficult roads often lead to beautiful destinations. Machine Learning

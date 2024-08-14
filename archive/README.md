@@ -21,3 +21,4 @@ Database Indexing CI/CD Serverless Innovation distinguishes between a leader and
 Serverless Load Testing JWT Great things never come from comfort zones. Content Delivery Network DevOps Message Queue
 Work hard in silence, let your success be your noise. Scalability Success doesn’t just find you. You have to go out and get it. Virtual Machines Event-driven Architecture Latency Optimization Testing Microservices DevOps
 Sharding Microservices Do what you love and the money will follow. UX Optimization Kubernetes Version Control Quantum Computing The only way to do great work is to love what you do. Replica Set Scalability
+Python Cloud Microservices Docker UX Optimization Cache Invalidation Success usually comes to those who are too busy to be looking for it. Database Testing Performance
