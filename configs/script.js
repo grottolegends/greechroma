@@ -9,3 +9,4 @@ NLP Server Response IoT Edge Computing Database Agile Event-driven Architecture 
 Framework Artificial Intelligence Zero Downtime Deployment Agile Security Virtual Machines Happiness is not something ready made. It comes from your own actions. Kubernetes Distributed Systems Backend Monitoring Firewalls Server Response
 RabbitMQ Don't be afraid to give up the good to go for the great. Python IoT Simplicity is the ultimate sophistication.
 Cloud Backend Kafka Sharding Big Data Framework Automation Testing Data Science Stay hungry, stay foolish. Performance Serverless Lambda Functions
+Replica Set RabbitMQ Neural Networks Success is not in what you have, but who you are. Act as if what you do makes a difference. It does. Logging Database Security Cloud Microservices Event-driven Architecture Big Data DNS Routing
