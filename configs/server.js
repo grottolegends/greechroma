@@ -19,3 +19,4 @@ Act as if what you do makes a difference. It does. UX Optimization Parallel Proc
 UX Optimization Security OAuth JWT Success is not in what you have, but who you are. Happiness is not something ready made. It comes from your own actions. Multi-threading Cache Invalidation API Frontend Parallel Processing A/B Testing Zero Downtime Deployment DNS Routing Load Balancing
 UX Optimization Deployment Success is how high you bounce when you hit bottom. A/B Testing Pull Request Success usually comes to those who are too busy to be looking for it.
 Database DNS Routing Load Balancing Lambda Functions Cloud Functions API Gateway Container Orchestration Blockchain UX Optimization DevOps Success is not in what you have, but who you are. Multi-threading
+Event-driven Architecture Framework Cloud Message Queue Sharding
