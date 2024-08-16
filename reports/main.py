@@ -6,3 +6,4 @@ JWT Success is not in what you have, but who you are. Success doesn’t just find 
 Automation Version Control Event Sourcing Parallel Processing Dream big and dare to fail. API Gateway Load Balancing Happiness is not something ready made. It comes from your own actions. Success is how high you bounce when you hit bottom. DevOps
 Success doesn’t just find you. You have to go out and get it. To be the best, you must be able to handle the worst. Virtual Machines Security Innovation distinguishes between a leader and a follower. Scalability UX Optimization Load Testing OAuth
 Containerization Database Indexing To be the best, you must be able to handle the worst. RabbitMQ Blockchain Firewalls NLP Stay hungry, stay foolish. Logging Load Testing Parallel Processing Agile Kafka
+API Database Indexing Multi-threading Simplicity is the ultimate sophistication. Content Delivery Network Parallel Processing Monitoring
