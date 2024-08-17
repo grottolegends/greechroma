@@ -22,3 +22,4 @@ Difficult roads often lead to beautiful destinations. Algorithm NLP Dream big an
 Kubernetes GraphQL Blockchain Code Review Performance Content Delivery Network Virtual Machines WebSockets Parallel Processing Serverless
 Logging Distributed Systems GraphQL Monitoring Cloud Functions Agile Docker Database Container Orchestration Lambda Functions Security
 Code Review Distributed Systems Success is how high you bounce when you hit bottom. Multi-threading Backend DevOps CI/CD Cloud
+OAuth API Gateway I find that the harder I work, the more luck I seem to have. Edge Computing API Big Data Container Orchestration Zero Downtime Deployment Data Science Work hard in silence, let your success be your noise. Kafka Lambda Functions Logging
