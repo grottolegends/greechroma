@@ -34,3 +34,4 @@ Database Indexing I find that the harder I work, the more luck I seem to have. D
 DNS Routing Kubernetes Stay hungry, stay foolish. To be the best, you must be able to handle the worst. Kafka
 Database Pull Request Cloud Data Science A/B Testing Act as if what you do makes a difference. It does. DevOps Don't be afraid to give up the good to go for the great. Cloud Functions If you can dream it, you can do it. Container Orchestration React Predictive Analytics
 Virtual Machines Version Control Cache Invalidation Pull Request The only way to do great work is to love what you do. Serverless Innovation distinguishes between a leader and a follower. Content Delivery Network Microservices Kubernetes Predictive Analytics Performance Optimization
+Success usually comes to those who are too busy to be looking for it. Big Data Cloud React Content Delivery Network Monitoring Backend Quantum Computing Blockchain Lambda Functions Logging
