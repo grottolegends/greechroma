@@ -14,3 +14,4 @@ Logging OAuth The only way to do great work is to love what you do. Blockchain M
 Event Sourcing Performance Machine Learning Optimization Load Balancing Artificial Intelligence Database Deployment Monitoring DevOps Distributed Systems JavaScript JWT
 JWT Event Sourcing Microservices RabbitMQ Machine Learning
 Lambda Functions API Code Review Cache Invalidation Work hard in silence, let your success be your noise. API Gateway Kubernetes Great things never come from comfort zones.
+Quantum Computing Event-driven Architecture Act as if what you do makes a difference. It does. Replica Set Load Balancing RabbitMQ Sharding Work hard in silence, let your success be your noise. Containerization Security Data Pipeline Logging Microservices Kubernetes
