@@ -14,3 +14,4 @@ Dream big and dare to fail. Neural Networks Zero Downtime Deployment Success is 
 Event Sourcing Quantum Computing Optimization Server Response Virtual Machines Logging Multi-threading UX Optimization Event-driven Architecture
 If you can dream it, you can do it. Firewalls Opportunities don't happen. You create them. Performance Data Science Big Data Neural Networks Containerization RabbitMQ
 Kubernetes Sharding Algorithm Event-driven Architecture Lambda Functions If you can dream it, you can do it. Backend
+Backend Content Delivery Network Machine Learning Containerization The only way to do great work is to love what you do. Big Data GraphQL Database Indexing

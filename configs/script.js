@@ -8,3 +8,4 @@ JWT UX Optimization Cloud Logging Frontend Code Review Framework IoT Containeriz
 NLP Server Response IoT Edge Computing Database Agile Event-driven Architecture Message Queue UX Optimization Innovation distinguishes between a leader and a follower. Opportunities don't happen. You create them. Cloud Functions Cache Invalidation
 Framework Artificial Intelligence Zero Downtime Deployment Agile Security Virtual Machines Happiness is not something ready made. It comes from your own actions. Kubernetes Distributed Systems Backend Monitoring Firewalls Server Response
 RabbitMQ Don't be afraid to give up the good to go for the great. Python IoT Simplicity is the ultimate sophistication.
+Cloud Backend Kafka Sharding Big Data Framework Automation Testing Data Science Stay hungry, stay foolish. Performance Serverless Lambda Functions
