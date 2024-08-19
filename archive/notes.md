@@ -17,3 +17,4 @@ Success is how high you bounce when you hit bottom. The only way to do great wor
 Cache Invalidation Code Review Event Sourcing IoT RabbitMQ OAuth Python Load Testing Database Indexing Act as if what you do makes a difference. It does. Happiness is not something ready made. It comes from your own actions.
 Logging Parallel Processing Difficult roads often lead to beautiful destinations. Serverless Machine Learning React Kafka Act as if what you do makes a difference. It does. Pull Request Framework Backend Event Sourcing Replica Set
 Microservices Performance Innovation distinguishes between a leader and a follower. UX Optimization Success is not in what you have, but who you are. JavaScript Great things never come from comfort zones. Firewalls React Do what you love and the money will follow.
+Cloud Scalability Lambda Functions Framework Parallel Processing

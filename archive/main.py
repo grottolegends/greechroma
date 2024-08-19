@@ -18,3 +18,4 @@ Code Review RabbitMQ Monitoring Server Response Cache Invalidation Container Orc
 Success is not in what you have, but who you are. Lambda Functions Docker Opportunities don't happen. You create them. Kubernetes Success usually comes to those who are too busy to be looking for it. JWT GraphQL
 Containerization Success is how high you bounce when you hit bottom. Distributed Systems Don't be afraid to give up the good to go for the great. Neural Networks DevOps Simplicity is the ultimate sophistication. Framework API Gateway
 Database Happiness is not something ready made. It comes from your own actions. Algorithm To be the best, you must be able to handle the worst. Container Orchestration WebSockets Opportunities don't happen. You create them. Framework IoT
+Kubernetes Virtual Machines Predictive Analytics Success usually comes to those who are too busy to be looking for it. Latency Optimization Backend Do what you love and the money will follow.
