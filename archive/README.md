@@ -18,3 +18,4 @@ Distributed Systems Replica Set Deployment React Data Science CI/CD Difficult ro
 Load Testing RabbitMQ I find that the harder I work, the more luck I seem to have. DNS Routing Python Version Control
 Deployment Zero Downtime Deployment Message Queue Agile GraphQL Backend Multi-threading
 Database Indexing CI/CD Serverless Innovation distinguishes between a leader and a follower. Event Sourcing Frontend Python Code Review Version Control Do what you love and the money will follow. Blockchain Logging Content Delivery Network
+Serverless Load Testing JWT Great things never come from comfort zones. Content Delivery Network DevOps Message Queue
