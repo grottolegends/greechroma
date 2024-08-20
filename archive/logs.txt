@@ -13,3 +13,4 @@ Machine Learning DevOps Cloud UX Optimization Cloud Functions Blockchain
 Logging OAuth The only way to do great work is to love what you do. Blockchain Multi-threading Great things never come from comfort zones. Do what you love and the money will follow. JWT RabbitMQ DevOps React A/B Testing Cloud Testing Event Sourcing
 Event Sourcing Performance Machine Learning Optimization Load Balancing Artificial Intelligence Database Deployment Monitoring DevOps Distributed Systems JavaScript JWT
 JWT Event Sourcing Microservices RabbitMQ Machine Learning
+Lambda Functions API Code Review Cache Invalidation Work hard in silence, let your success be your noise. API Gateway Kubernetes Great things never come from comfort zones.
