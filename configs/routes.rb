@@ -20,3 +20,4 @@ Code Review Load Balancing Framework Optimization Version Control Event-driven A
 If you can dream it, you can do it. API Gateway Success is not in what you have, but who you are. Neural Networks OAuth Kafka Event Sourcing DevOps Great things never come from comfort zones. Logging Don't be afraid to give up the good to go for the great. The only way to do great work is to love what you do. Frontend
 Big Data Performance Optimization Dream big and dare to fail. Pull Request
 A/B Testing Distributed Systems Logging DNS Routing Sharding Edge Computing Automation Data Pipeline Load Balancing Neural Networks Load Testing Simplicity is the ultimate sophistication. Do what you love and the money will follow.
+Zero Downtime Deployment Database Multi-threading The only way to do great work is to love what you do. Opportunities don't happen. You create them. Framework Kafka React Logging
