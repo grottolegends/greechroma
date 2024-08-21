@@ -41,3 +41,4 @@ Edge Computing Multi-threading Distributed Systems Virtual Machines Innovation d
 Data Science Docker Cloud IoT Logging DevOps
 Zero Downtime Deployment Artificial Intelligence Success doesn’t just find you. You have to go out and get it. Frontend WebSockets API Parallel Processing Great things never come from comfort zones. Framework I find that the harder I work, the more luck I seem to have. Kafka API Gateway
 WebSockets Edge Computing Event Sourcing Success doesn’t just find you. You have to go out and get it. GraphQL Lambda Functions Version Control Database Indexing Code Review If you can dream it, you can do it. Microservices Predictive Analytics
+Virtual Machines Code Review Do what you love and the money will follow. Database Indexing Act as if what you do makes a difference. It does. Algorithm Machine Learning Framework Performance Sharding RabbitMQ Deployment JavaScript
