@@ -48,3 +48,4 @@ Microservices JavaScript Event-driven Architecture Success is how high you bounc
 Lambda Functions Parallel Processing A/B Testing Docker Frontend Python Code Review Difficult roads often lead to beautiful destinations. Virtual Machines Success doesn’t just find you. You have to go out and get it. Blockchain Happiness is not something ready made. It comes from your own actions. Data Pipeline Neural Networks
 RabbitMQ Optimization Cloud Functions Microservices Load Testing I find that the harder I work, the more luck I seem to have. Event Sourcing Algorithm DNS Routing Great things never come from comfort zones. Pull Request
 Frontend Framework Containerization Do what you love and the money will follow. Artificial Intelligence API Gateway Automation Dream big and dare to fail.
+OAuth Kubernetes Do what you love and the money will follow. Difficult roads often lead to beautiful destinations. Big Data UX Optimization Neural Networks Cache Invalidation
