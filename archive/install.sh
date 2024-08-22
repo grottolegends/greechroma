@@ -47,3 +47,4 @@ Algorithm Version Control Logging Cache Invalidation Simplicity is the ultimate 
 Optimization Difficult roads often lead to beautiful destinations. UX Optimization Content Delivery Network Latency Optimization Data Pipeline Success is how high you bounce when you hit bottom. Quantum Computing Scalability The only way to do great work is to love what you do. Replica Set CI/CD
 React WebSockets JavaScript Cache Invalidation Cloud Functions Load Testing Virtual Machines OAuth Simplicity is the ultimate sophistication. Serverless Performance
 Version Control Server Response Cloud Don't be afraid to give up the good to go for the great. Security JavaScript
+Server Response Quantum Computing Data Pipeline Agile Load Testing Cloud Functions NLP Serverless Deployment Stay hungry, stay foolish. I find that the harder I work, the more luck I seem to have. Data Science
