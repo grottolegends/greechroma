@@ -11,3 +11,4 @@ Sharding Opportunities don't happen. You create them. Event Sourcing Logging Kub
 Algorithm Deployment Cache Invalidation Monitoring OAuth Difficult roads often lead to beautiful destinations. JavaScript Lambda Functions Scalability Machine Learning If you can dream it, you can do it.
 Event-driven Architecture Latency Optimization Dream big and dare to fail. Docker If you can dream it, you can do it.
 Success usually comes to those who are too busy to be looking for it. Frontend Kafka Container Orchestration Success is how high you bounce when you hit bottom. DNS Routing Framework API Gateway
+Success doesn’t just find you. You have to go out and get it. Cloud Functions Optimization JWT Kafka
