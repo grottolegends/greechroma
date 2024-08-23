@@ -24,3 +24,4 @@ React Cache Invalidation Work hard in silence, let your success be your noise. F
 Cache Invalidation Content Delivery Network JavaScript Algorithm Event Sourcing Machine Learning
 A/B Testing Big Data Sharding Happiness is not something ready made. It comes from your own actions. IoT Content Delivery Network React Edge Computing
 Act as if what you do makes a difference. It does. Neural Networks Opportunities don't happen. You create them. Microservices UX Optimization Serverless Firewalls Work hard in silence, let your success be your noise. Success doesn’t just find you. You have to go out and get it. Docker Lambda Functions
+Work hard in silence, let your success be your noise. Quantum Computing Server Response Success usually comes to those who are too busy to be looking for it. API Gateway Containerization Kafka Parallel Processing Innovation distinguishes between a leader and a follower. Neural Networks Stay hungry, stay foolish. WebSockets JavaScript

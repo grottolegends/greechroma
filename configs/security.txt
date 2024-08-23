@@ -15,3 +15,4 @@ Monitoring If you can dream it, you can do it. RabbitMQ Scalability Replica Set 
 Message Queue Data Science Code Review Lambda Functions Virtual Machines Content Delivery Network Success is not in what you have, but who you are. DNS Routing Automation GraphQL UX Optimization
 GraphQL Security Microservices Success doesn’t just find you. You have to go out and get it. Kubernetes Edge Computing Containerization Parallel Processing UX Optimization Predictive Analytics Quantum Computing WebSockets
 Load Testing Agile DNS Routing Replica Set API Database Indexing Cloud I find that the harder I work, the more luck I seem to have. Event Sourcing Containerization Algorithm Big Data
+Automation Big Data Stay hungry, stay foolish. Dream big and dare to fail. Success is how high you bounce when you hit bottom. JWT Zero Downtime Deployment Work hard in silence, let your success be your noise.
