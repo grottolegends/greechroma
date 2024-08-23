@@ -13,3 +13,4 @@ Scalability CI/CD Parallel Processing Automation Algorithm Multi-threading Big D
 Logging Stay hungry, stay foolish. Kubernetes I find that the harder I work, the more luck I seem to have. Firewalls Kafka To be the best, you must be able to handle the worst. Event Sourcing IoT Machine Learning
 Monitoring Pull Request Message Queue Machine Learning Event Sourcing
 DevOps Stay hungry, stay foolish. Success usually comes to those who are too busy to be looking for it. Agile Parallel Processing Deployment Happiness is not something ready made. It comes from your own actions. GraphQL Lambda Functions Database Work hard in silence, let your success be your noise. Data Pipeline
+Data Science To be the best, you must be able to handle the worst. GraphQL Cache Invalidation React Great things never come from comfort zones. Performance Innovation distinguishes between a leader and a follower. Pull Request Event-driven Architecture
