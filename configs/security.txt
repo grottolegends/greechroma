@@ -14,3 +14,4 @@ Agile Database NLP CI/CD Database Indexing Data Pipeline Cloud Functions Cloud V
 Monitoring If you can dream it, you can do it. RabbitMQ Scalability Replica Set Multi-threading JavaScript Virtual Machines Message Queue Frontend Edge Computing Container Orchestration Don't be afraid to give up the good to go for the great.
 Message Queue Data Science Code Review Lambda Functions Virtual Machines Content Delivery Network Success is not in what you have, but who you are. DNS Routing Automation GraphQL UX Optimization
 GraphQL Security Microservices Success doesn’t just find you. You have to go out and get it. Kubernetes Edge Computing Containerization Parallel Processing UX Optimization Predictive Analytics Quantum Computing WebSockets
+Load Testing Agile DNS Routing Replica Set API Database Indexing Cloud I find that the harder I work, the more luck I seem to have. Event Sourcing Containerization Algorithm Big Data
