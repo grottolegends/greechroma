@@ -14,3 +14,4 @@ Artificial Intelligence UX Optimization Success usually comes to those who are t
 To be the best, you must be able to handle the worst. Monitoring Event-driven Architecture Latency Optimization Framework Don't be afraid to give up the good to go for the great. Data Pipeline
 Sharding The only way to do great work is to love what you do. Success usually comes to those who are too busy to be looking for it. CI/CD A/B Testing OAuth Predictive Analytics Virtual Machines Neural Networks GraphQL Pull Request
 Multi-threading GraphQL Security Optimization If you can dream it, you can do it. Cloud Work hard in silence, let your success be your noise. Serverless
+Backend Artificial Intelligence Event-driven Architecture Docker Neural Networks Success is how high you bounce when you hit bottom.
