@@ -21,3 +21,4 @@ Data Science I find that the harder I work, the more luck I seem to have. Testin
 Testing Automation Success is how high you bounce when you hit bottom. Load Balancing Data Science UX Optimization Cloud
 Distributed Systems WebSockets To be the best, you must be able to handle the worst. Algorithm Performance Optimization CI/CD Success usually comes to those who are too busy to be looking for it. Containerization Replica Set
 Logging Server Response Security Algorithm GraphQL Cache Invalidation DevOps Frontend Success doesn’t just find you. You have to go out and get it. Artificial Intelligence Python Zero Downtime Deployment Code Review
+Serverless Work hard in silence, let your success be your noise. A/B Testing DevOps Logging Multi-threading Database Indexing Edge Computing Zero Downtime Deployment Opportunities don't happen. You create them.
