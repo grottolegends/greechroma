@@ -41,3 +41,4 @@ Predictive Analytics UX Optimization JWT The only way to do great work is to lov
 Act as if what you do makes a difference. It does. Content Delivery Network Python Security NLP Docker Success is not in what you have, but who you are.
 Database Indexing Data Pipeline Artificial Intelligence Happiness is not something ready made. It comes from your own actions. Difficult roads often lead to beautiful destinations. To be the best, you must be able to handle the worst. API
 Act as if what you do makes a difference. It does. Version Control Replica Set Deployment Predictive Analytics Lambda Functions Machine Learning Logging Firewalls
+Dream big and dare to fail. Zero Downtime Deployment Success usually comes to those who are too busy to be looking for it. Docker Artificial Intelligence Happiness is not something ready made. It comes from your own actions. IoT
