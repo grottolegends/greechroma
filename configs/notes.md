@@ -21,3 +21,4 @@ If you can dream it, you can do it. Backend Content Delivery Network Event-drive
 If you can dream it, you can do it. CI/CD Event-driven Architecture Success doesn’t just find you. You have to go out and get it. Database To be the best, you must be able to handle the worst. Container Orchestration Edge Computing Distributed Systems Code Review Parallel Processing
 Simplicity is the ultimate sophistication. Performance Quantum Computing JavaScript Security Optimization Kubernetes Success doesn’t just find you. You have to go out and get it. API Gateway
 IoT Simplicity is the ultimate sophistication. OAuth DevOps NLP Event Sourcing Cache Invalidation
+Innovation distinguishes between a leader and a follower. Microservices Success usually comes to those who are too busy to be looking for it. Agile Scalability

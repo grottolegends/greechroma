@@ -21,3 +21,4 @@ Dream big and dare to fail. UX Optimization Testing IoT Logging Opportunities do
 Message Queue Agile OAuth Event-driven Architecture Serverless Blockchain Sharding Cache Invalidation Lambda Functions UX Optimization Cloud
 Algorithm DevOps DNS Routing Python Opportunities don't happen. You create them.
 Data Pipeline Cloud GraphQL Stay hungry, stay foolish. Framework Happiness is not something ready made. It comes from your own actions. Machine Learning Testing Great things never come from comfort zones. Act as if what you do makes a difference. It does. Replica Set Multi-threading
+I find that the harder I work, the more luck I seem to have. CI/CD Success usually comes to those who are too busy to be looking for it. Don't be afraid to give up the good to go for the great. React Security Neural Networks JavaScript Deployment
