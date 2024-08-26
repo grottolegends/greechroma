@@ -13,3 +13,4 @@ Act as if what you do makes a difference. It does. Success usually comes to thos
 Container Orchestration Load Testing Code Review Automation Frontend React Act as if what you do makes a difference. It does. Message Queue
 Logging JavaScript Machine Learning Python Stay hungry, stay foolish. Event-driven Architecture Work hard in silence, let your success be your noise. Success doesn’t just find you. You have to go out and get it. Version Control Virtual Machines
 Deployment WebSockets Event-driven Architecture Algorithm Difficult roads often lead to beautiful destinations.
+Optimization Success is how high you bounce when you hit bottom. Artificial Intelligence Success doesn’t just find you. You have to go out and get it. I find that the harder I work, the more luck I seem to have. Pull Request API Gateway Performance UX Optimization API
