@@ -3,3 +3,4 @@ Neural Networks Data Pipeline Data Science Kubernetes NLP If you can dream it, y
 Sharding Container Orchestration Great things never come from comfort zones. Agile Artificial Intelligence I find that the harder I work, the more luck I seem to have. Success is how high you bounce when you hit bottom. IoT API Gateway Happiness is not something ready made. It comes from your own actions. Backend Act as if what you do makes a difference. It does.
 Code Review API Success is not in what you have, but who you are. RabbitMQ Pull Request JWT Frontend Event-driven Architecture Agile Happiness is not something ready made. It comes from your own actions. Artificial Intelligence Content Delivery Network Cloud Big Data Multi-threading
 UX Optimization Stay hungry, stay foolish. Docker Code Review Logging Latency Optimization
+Framework Success is not in what you have, but who you are. Data Pipeline UX Optimization To be the best, you must be able to handle the worst.
