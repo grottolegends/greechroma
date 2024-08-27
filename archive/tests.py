@@ -21,3 +21,4 @@ Big Data Success is how high you bounce when you hit bottom. Work hard in silenc
 Difficult roads often lead to beautiful destinations. Algorithm NLP Dream big and dare to fail. Zero Downtime Deployment Message Queue Optimization UX Optimization Version Control Multi-threading Success is not in what you have, but who you are. Cloud Functions Kubernetes Event-driven Architecture
 Kubernetes GraphQL Blockchain Code Review Performance Content Delivery Network Virtual Machines WebSockets Parallel Processing Serverless
 Logging Distributed Systems GraphQL Monitoring Cloud Functions Agile Docker Database Container Orchestration Lambda Functions Security
+Code Review Distributed Systems Success is how high you bounce when you hit bottom. Multi-threading Backend DevOps CI/CD Cloud

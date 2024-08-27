@@ -12,3 +12,4 @@ Content Delivery Network Algorithm Don't be afraid to give up the good to go for
 Scalability CI/CD Parallel Processing Automation Algorithm Multi-threading Big Data Content Delivery Network Predictive Analytics Event Sourcing Python Logging Agile React
 Logging Stay hungry, stay foolish. Kubernetes I find that the harder I work, the more luck I seem to have. Firewalls Kafka To be the best, you must be able to handle the worst. Event Sourcing IoT Machine Learning
 Monitoring Pull Request Message Queue Machine Learning Event Sourcing
+DevOps Stay hungry, stay foolish. Success usually comes to those who are too busy to be looking for it. Agile Parallel Processing Deployment Happiness is not something ready made. It comes from your own actions. GraphQL Lambda Functions Database Work hard in silence, let your success be your noise. Data Pipeline
