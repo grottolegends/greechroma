@@ -13,3 +13,4 @@ Sharding Distributed Systems Agile Opportunities don't happen. You create them. 
 Edge Computing Great things never come from comfort zones. Security Message Queue Scalability Load Testing Data Science RabbitMQ
 Innovation distinguishes between a leader and a follower. Latency Optimization OAuth Don't be afraid to give up the good to go for the great. Docker Blockchain Cloud Framework Parallel Processing Performance Automation JWT
 GraphQL Data Science Agile Cloud Scalability Neural Networks Database Load Testing Quantum Computing Performance Sharding Container Orchestration Simplicity is the ultimate sophistication.
+Success doesn’t just find you. You have to go out and get it. GraphQL Monitoring CI/CD Quantum Computing Opportunities don't happen. You create them. Cloud Kubernetes React Version Control Do what you love and the money will follow. The only way to do great work is to love what you do. Edge Computing Database Indexing
