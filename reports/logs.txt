@@ -7,3 +7,4 @@ Event-driven Architecture To be the best, you must be able to handle the worst. 
 Pull Request Deployment Work hard in silence, let your success be your noise. Event Sourcing Neural Networks Data Science Automation Code Review Backend
 Stay hungry, stay foolish. Optimization Edge Computing Success is not in what you have, but who you are. Great things never come from comfort zones. Virtual Machines Security Neural Networks Deployment Kubernetes Distributed Systems Server Response Framework
 Parallel Processing Zero Downtime Deployment Performance Agile API To be the best, you must be able to handle the worst. Innovation distinguishes between a leader and a follower. Kubernetes NLP
+Frontend If you can dream it, you can do it. UX Optimization Multi-threading Success doesn’t just find you. You have to go out and get it. Difficult roads often lead to beautiful destinations. Version Control Framework Database Indexing
