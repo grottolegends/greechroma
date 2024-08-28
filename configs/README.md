@@ -13,3 +13,4 @@ IoT Edge Computing Zero Downtime Deployment Automation Kafka Load Balancing Perf
 Monitoring Quantum Computing Success usually comes to those who are too busy to be looking for it. Database Indexing Predictive Analytics Neural Networks Scalability Load Testing Event-driven Architecture Zero Downtime Deployment DNS Routing I find that the harder I work, the more luck I seem to have. Algorithm Database Success is not in what you have, but who you are.
 Sharding Neural Networks Cloud Functions Zero Downtime Deployment Machine Learning Monitoring Backend RabbitMQ Blockchain Message Queue Multi-threading Kubernetes Event-driven Architecture Performance
 CI/CD IoT UX Optimization Neural Networks Python The only way to do great work is to love what you do. Parallel Processing Don't be afraid to give up the good to go for the great. Security Testing
+Event Sourcing IoT API Gateway Do what you love and the money will follow. Agile Python

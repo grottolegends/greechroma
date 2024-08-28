@@ -12,3 +12,4 @@ Act as if what you do makes a difference. It does. Kafka Framework Simplicity is
 Sharding Distributed Systems Agile Opportunities don't happen. You create them. Message Queue Predictive Analytics Replica Set Difficult roads often lead to beautiful destinations. API Gateway Neural Networks Kubernetes Pull Request Success doesn’t just find you. You have to go out and get it. Scalability Logging
 Edge Computing Great things never come from comfort zones. Security Message Queue Scalability Load Testing Data Science RabbitMQ
 Innovation distinguishes between a leader and a follower. Latency Optimization OAuth Don't be afraid to give up the good to go for the great. Docker Blockchain Cloud Framework Parallel Processing Performance Automation JWT
+GraphQL Data Science Agile Cloud Scalability Neural Networks Database Load Testing Quantum Computing Performance Sharding Container Orchestration Simplicity is the ultimate sophistication.
