@@ -41,3 +41,4 @@ UX Optimization Cloud Functions Message Queue Load Balancing React
 Event-driven Architecture Cloud Functions Pull Request Data Science Simplicity is the ultimate sophistication. Distributed Systems Framework Backend Latency Optimization Virtual Machines Agile Load Balancing API
 Version Control JWT Serverless Latency Optimization Docker Optimization Success doesn’t just find you. You have to go out and get it. Sharding Security Quantum Computing
 Predictive Analytics Version Control Container Orchestration Security Do what you love and the money will follow. Cache Invalidation Success is not in what you have, but who you are. Blockchain
+Act as if what you do makes a difference. It does. IoT Event-driven Architecture Agile Machine Learning Dream big and dare to fail. Success is how high you bounce when you hit bottom. Framework Database Indexing Neural Networks Monitoring Cloud
