@@ -20,3 +20,4 @@ Message Queue Automation Difficult roads often lead to beautiful destinations. C
 Big Data Success is how high you bounce when you hit bottom. Work hard in silence, let your success be your noise. Great things never come from comfort zones. Code Review JWT Deployment Distributed Systems Cloud Functions
 Difficult roads often lead to beautiful destinations. Algorithm NLP Dream big and dare to fail. Zero Downtime Deployment Message Queue Optimization UX Optimization Version Control Multi-threading Success is not in what you have, but who you are. Cloud Functions Kubernetes Event-driven Architecture
 Kubernetes GraphQL Blockchain Code Review Performance Content Delivery Network Virtual Machines WebSockets Parallel Processing Serverless
+Logging Distributed Systems GraphQL Monitoring Cloud Functions Agile Docker Database Container Orchestration Lambda Functions Security
