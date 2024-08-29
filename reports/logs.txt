@@ -6,3 +6,4 @@ Virtual Machines Neural Networks Docker UX Optimization Container Orchestration 
 Event-driven Architecture To be the best, you must be able to handle the worst. Deployment Server Response Data Science Predictive Analytics Database Edge Computing Do what you love and the money will follow.
 Pull Request Deployment Work hard in silence, let your success be your noise. Event Sourcing Neural Networks Data Science Automation Code Review Backend
 Stay hungry, stay foolish. Optimization Edge Computing Success is not in what you have, but who you are. Great things never come from comfort zones. Virtual Machines Security Neural Networks Deployment Kubernetes Distributed Systems Server Response Framework
+Parallel Processing Zero Downtime Deployment Performance Agile API To be the best, you must be able to handle the worst. Innovation distinguishes between a leader and a follower. Kubernetes NLP
