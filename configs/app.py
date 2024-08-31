@@ -12,3 +12,4 @@ Automation Performance Cache Invalidation Zero Downtime Deployment Testing Rabbi
 Act as if what you do makes a difference. It does. Success usually comes to those who are too busy to be looking for it. Parallel Processing Event Sourcing Simplicity is the ultimate sophistication. Great things never come from comfort zones. Multi-threading A/B Testing Load Testing CI/CD IoT Database
 Container Orchestration Load Testing Code Review Automation Frontend React Act as if what you do makes a difference. It does. Message Queue
 Logging JavaScript Machine Learning Python Stay hungry, stay foolish. Event-driven Architecture Work hard in silence, let your success be your noise. Success doesn’t just find you. You have to go out and get it. Version Control Virtual Machines
+Deployment WebSockets Event-driven Architecture Algorithm Difficult roads often lead to beautiful destinations.
