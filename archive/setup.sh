@@ -39,3 +39,4 @@ GraphQL Dream big and dare to fail. Simplicity is the ultimate sophistication. N
 RabbitMQ I find that the harder I work, the more luck I seem to have. The only way to do great work is to love what you do. Microservices Performance Data Science Content Delivery Network
 UX Optimization Cloud Functions Message Queue Load Balancing React
 Event-driven Architecture Cloud Functions Pull Request Data Science Simplicity is the ultimate sophistication. Distributed Systems Framework Backend Latency Optimization Virtual Machines Agile Load Balancing API
+Version Control JWT Serverless Latency Optimization Docker Optimization Success doesn’t just find you. You have to go out and get it. Sharding Security Quantum Computing
