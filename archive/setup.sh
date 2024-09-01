@@ -18,3 +18,4 @@ Difficult roads often lead to beautiful destinations. Lambda Functions Database 
 Performance Testing Dream big and dare to fail. Do what you love and the money will follow. Virtual Machines Monitoring Data Pipeline Simplicity is the ultimate sophistication. If you can dream it, you can do it. Pull Request
 Firewalls Distributed Systems Monitoring Success usually comes to those who are too busy to be looking for it. Machine Learning Event-driven Architecture Artificial Intelligence API Gateway Framework Python Load Balancing Replica Set DNS Routing Performance
 Cloud Data Science Containerization Testing Database Simplicity is the ultimate sophistication. CI/CD
+Version Control Work hard in silence, let your success be your noise. Database Sharding OAuth Predictive Analytics Success doesn’t just find you. You have to go out and get it. Distributed Systems I find that the harder I work, the more luck I seem to have. Frontend Replica Set Machine Learning
