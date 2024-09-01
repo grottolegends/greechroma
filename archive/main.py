@@ -37,3 +37,4 @@ Cache Invalidation JavaScript Opportunities don't happen. You create them. Docke
 Monitoring Simplicity is the ultimate sophistication. DNS Routing Load Testing Do what you love and the money will follow. NLP Logging Security Automation API IoT CI/CD Event-driven Architecture Kubernetes Load Balancing
 Lambda Functions UX Optimization Work hard in silence, let your success be your noise. Containerization Security
 To be the best, you must be able to handle the worst. Performance Replica Set Event Sourcing Quantum Computing IoT Pull Request Security Stay hungry, stay foolish. WebSockets Success doesn’t just find you. You have to go out and get it. Do what you love and the money will follow. Container Orchestration Deployment Agile
+Success is not in what you have, but who you are. Framework I find that the harder I work, the more luck I seem to have. WebSockets UX Optimization
