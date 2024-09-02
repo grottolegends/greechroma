@@ -46,3 +46,4 @@ Latency Optimization Kubernetes I find that the harder I work, the more luck I s
 Data Pipeline Firewalls Security API Act as if what you do makes a difference. It does. Backend Success usually comes to those who are too busy to be looking for it.
 Container Orchestration Virtual Machines Kafka Security RabbitMQ I find that the harder I work, the more luck I seem to have. Success usually comes to those who are too busy to be looking for it.
 Great things never come from comfort zones. Code Review Automation Simplicity is the ultimate sophistication. The only way to do great work is to love what you do. Replica Set Stay hungry, stay foolish. Event-driven Architecture GraphQL
+React Difficult roads often lead to beautiful destinations. Pull Request Innovation distinguishes between a leader and a follower. Data Pipeline Agile

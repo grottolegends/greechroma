@@ -42,3 +42,4 @@ Serverless Load Testing Happiness is not something ready made. It comes from you
 Pull Request UX Optimization Kafka Great things never come from comfort zones. Agile A/B Testing Dream big and dare to fail. Blockchain
 Innovation distinguishes between a leader and a follower. Microservices Framework Zero Downtime Deployment Load Testing Predictive Analytics Cache Invalidation If you can dream it, you can do it.
 Database Indexing Big Data Monitoring Container Orchestration JavaScript Security React
+Virtual Machines API Kubernetes RabbitMQ Performance A/B Testing
