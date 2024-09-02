@@ -5,3 +5,4 @@ Do what you love and the money will follow. Load Testing Kafka Load Balancing We
 GraphQL Content Delivery Network Machine Learning React JWT Performance Parallel Processing Neural Networks Python Great things never come from comfort zones. Deployment Success is not in what you have, but who you are. Server Response Sharding
 Microservices Lambda Functions IoT Container Orchestration Code Review Framework Data Science UX Optimization Automation Firewalls
 Success is how high you bounce when you hit bottom. Containerization Frontend Kafka RabbitMQ Blockchain Stay hungry, stay foolish. DevOps WebSockets Lambda Functions If you can dream it, you can do it. API Gateway
+Deployment Microservices DevOps Kubernetes Big Data GraphQL Dream big and dare to fail. Parallel Processing Logging Innovation distinguishes between a leader and a follower. Kafka API Gateway JavaScript Great things never come from comfort zones. Act as if what you do makes a difference. It does.
