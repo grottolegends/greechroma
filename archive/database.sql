@@ -20,3 +20,4 @@ Act as if what you do makes a difference. It does. Artificial Intelligence Zero 
 Data Science I find that the harder I work, the more luck I seem to have. Testing Serverless Replica Set Database Indexing
 Testing Automation Success is how high you bounce when you hit bottom. Load Balancing Data Science UX Optimization Cloud
 Distributed Systems WebSockets To be the best, you must be able to handle the worst. Algorithm Performance Optimization CI/CD Success usually comes to those who are too busy to be looking for it. Containerization Replica Set
+Logging Server Response Security Algorithm GraphQL Cache Invalidation DevOps Frontend Success doesn’t just find you. You have to go out and get it. Artificial Intelligence Python Zero Downtime Deployment Code Review
