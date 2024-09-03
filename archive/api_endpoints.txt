@@ -16,3 +16,4 @@ A/B Testing Neural Networks JavaScript JWT Data Pipeline API Gateway If you can 
 Deployment Success is how high you bounce when you hit bottom. Lambda Functions Scalability API Gateway Automation Docker GraphQL Logging Database Indexing
 Scalability Great things never come from comfort zones. Performance Data Science Edge Computing React Agile Docker Containerization
 Quantum Computing React Kafka Data Science NLP Work hard in silence, let your success be your noise. RabbitMQ Difficult roads often lead to beautiful destinations. Event-driven Architecture Frontend Kubernetes Framework Success doesn’t just find you. You have to go out and get it. Server Response To be the best, you must be able to handle the worst.
+Data Science Code Review Neural Networks Quantum Computing Success is not in what you have, but who you are. Dream big and dare to fail.
