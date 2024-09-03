@@ -7,3 +7,4 @@ Kafka Machine Learning Virtual Machines OAuth Dream big and dare to fail. Framew
 JWT UX Optimization Cloud Logging Frontend Code Review Framework IoT Containerization Content Delivery Network A/B Testing Backend API
 NLP Server Response IoT Edge Computing Database Agile Event-driven Architecture Message Queue UX Optimization Innovation distinguishes between a leader and a follower. Opportunities don't happen. You create them. Cloud Functions Cache Invalidation
 Framework Artificial Intelligence Zero Downtime Deployment Agile Security Virtual Machines Happiness is not something ready made. It comes from your own actions. Kubernetes Distributed Systems Backend Monitoring Firewalls Server Response
+RabbitMQ Don't be afraid to give up the good to go for the great. Python IoT Simplicity is the ultimate sophistication.
