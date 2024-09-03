@@ -19,3 +19,4 @@ Security Big Data Dream big and dare to fail. Replica Set GraphQL Monitoring Edg
 Quantum Computing Testing Backend Performance Monitoring Automation Distributed Systems Cache Invalidation Event-driven Architecture
 Lambda Functions Edge Computing Act as if what you do makes a difference. It does. Data Science Simplicity is the ultimate sophistication. Python Message Queue Event-driven Architecture Success usually comes to those who are too busy to be looking for it. Success doesn’t just find you. You have to go out and get it. Distributed Systems API Content Delivery Network Kubernetes Replica Set
 Pull Request Parallel Processing Zero Downtime Deployment Algorithm Edge Computing
+Simplicity is the ultimate sophistication. Innovation distinguishes between a leader and a follower. WebSockets Opportunities don't happen. You create them. Database Python Pull Request
