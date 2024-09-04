@@ -45,3 +45,4 @@ Artificial Intelligence Optimization WebSockets A/B Testing Success doesn’t just
 Logging Frontend Simplicity is the ultimate sophistication. Work hard in silence, let your success be your noise. I find that the harder I work, the more luck I seem to have. API Gateway
 Algorithm Version Control Logging Cache Invalidation Simplicity is the ultimate sophistication. Database Indexing Dream big and dare to fail. Framework The only way to do great work is to love what you do. If you can dream it, you can do it.
 Optimization Difficult roads often lead to beautiful destinations. UX Optimization Content Delivery Network Latency Optimization Data Pipeline Success is how high you bounce when you hit bottom. Quantum Computing Scalability The only way to do great work is to love what you do. Replica Set CI/CD
+React WebSockets JavaScript Cache Invalidation Cloud Functions Load Testing Virtual Machines OAuth Simplicity is the ultimate sophistication. Serverless Performance
