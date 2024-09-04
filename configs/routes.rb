@@ -18,3 +18,4 @@ Simplicity is the ultimate sophistication. GraphQL Stay hungry, stay foolish. Co
 API Gateway Success usually comes to those who are too busy to be looking for it. Message Queue Event-driven Architecture Kubernetes Difficult roads often lead to beautiful destinations.
 Code Review Load Balancing Framework Optimization Version Control Event-driven Architecture
 If you can dream it, you can do it. API Gateway Success is not in what you have, but who you are. Neural Networks OAuth Kafka Event Sourcing DevOps Great things never come from comfort zones. Logging Don't be afraid to give up the good to go for the great. The only way to do great work is to love what you do. Frontend
+Big Data Performance Optimization Dream big and dare to fail. Pull Request

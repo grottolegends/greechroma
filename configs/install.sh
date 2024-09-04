@@ -16,3 +16,4 @@ Quantum Computing Success usually comes to those who are too busy to be looking 
 Replica Set I find that the harder I work, the more luck I seem to have. Edge Computing Great things never come from comfort zones. Security
 Happiness is not something ready made. It comes from your own actions. Kubernetes Cloud Distributed Systems React Lambda Functions Virtual Machines To be the best, you must be able to handle the worst. WebSockets Code Review API
 DNS Routing Deployment Backend Success is not in what you have, but who you are. Logging Blockchain Pull Request WebSockets Data Pipeline Content Delivery Network
+JavaScript Python Cloud Functions Event Sourcing If you can dream it, you can do it. Replica Set Deployment Work hard in silence, let your success be your noise. GraphQL Cloud A/B Testing Machine Learning WebSockets Serverless
