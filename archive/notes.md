@@ -44,3 +44,4 @@ React Simplicity is the ultimate sophistication. Success doesn’t just find you. 
 Machine Learning Dream big and dare to fail. Automation Act as if what you do makes a difference. It does. Neural Networks Database Cache Invalidation Edge Computing
 Success is not in what you have, but who you are. Agile Containerization Pull Request Edge Computing Load Testing Event Sourcing RabbitMQ JavaScript Zero Downtime Deployment Act as if what you do makes a difference. It does. Docker
 Load Testing GraphQL Performance Zero Downtime Deployment Container Orchestration API Gateway The only way to do great work is to love what you do.
+Container Orchestration Simplicity is the ultimate sophistication. Python Innovation distinguishes between a leader and a follower. Backend DNS Routing Don't be afraid to give up the good to go for the great. Success usually comes to those who are too busy to be looking for it. Server Response Firewalls Stay hungry, stay foolish.
