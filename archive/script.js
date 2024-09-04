@@ -10,3 +10,4 @@ WebSockets NLP Dream big and dare to fail. To be the best, you must be able to h
 DNS Routing To be the best, you must be able to handle the worst. API Gateway Do what you love and the money will follow. RabbitMQ Frontend Algorithm Database Indexing Predictive Analytics
 Opportunities don't happen. You create them. Automation Deployment The only way to do great work is to love what you do. Scalability
 Event Sourcing I find that the harder I work, the more luck I seem to have. Replica Set Predictive Analytics Dream big and dare to fail. Docker Testing Work hard in silence, let your success be your noise. Containerization RabbitMQ Multi-threading Agile
+DNS Routing Optimization Event-driven Architecture Container Orchestration Security Replica Set Success doesn’t just find you. You have to go out and get it. Difficult roads often lead to beautiful destinations.
