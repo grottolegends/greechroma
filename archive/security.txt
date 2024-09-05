@@ -14,3 +14,4 @@ API The only way to do great work is to love what you do. Load Balancing Automat
 Performance React API Gateway Work hard in silence, let your success be your noise. Load Balancing Pull Request
 Virtual Machines Machine Learning UX Optimization Framework A/B Testing Agile Success is not in what you have, but who you are. Act as if what you do makes a difference. It does.
 Replica Set Virtual Machines JavaScript Content Delivery Network Scalability Machine Learning Zero Downtime Deployment
+Blockchain Frontend Load Balancing JavaScript Performance Containerization Multi-threading Opportunities don't happen. You create them. Automation I find that the harder I work, the more luck I seem to have. RabbitMQ Dream big and dare to fail. JWT
