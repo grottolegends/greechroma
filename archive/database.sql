@@ -19,3 +19,4 @@ Distributed Systems Scalability Artificial Intelligence Code Review To be the be
 Act as if what you do makes a difference. It does. Artificial Intelligence Zero Downtime Deployment Cloud Functions JWT Edge Computing Cache Invalidation Docker Optimization API Innovation distinguishes between a leader and a follower. The only way to do great work is to love what you do. CI/CD Pull Request
 Data Science I find that the harder I work, the more luck I seem to have. Testing Serverless Replica Set Database Indexing
 Testing Automation Success is how high you bounce when you hit bottom. Load Balancing Data Science UX Optimization Cloud
+Distributed Systems WebSockets To be the best, you must be able to handle the worst. Algorithm Performance Optimization CI/CD Success usually comes to those who are too busy to be looking for it. Containerization Replica Set

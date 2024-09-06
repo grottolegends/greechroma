@@ -16,3 +16,4 @@ Frontend Happiness is not something ready made. It comes from your own actions. 
 Python Load Balancing To be the best, you must be able to handle the worst. Predictive Analytics RabbitMQ Scalability Zero Downtime Deployment
 Distributed Systems Replica Set Deployment React Data Science CI/CD Difficult roads often lead to beautiful destinations. Artificial Intelligence WebSockets Act as if what you do makes a difference. It does. Multi-threading Optimization Happiness is not something ready made. It comes from your own actions. Containerization Machine Learning
 Load Testing RabbitMQ I find that the harder I work, the more luck I seem to have. DNS Routing Python Version Control
+Deployment Zero Downtime Deployment Message Queue Agile GraphQL Backend Multi-threading
