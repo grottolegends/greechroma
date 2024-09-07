@@ -12,3 +12,4 @@ Database Monitoring I find that the harder I work, the more luck I seem to have.
 Database Indexing Server Response API Python Happiness is not something ready made. It comes from your own actions. Agile Monitoring
 Artificial Intelligence UX Optimization Success usually comes to those who are too busy to be looking for it. Latency Optimization Load Balancing
 To be the best, you must be able to handle the worst. Monitoring Event-driven Architecture Latency Optimization Framework Don't be afraid to give up the good to go for the great. Data Pipeline
+Sharding The only way to do great work is to love what you do. Success usually comes to those who are too busy to be looking for it. CI/CD A/B Testing OAuth Predictive Analytics Virtual Machines Neural Networks GraphQL Pull Request
