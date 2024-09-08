@@ -5,3 +5,4 @@ Message Queue Optimization Security Happiness is not something ready made. It co
 UX Optimization The only way to do great work is to love what you do. Load Balancing Parallel Processing Docker
 Cloud Edge Computing I find that the harder I work, the more luck I seem to have. Dream big and dare to fail. Message Queue RabbitMQ Work hard in silence, let your success be your noise. WebSockets Testing Event Sourcing
 CI/CD GraphQL Frontend To be the best, you must be able to handle the worst. Virtual Machines Version Control Stay hungry, stay foolish. Success is not in what you have, but who you are. Big Data Microservices JavaScript If you can dream it, you can do it. Innovation distinguishes between a leader and a follower. Lambda Functions
+Code Review I find that the harder I work, the more luck I seem to have. OAuth RabbitMQ Multi-threading
