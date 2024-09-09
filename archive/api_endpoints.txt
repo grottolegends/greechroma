@@ -14,3 +14,4 @@ Cloud Functions Load Balancing Neural Networks Logging Great things never come f
 Server Response Work hard in silence, let your success be your noise. Serverless Difficult roads often lead to beautiful destinations. Zero Downtime Deployment API Gateway Parallel Processing Database Indexing Big Data Content Delivery Network
 A/B Testing Neural Networks JavaScript JWT Data Pipeline API Gateway If you can dream it, you can do it. Parallel Processing Act as if what you do makes a difference. It does. Work hard in silence, let your success be your noise. Containerization Quantum Computing Success doesn’t just find you. You have to go out and get it.
 Deployment Success is how high you bounce when you hit bottom. Lambda Functions Scalability API Gateway Automation Docker GraphQL Logging Database Indexing
+Scalability Great things never come from comfort zones. Performance Data Science Edge Computing React Agile Docker Containerization

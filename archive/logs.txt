@@ -10,3 +10,4 @@ React Distributed Systems Database Indexing Deployment Latency Optimization Load
 Database Indexing Docker Automation Lambda Functions Cloud Functions
 Success is not in what you have, but who you are. Cache Invalidation Automation Parallel Processing Simplicity is the ultimate sophistication. Big Data Innovation distinguishes between a leader and a follower. Load Testing API Predictive Analytics Load Balancing A/B Testing Dream big and dare to fail. Happiness is not something ready made. It comes from your own actions. NLP
 Machine Learning DevOps Cloud UX Optimization Cloud Functions Blockchain
+Logging OAuth The only way to do great work is to love what you do. Blockchain Multi-threading Great things never come from comfort zones. Do what you love and the money will follow. JWT RabbitMQ DevOps React A/B Testing Cloud Testing Event Sourcing
