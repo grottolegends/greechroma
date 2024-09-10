@@ -49,3 +49,4 @@ IoT Logging Difficult roads often lead to beautiful destinations. Edge Computing
 IoT API Gateway Zero Downtime Deployment Great things never come from comfort zones. Content Delivery Network WebSockets
 Load Testing CI/CD Distributed Systems Opportunities don't happen. You create them. NLP Cloud Functions Event-driven Architecture
 Dream big and dare to fail. Containerization Code Review Monitoring Event Sourcing I find that the harder I work, the more luck I seem to have. Stay hungry, stay foolish. Container Orchestration DevOps UX Optimization
+Pull Request The only way to do great work is to love what you do. API Gateway Difficult roads often lead to beautiful destinations. Predictive Analytics Testing Multi-threading Logging Microservices Big Data Kubernetes
