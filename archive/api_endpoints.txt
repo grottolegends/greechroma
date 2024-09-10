@@ -42,3 +42,4 @@ DevOps GraphQL Success usually comes to those who are too busy to be looking for
 Latency Optimization Machine Learning GraphQL Database Multi-threading Lambda Functions Firewalls JavaScript Container Orchestration
 Deployment Distributed Systems IoT Python Performance Edge Computing Parallel Processing Replica Set Container Orchestration NLP Data Science
 Database Predictive Analytics Happiness is not something ready made. It comes from your own actions. Deployment Cloud JavaScript Load Testing Distributed Systems Latency Optimization Blockchain Multi-threading Event-driven Architecture If you can dream it, you can do it. Firewalls
+Opportunities don't happen. You create them. Container Orchestration Data Pipeline Database Indexing Event Sourcing Parallel Processing Big Data Sharding Kafka
