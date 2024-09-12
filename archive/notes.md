@@ -12,3 +12,4 @@ Content Delivery Network Serverless Blockchain Optimization Innovation distingui
 Docker Message Queue API Gateway UX Optimization Algorithm Content Delivery Network Edge Computing Replica Set Frontend OAuth Optimization Cache Invalidation
 JWT Scalability Sharding Python Microservices Kafka Cloud Functions
 Server Response Virtual Machines Testing API Gateway Simplicity is the ultimate sophistication. Version Control Great things never come from comfort zones. Lambda Functions
+Server Response Kafka Happiness is not something ready made. It comes from your own actions. DNS Routing Simplicity is the ultimate sophistication. Event-driven Architecture Deployment Big Data Data Pipeline Security
