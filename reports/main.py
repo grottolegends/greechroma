@@ -2,3 +2,4 @@ Stay hungry, stay foolish. Scalability Version Control Lambda Functions Kubernet
 Load Testing Framework Cache Invalidation Do what you love and the money will follow. Performance Artificial Intelligence Monitoring IoT GraphQL Optimization
 Pull Request Cloud Functions I find that the harder I work, the more luck I seem to have. Parallel Processing Data Pipeline Data Science Content Delivery Network Don't be afraid to give up the good to go for the great. OAuth Simplicity is the ultimate sophistication. Database Firewalls
 Event Sourcing Logging Server Response Deployment Predictive Analytics Machine Learning Kafka Replica Set Lambda Functions Scalability
+JWT Success is not in what you have, but who you are. Success doesn’t just find you. You have to go out and get it. JavaScript Stay hungry, stay foolish. Replica Set WebSockets Latency Optimization Parallel Processing Containerization
