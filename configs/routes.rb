@@ -16,3 +16,4 @@ Success is not in what you have, but who you are. Database Indexing Cloud Load B
 Code Review React Cloud Functions Container Orchestration Algorithm
 Simplicity is the ultimate sophistication. GraphQL Stay hungry, stay foolish. Container Orchestration JWT Backend Logging Quantum Computing Deployment
 API Gateway Success usually comes to those who are too busy to be looking for it. Message Queue Event-driven Architecture Kubernetes Difficult roads often lead to beautiful destinations.
+Code Review Load Balancing Framework Optimization Version Control Event-driven Architecture
