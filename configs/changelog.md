@@ -3,3 +3,4 @@ Quantum Computing To be the best, you must be able to handle the worst. Predicti
 Framework Docker Performance Success usually comes to those who are too busy to be looking for it. Load Testing JWT Cache Invalidation Testing Optimization
 Message Queue Optimization Security Happiness is not something ready made. It comes from your own actions. Backend Kafka Artificial Intelligence Cache Invalidation Frontend DevOps Latency Optimization Predictive Analytics Container Orchestration To be the best, you must be able to handle the worst.
 UX Optimization The only way to do great work is to love what you do. Load Balancing Parallel Processing Docker
+Cloud Edge Computing I find that the harder I work, the more luck I seem to have. Dream big and dare to fail. Message Queue RabbitMQ Work hard in silence, let your success be your noise. WebSockets Testing Event Sourcing
