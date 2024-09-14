@@ -3,3 +3,4 @@ Testing JWT IoT Innovation distinguishes between a leader and a follower. Replic
 If you can dream it, you can do it. Scalability A/B Testing Docker Server Response Optimization
 Distributed Systems Latency Optimization React NLP Framework Success is not in what you have, but who you are. UX Optimization
 Do what you love and the money will follow. Algorithm Don't be afraid to give up the good to go for the great. Scalability Great things never come from comfort zones. Container Orchestration Zero Downtime Deployment Kubernetes DevOps Difficult roads often lead to beautiful destinations. Serverless JavaScript Firewalls Cloud
+Security Event-driven Architecture Agile Virtual Machines DNS Routing
