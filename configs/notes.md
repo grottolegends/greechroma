@@ -20,3 +20,4 @@ Act as if what you do makes a difference. It does. React OAuth Don't be afraid t
 If you can dream it, you can do it. Backend Content Delivery Network Event-driven Architecture NLP GraphQL Data Pipeline API Automation OAuth Pull Request Server Response Optimization Sharding
 If you can dream it, you can do it. CI/CD Event-driven Architecture Success doesn’t just find you. You have to go out and get it. Database To be the best, you must be able to handle the worst. Container Orchestration Edge Computing Distributed Systems Code Review Parallel Processing
 Simplicity is the ultimate sophistication. Performance Quantum Computing JavaScript Security Optimization Kubernetes Success doesn’t just find you. You have to go out and get it. API Gateway
+IoT Simplicity is the ultimate sophistication. OAuth DevOps NLP Event Sourcing Cache Invalidation
