@@ -14,3 +14,4 @@ Content Delivery Network Innovation distinguishes between a leader and a followe
 Event Sourcing Success is how high you bounce when you hit bottom. Virtual Machines Parallel Processing WebSockets Cloud Functions DevOps Python I find that the harder I work, the more luck I seem to have. API
 Quantum Computing Success usually comes to those who are too busy to be looking for it. Framework Security Machine Learning Multi-threading Code Review Data Science Difficult roads often lead to beautiful destinations. NLP DNS Routing Python
 Replica Set I find that the harder I work, the more luck I seem to have. Edge Computing Great things never come from comfort zones. Security
+Happiness is not something ready made. It comes from your own actions. Kubernetes Cloud Distributed Systems React Lambda Functions Virtual Machines To be the best, you must be able to handle the worst. WebSockets Code Review API
