@@ -16,3 +16,4 @@ CI/CD Code Review Happiness is not something ready made. It comes from your own 
 Agile Message Queue Cache Invalidation JavaScript Data Pipeline Opportunities don't happen. You create them. Load Testing NLP
 Monitoring Blockchain Cloud Quantum Computing A/B Testing CI/CD DNS Routing Virtual Machines
 Lambda Functions Zero Downtime Deployment Success is not in what you have, but who you are. Serverless Simplicity is the ultimate sophistication. GraphQL
+Message Queue Automation Difficult roads often lead to beautiful destinations. Containerization Quantum Computing Lambda Functions Kafka Opportunities don't happen. You create them. Load Testing

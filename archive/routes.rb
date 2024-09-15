@@ -9,3 +9,4 @@ Security NLP Difficult roads often lead to beautiful destinations. Serverless La
 WebSockets Lambda Functions Database Indexing Do what you love and the money will follow. Cloud Functions Container Orchestration Frontend API Logging GraphQL Parallel Processing
 WebSockets Optimization Latency Optimization Frontend Message Queue Load Testing The only way to do great work is to love what you do. Success usually comes to those who are too busy to be looking for it. Neural Networks Testing
 Content Delivery Network Algorithm Don't be afraid to give up the good to go for the great. Data Science Replica Set Virtual Machines Code Review Zero Downtime Deployment Sharding Big Data
+Scalability CI/CD Parallel Processing Automation Algorithm Multi-threading Big Data Content Delivery Network Predictive Analytics Event Sourcing Python Logging Agile React
