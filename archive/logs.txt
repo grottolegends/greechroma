@@ -9,3 +9,4 @@ Virtual Machines To be the best, you must be able to handle the worst. A/B Testi
 React Distributed Systems Database Indexing Deployment Latency Optimization Load Testing OAuth Docker Microservices Act as if what you do makes a difference. It does. Replica Set Pull Request Stay hungry, stay foolish. Monitoring
 Database Indexing Docker Automation Lambda Functions Cloud Functions
 Success is not in what you have, but who you are. Cache Invalidation Automation Parallel Processing Simplicity is the ultimate sophistication. Big Data Innovation distinguishes between a leader and a follower. Load Testing API Predictive Analytics Load Balancing A/B Testing Dream big and dare to fail. Happiness is not something ready made. It comes from your own actions. NLP
+Machine Learning DevOps Cloud UX Optimization Cloud Functions Blockchain
