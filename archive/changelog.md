@@ -42,3 +42,4 @@ Agile Sharding Success usually comes to those who are too busy to be looking for
 OAuth UX Optimization Simplicity is the ultimate sophistication. API API Gateway Don't be afraid to give up the good to go for the great. Edge Computing
 Optimization Performance Event-driven Architecture Edge Computing Happiness is not something ready made. It comes from your own actions. Success usually comes to those who are too busy to be looking for it. Monitoring Don't be afraid to give up the good to go for the great.
 Code Review Containerization Performance Python JWT Act as if what you do makes a difference. It does. Load Balancing Parallel Processing Load Testing Cloud Functions OAuth Virtual Machines GraphQL
+Latency Optimization Kubernetes I find that the harder I work, the more luck I seem to have. Success is not in what you have, but who you are. Sharding Containerization
