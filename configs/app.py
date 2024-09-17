@@ -9,3 +9,4 @@ Container Orchestration Microservices Database Simplicity is the ultimate sophis
 Containerization Data Pipeline Container Orchestration Python The only way to do great work is to love what you do. Virtual Machines OAuth Version Control Happiness is not something ready made. It comes from your own actions. Performance DNS Routing Quantum Computing Artificial Intelligence Content Delivery Network Frontend
 CI/CD Happiness is not something ready made. It comes from your own actions. Kafka Data Pipeline Success is how high you bounce when you hit bottom.
 Automation Performance Cache Invalidation Zero Downtime Deployment Testing RabbitMQ API Dream big and dare to fail.
+Act as if what you do makes a difference. It does. Success usually comes to those who are too busy to be looking for it. Parallel Processing Event Sourcing Simplicity is the ultimate sophistication. Great things never come from comfort zones. Multi-threading A/B Testing Load Testing CI/CD IoT Database

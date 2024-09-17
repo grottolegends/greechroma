@@ -12,3 +12,4 @@ Server Response Do what you love and the money will follow. RabbitMQ Backend Tes
 The only way to do great work is to love what you do. Backend Artificial Intelligence Firewalls Logging Kafka Testing Predictive Analytics Cache Invalidation WebSockets To be the best, you must be able to handle the worst.
 Dream big and dare to fail. Neural Networks Zero Downtime Deployment Success is how high you bounce when you hit bottom. DevOps Pull Request API Algorithm
 Event Sourcing Quantum Computing Optimization Server Response Virtual Machines Logging Multi-threading UX Optimization Event-driven Architecture
+If you can dream it, you can do it. Firewalls Opportunities don't happen. You create them. Performance Data Science Big Data Neural Networks Containerization RabbitMQ
