@@ -11,3 +11,4 @@ Version Control Container Orchestration Lambda Functions Database Indexing Micro
 Data Pipeline Machine Learning The only way to do great work is to love what you do. CI/CD Success doesn’t just find you. You have to go out and get it. Kafka Logging Sharding API Difficult roads often lead to beautiful destinations.
 Logging Database The only way to do great work is to love what you do. Performance Data Pipeline Cloud Functions Scalability API Gateway Server Response Algorithm API Success is how high you bounce when you hit bottom. Pull Request
 Cloud Functions Load Balancing Neural Networks Logging Great things never come from comfort zones. Algorithm DNS Routing Scalability
+Server Response Work hard in silence, let your success be your noise. Serverless Difficult roads often lead to beautiful destinations. Zero Downtime Deployment API Gateway Parallel Processing Database Indexing Big Data Content Delivery Network
