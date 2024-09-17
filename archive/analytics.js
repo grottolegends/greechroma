@@ -13,3 +13,4 @@ Data Science Code Review To be the best, you must be able to handle the worst. C
 Server Response API Cloud Algorithm Automation Content Delivery Network
 Artificial Intelligence Algorithm JWT A/B Testing Cloud Functions Scalability Dream big and dare to fail. Parallel Processing Testing Security Load Balancing Sharding
 Testing Server Response JWT Serverless Data Science
+Big Data Simplicity is the ultimate sophistication. GraphQL Content Delivery Network Backend React Happiness is not something ready made. It comes from your own actions. Predictive Analytics Machine Learning A/B Testing Replica Set
