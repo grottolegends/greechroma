@@ -13,3 +13,4 @@ Do what you love and the money will follow. Docker Scalability Machine Learning 
 Content Delivery Network Innovation distinguishes between a leader and a follower. Lambda Functions Database React Server Response Testing UX Optimization Happiness is not something ready made. It comes from your own actions. Sharding DevOps Multi-threading Containerization Framework OAuth
 Event Sourcing Success is how high you bounce when you hit bottom. Virtual Machines Parallel Processing WebSockets Cloud Functions DevOps Python I find that the harder I work, the more luck I seem to have. API
 Quantum Computing Success usually comes to those who are too busy to be looking for it. Framework Security Machine Learning Multi-threading Code Review Data Science Difficult roads often lead to beautiful destinations. NLP DNS Routing Python
+Replica Set I find that the harder I work, the more luck I seem to have. Edge Computing Great things never come from comfort zones. Security
