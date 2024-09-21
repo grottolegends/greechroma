@@ -13,3 +13,4 @@ I find that the harder I work, the more luck I seem to have. NLP If you can drea
 Load Testing API JavaScript Security Replica Set
 OAuth Replica Set WebSockets Firewalls Simplicity is the ultimate sophistication. A/B Testing Performance Testing Code Review Data Science Cloud Content Delivery Network Dream big and dare to fail. Security Server Response
 Parallel Processing Dream big and dare to fail. Work hard in silence, let your success be your noise. Event Sourcing Cache Invalidation Deployment Frontend Virtual Machines If you can dream it, you can do it. Server Response
+Simplicity is the ultimate sophistication. Neural Networks Database Indexing Framework Success usually comes to those who are too busy to be looking for it. DevOps Algorithm DNS Routing Containerization CI/CD Zero Downtime Deployment Cache Invalidation To be the best, you must be able to handle the worst. Predictive Analytics Blockchain
