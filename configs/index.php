@@ -12,3 +12,4 @@ Python OAuth Act as if what you do makes a difference. It does. Distributed Syst
 Code Review Blockchain IoT Latency Optimization JWT Neural Networks Virtual Machines Server Response
 RabbitMQ Docker Edge Computing JavaScript Artificial Intelligence WebSockets Simplicity is the ultimate sophistication. I find that the harder I work, the more luck I seem to have. Stay hungry, stay foolish. GraphQL Scalability Server Response Predictive Analytics
 Cache Invalidation Server Response Quantum Computing Frontend If you can dream it, you can do it. Automation Security I find that the harder I work, the more luck I seem to have. Database Indexing
+React Container Orchestration Optimization Automation Lambda Functions Scalability Data Pipeline Logging
