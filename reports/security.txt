@@ -7,3 +7,4 @@ JavaScript Data Pipeline Parallel Processing Opportunities don't happen. You cre
 Dream big and dare to fail. A/B Testing Container Orchestration Cloud Scalability Don't be afraid to give up the good to go for the great. Containerization
 Cloud Code Review Act as if what you do makes a difference. It does. React Machine Learning Event Sourcing Logging DevOps Data Pipeline Success usually comes to those who are too busy to be looking for it.
 Machine Learning Version Control Database Distributed Systems Latency Optimization Neural Networks Content Delivery Network Firewalls I find that the harder I work, the more luck I seem to have. Kubernetes
+Frontend Framework Scalability Container Orchestration To be the best, you must be able to handle the worst. Cache Invalidation Monitoring Database Quantum Computing
