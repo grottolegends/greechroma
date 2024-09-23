@@ -17,3 +17,4 @@ Happiness is not something ready made. It comes from your own actions. Machine L
 Innovation distinguishes between a leader and a follower. Message Queue Zero Downtime Deployment Dream big and dare to fail. UX Optimization Parallel Processing
 Artificial Intelligence API Gateway Server Response Parallel Processing Sharding Monitoring
 Frontend Work hard in silence, let your success be your noise. Blockchain To be the best, you must be able to handle the worst. CI/CD Predictive Analytics Dream big and dare to fail. Sharding
+Virtual Machines A/B Testing Sharding Testing Cloud Microservices React Database Indexing Message Queue Act as if what you do makes a difference. It does.
