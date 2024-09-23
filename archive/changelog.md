@@ -14,3 +14,4 @@ CI/CD Automation Containerization Event Sourcing Optimization Kafka Load Balanci
 JWT DNS Routing Multi-threading Success is not in what you have, but who you are. Containerization WebSockets Deployment I find that the harder I work, the more luck I seem to have. Latency Optimization Algorithm Database
 Event-driven Architecture Docker Python RabbitMQ Logging Content Delivery Network Security I find that the harder I work, the more luck I seem to have. Scalability Performance Load Testing Optimization Machine Learning Latency Optimization
 Framework Work hard in silence, let your success be your noise. Data Pipeline Machine Learning Quantum Computing
+Cache Invalidation Artificial Intelligence Testing Data Science Zero Downtime Deployment Backend
