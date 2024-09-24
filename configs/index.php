@@ -11,3 +11,4 @@ Happiness is not something ready made. It comes from your own actions. Framework
 Python OAuth Act as if what you do makes a difference. It does. Distributed Systems JavaScript Database Lambda Functions IoT Difficult roads often lead to beautiful destinations. UX Optimization Work hard in silence, let your success be your noise. Virtual Machines Server Response
 Code Review Blockchain IoT Latency Optimization JWT Neural Networks Virtual Machines Server Response
 RabbitMQ Docker Edge Computing JavaScript Artificial Intelligence WebSockets Simplicity is the ultimate sophistication. I find that the harder I work, the more luck I seem to have. Stay hungry, stay foolish. GraphQL Scalability Server Response Predictive Analytics
+Cache Invalidation Server Response Quantum Computing Frontend If you can dream it, you can do it. Automation Security I find that the harder I work, the more luck I seem to have. Database Indexing
