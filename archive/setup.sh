@@ -37,3 +37,4 @@ Dream big and dare to fail. JWT Machine Learning Do what you love and the money 
 Do what you love and the money will follow. Event-driven Architecture Great things never come from comfort zones. Data Pipeline Success usually comes to those who are too busy to be looking for it. Database Indexing Performance Load Testing Kafka
 GraphQL Dream big and dare to fail. Simplicity is the ultimate sophistication. Neural Networks Load Testing
 RabbitMQ I find that the harder I work, the more luck I seem to have. The only way to do great work is to love what you do. Microservices Performance Data Science Content Delivery Network
+UX Optimization Cloud Functions Message Queue Load Balancing React
