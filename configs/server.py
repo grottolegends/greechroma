@@ -19,3 +19,4 @@ Edge Computing Microservices JWT Python Success is not in what you have, but who
 Load Testing To be the best, you must be able to handle the worst. Replica Set Kubernetes Version Control
 Dream big and dare to fail. UX Optimization Testing IoT Logging Opportunities don't happen. You create them. Predictive Analytics Microservices Kafka Cloud Functions Serverless Performance JWT
 Message Queue Agile OAuth Event-driven Architecture Serverless Blockchain Sharding Cache Invalidation Lambda Functions UX Optimization Cloud
+Algorithm DevOps DNS Routing Python Opportunities don't happen. You create them.
