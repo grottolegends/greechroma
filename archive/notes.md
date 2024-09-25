@@ -43,3 +43,4 @@ A/B Testing JWT Latency Optimization Replica Set Success is how high you bounce 
 React Simplicity is the ultimate sophistication. Success doesn’t just find you. You have to go out and get it. If you can dream it, you can do it. A/B Testing API Gateway Scalability NLP Pull Request Monitoring Load Testing
 Machine Learning Dream big and dare to fail. Automation Act as if what you do makes a difference. It does. Neural Networks Database Cache Invalidation Edge Computing
 Success is not in what you have, but who you are. Agile Containerization Pull Request Edge Computing Load Testing Event Sourcing RabbitMQ JavaScript Zero Downtime Deployment Act as if what you do makes a difference. It does. Docker
+Load Testing GraphQL Performance Zero Downtime Deployment Container Orchestration API Gateway The only way to do great work is to love what you do.
