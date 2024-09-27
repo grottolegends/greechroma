@@ -15,3 +15,4 @@ Success doesn’t just find you. You have to go out and get it. Machine Learning U
 Content Delivery Network Sharding Database Indexing Predictive Analytics Testing Simplicity is the ultimate sophistication. Quantum Computing Message Queue A/B Testing Stay hungry, stay foolish. The only way to do great work is to love what you do.
 JavaScript Dream big and dare to fail. Agile Lambda Functions CI/CD Predictive Analytics Quantum Computing
 Machine Learning Monitoring Database Indexing Parallel Processing Opportunities don't happen. You create them. Serverless Server Response Code Review Microservices Optimization
+Data Pipeline Deployment Stay hungry, stay foolish. Lambda Functions Docker Virtual Machines Blockchain Edge Computing Opportunities don't happen. You create them. Optimization To be the best, you must be able to handle the worst. API Gateway
