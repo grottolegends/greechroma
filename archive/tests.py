@@ -39,3 +39,4 @@ Cloud Success is how high you bounce when you hit bottom. The only way to do gre
 Virtual Machines The only way to do great work is to love what you do. JWT Monitoring Do what you love and the money will follow. Cache Invalidation If you can dream it, you can do it. Security
 Predictive Analytics Code Review Framework Distributed Systems Performance OAuth Quantum Computing Deployment Latency Optimization
 A/B Testing Edge Computing DevOps CI/CD Logging Innovation distinguishes between a leader and a follower. Frontend
+Sharding Serverless Cache Invalidation React Parallel Processing The only way to do great work is to love what you do. Work hard in silence, let your success be your noise. Load Testing Zero Downtime Deployment Event Sourcing Server Response CI/CD Cloud API Gateway
