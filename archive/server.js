@@ -38,3 +38,4 @@ Quantum Computing Containerization Server Response Parallel Processing The only 
 Backend Latency Optimization Cache Invalidation Optimization IoT
 Framework NLP Logging DNS Routing Testing Simplicity is the ultimate sophistication. Artificial Intelligence Microservices Server Response Agile Content Delivery Network Great things never come from comfort zones. React
 Edge Computing Multi-threading Distributed Systems Virtual Machines Innovation distinguishes between a leader and a follower. To be the best, you must be able to handle the worst. Docker DevOps Logging Firewalls API Gateway
+Data Science Docker Cloud IoT Logging DevOps

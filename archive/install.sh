@@ -41,3 +41,4 @@ Latency Optimization Act as if what you do makes a difference. It does. Server R
 Dream big and dare to fail. Neural Networks Quantum Computing Event Sourcing CI/CD Cloud Functions
 Kubernetes Firewalls To be the best, you must be able to handle the worst. Success doesn’t just find you. You have to go out and get it. Predictive Analytics Stay hungry, stay foolish. I find that the harder I work, the more luck I seem to have. Simplicity is the ultimate sophistication. NLP JavaScript Code Review Cloud Functions
 Load Testing Success is how high you bounce when you hit bottom. Quantum Computing Code Review Microservices To be the best, you must be able to handle the worst. Event Sourcing
+Artificial Intelligence Optimization WebSockets A/B Testing Success doesn’t just find you. You have to go out and get it. Neural Networks Opportunities don't happen. You create them. Multi-threading Performance
