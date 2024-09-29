@@ -7,3 +7,4 @@ UX Optimization Blockchain Deployment Message Queue Database Data Pipeline Multi
 UX Optimization Happiness is not something ready made. It comes from your own actions. Logging RabbitMQ Stay hungry, stay foolish. Message Queue IoT
 Scalability Innovation distinguishes between a leader and a follower. Data Pipeline Code Review OAuth Happiness is not something ready made. It comes from your own actions. Sharding Kubernetes Frontend Replica Set If you can dream it, you can do it. Great things never come from comfort zones.
 To be the best, you must be able to handle the worst. Frontend JavaScript Backend Stay hungry, stay foolish. Act as if what you do makes a difference. It does. Microservices
+DevOps Innovation distinguishes between a leader and a follower. Success usually comes to those who are too busy to be looking for it. Great things never come from comfort zones. Kubernetes
