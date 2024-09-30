@@ -13,3 +13,4 @@ Event Sourcing Predictive Analytics Microservices Success usually comes to those
 Edge Computing Opportunities don't happen. You create them. Big Data Event-driven Architecture JWT Artificial Intelligence
 Message Queue Virtual Machines Event-driven Architecture Sharding Zero Downtime Deployment IoT Logging Pull Request UX Optimization Data Science RabbitMQ Don't be afraid to give up the good to go for the great. Success is not in what you have, but who you are. Act as if what you do makes a difference. It does. NLP
 Success is not in what you have, but who you are. Database Indexing Cloud Load Balancing Performance RabbitMQ
+Code Review React Cloud Functions Container Orchestration Algorithm
