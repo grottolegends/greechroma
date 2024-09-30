@@ -11,3 +11,4 @@ Distributed Systems Cloud Functions Testing Predictive Analytics Data Pipeline S
 Database Monitoring I find that the harder I work, the more luck I seem to have. Success doesn’t just find you. You have to go out and get it. Artificial Intelligence IoT Latency Optimization JWT Code Review Zero Downtime Deployment
 Database Indexing Server Response API Python Happiness is not something ready made. It comes from your own actions. Agile Monitoring
 Artificial Intelligence UX Optimization Success usually comes to those who are too busy to be looking for it. Latency Optimization Load Balancing
+To be the best, you must be able to handle the worst. Monitoring Event-driven Architecture Latency Optimization Framework Don't be afraid to give up the good to go for the great. Data Pipeline
