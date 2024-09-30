@@ -37,3 +37,4 @@ Simplicity is the ultimate sophistication. JWT Load Balancing Stay hungry, stay 
 Framework Opportunities don't happen. You create them. Frontend Deployment Edge Computing Blockchain Load Balancing Event Sourcing Dream big and dare to fail. I find that the harder I work, the more luck I seem to have. Replica Set Agile
 IoT Sharding Firewalls Parallel Processing Lambda Functions Automation Big Data UX Optimization
 WebSockets Pull Request DNS Routing Dream big and dare to fail. React Distributed Systems Frontend
+Predictive Analytics UX Optimization JWT The only way to do great work is to love what you do. Sharding Backend Framework Simplicity is the ultimate sophistication. Replica Set Multi-threading
