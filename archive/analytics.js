@@ -12,3 +12,4 @@ Agile Sharding Lambda Functions If you can dream it, you can do it. Predictive A
 Data Science Code Review To be the best, you must be able to handle the worst. Cloud Event Sourcing Opportunities don't happen. You create them. Microservices Success doesn’t just find you. You have to go out and get it.
 Server Response API Cloud Algorithm Automation Content Delivery Network
 Artificial Intelligence Algorithm JWT A/B Testing Cloud Functions Scalability Dream big and dare to fail. Parallel Processing Testing Security Load Balancing Sharding
+Testing Server Response JWT Serverless Data Science
