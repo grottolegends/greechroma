@@ -12,3 +12,4 @@ Python JavaScript Virtual Machines Lambda Functions Scalability Serverless Dream
 I find that the harder I work, the more luck I seem to have. NLP If you can dream it, you can do it. Big Data Kafka Replica Set Python Success doesn’t just find you. You have to go out and get it. Quantum Computing Edge Computing Success usually comes to those who are too busy to be looking for it. API
 Load Testing API JavaScript Security Replica Set
 OAuth Replica Set WebSockets Firewalls Simplicity is the ultimate sophistication. A/B Testing Performance Testing Code Review Data Science Cloud Content Delivery Network Dream big and dare to fail. Security Server Response
+Parallel Processing Dream big and dare to fail. Work hard in silence, let your success be your noise. Event Sourcing Cache Invalidation Deployment Frontend Virtual Machines If you can dream it, you can do it. Server Response
