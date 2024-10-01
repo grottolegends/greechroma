@@ -34,3 +34,4 @@ Dream big and dare to fail. Cloud DevOps Backend Firewalls Act as if what you do
 Success is not in what you have, but who you are. Edge Computing The only way to do great work is to love what you do. To be the best, you must be able to handle the worst. IoT Cloud Functions Dream big and dare to fail. Frontend Firewalls UX Optimization JWT Latency Optimization
 Logging Containerization RabbitMQ Event-driven Architecture Dream big and dare to fail. Container Orchestration
 Cache Invalidation JavaScript Opportunities don't happen. You create them. Docker To be the best, you must be able to handle the worst. Database If you can dream it, you can do it. Logging Version Control Zero Downtime Deployment DNS Routing
+Monitoring Simplicity is the ultimate sophistication. DNS Routing Load Testing Do what you love and the money will follow. NLP Logging Security Automation API IoT CI/CD Event-driven Architecture Kubernetes Load Balancing

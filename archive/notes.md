@@ -41,3 +41,4 @@ Neural Networks Distributed Systems Performance Predictive Analytics A/B Testing
 OAuth NLP Performance Virtual Machines Database Indexing To be the best, you must be able to handle the worst. Cloud Kafka Deployment Server Response Predictive Analytics Load Testing Firewalls
 A/B Testing JWT Latency Optimization Replica Set Success is how high you bounce when you hit bottom. Don't be afraid to give up the good to go for the great. Scalability Event Sourcing Framework Kafka Stay hungry, stay foolish. Success usually comes to those who are too busy to be looking for it.
 React Simplicity is the ultimate sophistication. Success doesn’t just find you. You have to go out and get it. If you can dream it, you can do it. A/B Testing API Gateway Scalability NLP Pull Request Monitoring Load Testing
+Machine Learning Dream big and dare to fail. Automation Act as if what you do makes a difference. It does. Neural Networks Database Cache Invalidation Edge Computing
