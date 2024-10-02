@@ -36,3 +36,4 @@ Microservices Dream big and dare to fail. I find that the harder I work, the mor
 Big Data Event Sourcing Replica Set Cache Invalidation Deployment Parallel Processing Algorithm DevOps OAuth Container Orchestration Cloud
 Quantum Computing Containerization Server Response Parallel Processing The only way to do great work is to love what you do. To be the best, you must be able to handle the worst. Edge Computing Optimization Framework Database Indexing Simplicity is the ultimate sophistication. Stay hungry, stay foolish. Performance Replica Set Deployment
 Backend Latency Optimization Cache Invalidation Optimization IoT
+Framework NLP Logging DNS Routing Testing Simplicity is the ultimate sophistication. Artificial Intelligence Microservices Server Response Agile Content Delivery Network Great things never come from comfort zones. React
