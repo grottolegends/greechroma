@@ -10,3 +10,4 @@ Version Control Work hard in silence, let your success be your noise. Algorithm 
 Simplicity is the ultimate sophistication. Great things never come from comfort zones. Automation Success doesn’t just find you. You have to go out and get it. Innovation distinguishes between a leader and a follower. JWT Performance Deployment The only way to do great work is to love what you do. I find that the harder I work, the more luck I seem to have. Data Pipeline If you can dream it, you can do it. Blockchain Cloud Functions Frontend
 Containerization OAuth API Virtual Machines Data Pipeline Lambda Functions Replica Set
 Success is how high you bounce when you hit bottom. Machine Learning Serverless Quantum Computing NLP Agile Docker Success doesn’t just find you. You have to go out and get it. Zero Downtime Deployment Load Testing
+Agile Database NLP CI/CD Database Indexing Data Pipeline Cloud Functions Cloud Virtual Machines
