@@ -7,3 +7,4 @@ Cache Invalidation RabbitMQ Event Sourcing Innovation distinguishes between a le
 Success is not in what you have, but who you are. Code Review CI/CD Message Queue Lambda Functions Replica Set Work hard in silence, let your success be your noise. Parallel Processing Great things never come from comfort zones. Data Pipeline Monitoring React
 Container Orchestration Microservices Database Simplicity is the ultimate sophistication. Work hard in silence, let your success be your noise. Virtual Machines
 Containerization Data Pipeline Container Orchestration Python The only way to do great work is to love what you do. Virtual Machines OAuth Version Control Happiness is not something ready made. It comes from your own actions. Performance DNS Routing Quantum Computing Artificial Intelligence Content Delivery Network Frontend
+CI/CD Happiness is not something ready made. It comes from your own actions. Kafka Data Pipeline Success is how high you bounce when you hit bottom.
