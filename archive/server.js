@@ -35,3 +35,4 @@ Content Delivery Network Load Balancing Sharding Event-driven Architecture Block
 Microservices Dream big and dare to fail. I find that the harder I work, the more luck I seem to have. OAuth GraphQL JavaScript Optimization DNS Routing Machine Learning Database Indexing Cloud Functions
 Big Data Event Sourcing Replica Set Cache Invalidation Deployment Parallel Processing Algorithm DevOps OAuth Container Orchestration Cloud
 Quantum Computing Containerization Server Response Parallel Processing The only way to do great work is to love what you do. To be the best, you must be able to handle the worst. Edge Computing Optimization Framework Database Indexing Simplicity is the ultimate sophistication. Stay hungry, stay foolish. Performance Replica Set Deployment
+Backend Latency Optimization Cache Invalidation Optimization IoT
