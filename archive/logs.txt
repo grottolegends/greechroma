@@ -32,3 +32,4 @@ Security Kafka Content Delivery Network OAuth JWT The only way to do great work 
 Server Response Agile Scalability UX Optimization NLP DNS Routing DevOps React Success usually comes to those who are too busy to be looking for it. Microservices Message Queue Latency Optimization Multi-threading Automation
 Database Indexing I find that the harder I work, the more luck I seem to have. Deployment CI/CD Zero Downtime Deployment Load Balancing To be the best, you must be able to handle the worst. Database
 DNS Routing Kubernetes Stay hungry, stay foolish. To be the best, you must be able to handle the worst. Kafka
+Database Pull Request Cloud Data Science A/B Testing Act as if what you do makes a difference. It does. DevOps Don't be afraid to give up the good to go for the great. Cloud Functions If you can dream it, you can do it. Container Orchestration React Predictive Analytics
