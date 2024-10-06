@@ -14,3 +14,4 @@ Kubernetes Event-driven Architecture Artificial Intelligence Scalability Optimiz
 Backend Message Queue Do what you love and the money will follow. Don't be afraid to give up the good to go for the great. Testing Great things never come from comfort zones. Container Orchestration
 Server Response Content Delivery Network React Pull Request Agile Predictive Analytics Replica Set Artificial Intelligence Stay hungry, stay foolish. Do what you love and the money will follow. Serverless
 Dream big and dare to fail. UX Optimization Innovation distinguishes between a leader and a follower. Simplicity is the ultimate sophistication. IoT Container Orchestration Testing Kafka The only way to do great work is to love what you do. Framework Blockchain
+Code Review Python Serverless Database I find that the harder I work, the more luck I seem to have. Difficult roads often lead to beautiful destinations. Kafka Replica Set Data Science Performance
