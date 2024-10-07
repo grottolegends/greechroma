@@ -10,3 +10,4 @@ Database Success is not in what you have, but who you are. Act as if what you do
 GraphQL Container Orchestration Firewalls The only way to do great work is to love what you do. Cache Invalidation Happiness is not something ready made. It comes from your own actions. Database Containerization
 Content Delivery Network Serverless Blockchain Optimization Innovation distinguishes between a leader and a follower. JWT Automation API Gateway Performance Microservices Work hard in silence, let your success be your noise. NLP A/B Testing
 Docker Message Queue API Gateway UX Optimization Algorithm Content Delivery Network Edge Computing Replica Set Frontend OAuth Optimization Cache Invalidation
+JWT Scalability Sharding Python Microservices Kafka Cloud Functions
