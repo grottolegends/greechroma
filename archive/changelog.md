@@ -12,3 +12,4 @@ Kafka JWT WebSockets Content Delivery Network Microservices Scalability Machine 
 Framework I find that the harder I work, the more luck I seem to have. Replica Set Kubernetes Cloud Functions
 CI/CD Automation Containerization Event Sourcing Optimization Kafka Load Balancing Predictive Analytics Replica Set JavaScript Great things never come from comfort zones. Happiness is not something ready made. It comes from your own actions. WebSockets Success usually comes to those who are too busy to be looking for it.
 JWT DNS Routing Multi-threading Success is not in what you have, but who you are. Containerization WebSockets Deployment I find that the harder I work, the more luck I seem to have. Latency Optimization Algorithm Database
+Event-driven Architecture Docker Python RabbitMQ Logging Content Delivery Network Security I find that the harder I work, the more luck I seem to have. Scalability Performance Load Testing Optimization Machine Learning Latency Optimization
