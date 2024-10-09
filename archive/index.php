@@ -16,3 +16,4 @@ Agile Opportunities don't happen. You create them. Logging Container Orchestrati
 Happiness is not something ready made. It comes from your own actions. Machine Learning Data Science I find that the harder I work, the more luck I seem to have. Containerization API Gateway Deployment Monitoring Performance Pull Request
 Innovation distinguishes between a leader and a follower. Message Queue Zero Downtime Deployment Dream big and dare to fail. UX Optimization Parallel Processing
 Artificial Intelligence API Gateway Server Response Parallel Processing Sharding Monitoring
+Frontend Work hard in silence, let your success be your noise. Blockchain To be the best, you must be able to handle the worst. CI/CD Predictive Analytics Dream big and dare to fail. Sharding
