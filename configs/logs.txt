@@ -9,3 +9,4 @@ Firewalls Load Balancing If you can dream it, you can do it. DNS Routing Data Sc
 Load Balancing Kafka Backend Cloud Functions API RabbitMQ Stay hungry, stay foolish. Python JavaScript Automation Containerization React
 Sharding Opportunities don't happen. You create them. Event Sourcing Logging Kubernetes Difficult roads often lead to beautiful destinations. Cloud Monitoring A/B Testing
 Algorithm Deployment Cache Invalidation Monitoring OAuth Difficult roads often lead to beautiful destinations. JavaScript Lambda Functions Scalability Machine Learning If you can dream it, you can do it.
+Event-driven Architecture Latency Optimization Dream big and dare to fail. Docker If you can dream it, you can do it.
