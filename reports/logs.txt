@@ -4,3 +4,4 @@ Microservices Artificial Intelligence I find that the harder I work, the more lu
 Backend RabbitMQ OAuth Difficult roads often lead to beautiful destinations. UX Optimization
 Virtual Machines Neural Networks Docker UX Optimization Container Orchestration Event-driven Architecture Agile OAuth
 Event-driven Architecture To be the best, you must be able to handle the worst. Deployment Server Response Data Science Predictive Analytics Database Edge Computing Do what you love and the money will follow.
+Pull Request Deployment Work hard in silence, let your success be your noise. Event Sourcing Neural Networks Data Science Automation Code Review Backend
