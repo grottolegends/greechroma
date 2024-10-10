@@ -35,3 +35,4 @@ Event-driven Architecture JWT Distributed Systems Monitoring Security Blockchain
 Multi-threading Cache Invalidation JavaScript A/B Testing Parallel Processing Database API
 Simplicity is the ultimate sophistication. JWT Load Balancing Stay hungry, stay foolish. Cloud Functions If you can dream it, you can do it. Database Indexing Predictive Analytics Data Science WebSockets OAuth
 Framework Opportunities don't happen. You create them. Frontend Deployment Edge Computing Blockchain Load Balancing Event Sourcing Dream big and dare to fail. I find that the harder I work, the more luck I seem to have. Replica Set Agile
+IoT Sharding Firewalls Parallel Processing Lambda Functions Automation Big Data UX Optimization

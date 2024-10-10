@@ -29,3 +29,4 @@ Agile Deployment Algorithm Data Pipeline Monitoring Load Testing Success is not 
 Virtual Machines Blockchain Framework CI/CD Docker API Opportunities don't happen. You create them. Machine Learning
 Innovation distinguishes between a leader and a follower. API Gateway Serverless Database Work hard in silence, let your success be your noise. Microservices Replica Set Version Control Kafka Latency Optimization Content Delivery Network
 Happiness is not something ready made. It comes from your own actions. Stay hungry, stay foolish. Great things never come from comfort zones. Edge Computing A/B Testing Machine Learning Neural Networks Event Sourcing
+Kubernetes Optimization Artificial Intelligence The only way to do great work is to love what you do. Event Sourcing Dream big and dare to fail.
