@@ -41,3 +41,4 @@ Serverless Python RabbitMQ The only way to do great work is to love what you do.
 Big Data React A/B Testing WebSockets DevOps Firewalls Optimization Cloud Success is how high you bounce when you hit bottom. Algorithm Serverless Latency Optimization Container Orchestration
 Cache Invalidation Sharding Stay hungry, stay foolish. Neural Networks DNS Routing Backend Edge Computing Multi-threading Security Don't be afraid to give up the good to go for the great. Algorithm Framework
 Success usually comes to those who are too busy to be looking for it. Predictive Analytics Innovation distinguishes between a leader and a follower. Success is how high you bounce when you hit bottom. Algorithm Database Indexing Cloud Functions Cloud Cache Invalidation Testing Monitoring
+Version Control Load Testing JavaScript Distributed Systems WebSockets Pull Request

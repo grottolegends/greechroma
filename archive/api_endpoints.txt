@@ -40,3 +40,4 @@ Zero Downtime Deployment DNS Routing Message Queue Python Microservices WebSocke
 Testing Optimization Big Data Automation Latency Optimization Logging
 DevOps GraphQL Success usually comes to those who are too busy to be looking for it. Great things never come from comfort zones. Version Control Success doesn’t just find you. You have to go out and get it. UX Optimization Database Indexing Do what you love and the money will follow. Virtual Machines Deployment WebSockets
 Latency Optimization Machine Learning GraphQL Database Multi-threading Lambda Functions Firewalls JavaScript Container Orchestration
+Deployment Distributed Systems IoT Python Performance Edge Computing Parallel Processing Replica Set Container Orchestration NLP Data Science
