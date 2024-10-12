@@ -10,3 +10,4 @@ Kafka IoT Python I find that the harder I work, the more luck I seem to have. Ja
 Distributed Systems Cloud Functions Testing Predictive Analytics Data Pipeline Success is not in what you have, but who you are. Monitoring Big Data Kafka Event Sourcing Scalability
 Database Monitoring I find that the harder I work, the more luck I seem to have. Success doesn’t just find you. You have to go out and get it. Artificial Intelligence IoT Latency Optimization JWT Code Review Zero Downtime Deployment
 Database Indexing Server Response API Python Happiness is not something ready made. It comes from your own actions. Agile Monitoring
+Artificial Intelligence UX Optimization Success usually comes to those who are too busy to be looking for it. Latency Optimization Load Balancing
