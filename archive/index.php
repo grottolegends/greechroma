@@ -15,3 +15,4 @@ The only way to do great work is to love what you do. Virtual Machines Work hard
 Agile Opportunities don't happen. You create them. Logging Container Orchestration Containerization Code Review Don't be afraid to give up the good to go for the great. Success doesn’t just find you. You have to go out and get it. Quantum Computing NLP
 Happiness is not something ready made. It comes from your own actions. Machine Learning Data Science I find that the harder I work, the more luck I seem to have. Containerization API Gateway Deployment Monitoring Performance Pull Request
 Innovation distinguishes between a leader and a follower. Message Queue Zero Downtime Deployment Dream big and dare to fail. UX Optimization Parallel Processing
+Artificial Intelligence API Gateway Server Response Parallel Processing Sharding Monitoring
