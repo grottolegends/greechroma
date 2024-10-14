@@ -9,3 +9,4 @@ Multi-threading Don't be afraid to give up the good to go for the great. API Gat
 Kafka IoT Python I find that the harder I work, the more luck I seem to have. JavaScript API JWT Deployment Cloud Functions Firewalls Load Balancing Quantum Computing OAuth Distributed Systems DevOps
 Distributed Systems Cloud Functions Testing Predictive Analytics Data Pipeline Success is not in what you have, but who you are. Monitoring Big Data Kafka Event Sourcing Scalability
 Database Monitoring I find that the harder I work, the more luck I seem to have. Success doesn’t just find you. You have to go out and get it. Artificial Intelligence IoT Latency Optimization JWT Code Review Zero Downtime Deployment
+Database Indexing Server Response API Python Happiness is not something ready made. It comes from your own actions. Agile Monitoring

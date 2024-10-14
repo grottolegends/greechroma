@@ -15,3 +15,4 @@ Quantum Computing CI/CD Backend Dream big and dare to fail. Docker Microservices
 Cloud CI/CD Zero Downtime Deployment Act as if what you do makes a difference. It does. Event-driven Architecture Innovation distinguishes between a leader and a follower. Stay hungry, stay foolish. Serverless If you can dream it, you can do it. Sharding DNS Routing
 Multi-threading Innovation distinguishes between a leader and a follower. API Gateway Stay hungry, stay foolish. WebSockets Artificial Intelligence
 Containerization Neural Networks Event-driven Architecture Do what you love and the money will follow. Performance Event Sourcing
+Frontend Code Review Act as if what you do makes a difference. It does. Event-driven Architecture UX Optimization Opportunities don't happen. You create them. Neural Networks Virtual Machines
