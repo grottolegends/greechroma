@@ -7,3 +7,4 @@ Virtual Machines Pull Request If you can dream it, you can do it. Quantum Comput
 Multi-threading JavaScript Algorithm Success usually comes to those who are too busy to be looking for it. Version Control Opportunities don't happen. You create them. Replica Set Serverless Data Science DNS Routing Backend API
 Security Docker Container Orchestration Load Balancing Cache Invalidation The only way to do great work is to love what you do. Difficult roads often lead to beautiful destinations.
 Code Review Do what you love and the money will follow. Data Science Message Queue Deployment
+Automation Success usually comes to those who are too busy to be looking for it. Database Indexing Data Science Multi-threading Event Sourcing A/B Testing Zero Downtime Deployment Big Data Happiness is not something ready made. It comes from your own actions. Agile If you can dream it, you can do it. Event-driven Architecture DevOps CI/CD
