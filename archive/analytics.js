@@ -33,3 +33,4 @@ GraphQL Microservices Version Control Framework DNS Routing Blockchain OAuth Suc
 Container Orchestration Message Queue Predictive Analytics Version Control Automation Load Testing Simplicity is the ultimate sophistication. Monitoring Stay hungry, stay foolish. DNS Routing UX Optimization
 Success is how high you bounce when you hit bottom. Success doesn’t just find you. You have to go out and get it. Act as if what you do makes a difference. It does. Firewalls Logging Blockchain Automation Performance API Artificial Intelligence Data Pipeline
 A/B Testing DNS Routing Database Indexing Lambda Functions OAuth
+JavaScript Simplicity is the ultimate sophistication. DevOps Quantum Computing Innovation distinguishes between a leader and a follower. Containerization UX Optimization JWT Opportunities don't happen. You create them. Act as if what you do makes a difference. It does. Serverless Deployment Testing
