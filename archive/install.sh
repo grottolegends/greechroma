@@ -12,3 +12,4 @@ Latency Optimization Edge Computing Machine Learning WebSockets React Logging OA
 Lambda Functions Kafka Pull Request WebSockets Artificial Intelligence Dream big and dare to fail.
 Kubernetes Event-driven Architecture Artificial Intelligence Scalability Optimization NLP Code Review Distributed Systems Act as if what you do makes a difference. It does. Quantum Computing Load Testing Predictive Analytics Multi-threading Dream big and dare to fail.
 Backend Message Queue Do what you love and the money will follow. Don't be afraid to give up the good to go for the great. Testing Great things never come from comfort zones. Container Orchestration
+Server Response Content Delivery Network React Pull Request Agile Predictive Analytics Replica Set Artificial Intelligence Stay hungry, stay foolish. Do what you love and the money will follow. Serverless
