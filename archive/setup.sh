@@ -10,3 +10,4 @@ Latency Optimization Agile Container Orchestration Success is not in what you ha
 IoT Blockchain Innovation distinguishes between a leader and a follower. Act as if what you do makes a difference. It does. Simplicity is the ultimate sophistication. Sharding Server Response Load Balancing Optimization Data Pipeline OAuth Cloud Difficult roads often lead to beautiful destinations. Quantum Computing Neural Networks
 Python JavaScript Virtual Machines Lambda Functions Scalability Serverless Dream big and dare to fail. Logging Cloud Functions
 I find that the harder I work, the more luck I seem to have. NLP If you can dream it, you can do it. Big Data Kafka Replica Set Python Success doesn’t just find you. You have to go out and get it. Quantum Computing Edge Computing Success usually comes to those who are too busy to be looking for it. API
+Load Testing API JavaScript Security Replica Set
