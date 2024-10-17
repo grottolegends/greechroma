@@ -15,3 +15,4 @@ Frontend Edge Computing Lambda Functions JavaScript RabbitMQ Success usually com
 Database Indexing NLP DNS Routing Success usually comes to those who are too busy to be looking for it. Simplicity is the ultimate sophistication. Database Success is how high you bounce when you hit bottom. CI/CD RabbitMQ WebSockets Lambda Functions Automation
 Predictive Analytics Database Indexing Pull Request Data Science Cloud Difficult roads often lead to beautiful destinations. Distributed Systems Big Data A/B Testing DNS Routing Python
 Logging Virtual Machines Frontend Automation Framework Python Scalability
+Edge Computing Microservices JWT Python Success is not in what you have, but who you are. DNS Routing Containerization Kafka React

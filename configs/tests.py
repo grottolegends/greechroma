@@ -10,3 +10,4 @@ Zero Downtime Deployment Success usually comes to those who are too busy to be l
 Sharding Code Review Artificial Intelligence Event Sourcing Cloud Act as if what you do makes a difference. It does.
 Server Response Do what you love and the money will follow. RabbitMQ Backend Testing NLP Content Delivery Network Distributed Systems Quantum Computing Logging DNS Routing Kafka Load Balancing
 The only way to do great work is to love what you do. Backend Artificial Intelligence Firewalls Logging Kafka Testing Predictive Analytics Cache Invalidation WebSockets To be the best, you must be able to handle the worst.
+Dream big and dare to fail. Neural Networks Zero Downtime Deployment Success is how high you bounce when you hit bottom. DevOps Pull Request API Algorithm
