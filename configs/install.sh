@@ -11,3 +11,4 @@ Database Indexing Data Pipeline API Python Cloud Functions
 Optimization Load Testing Machine Learning DNS Routing RabbitMQ OAuth Python NLP WebSockets Act as if what you do makes a difference. It does. Zero Downtime Deployment Serverless Performance
 Do what you love and the money will follow. Docker Scalability Machine Learning Sharding Simplicity is the ultimate sophistication. A/B Testing Big Data WebSockets Microservices
 Content Delivery Network Innovation distinguishes between a leader and a follower. Lambda Functions Database React Server Response Testing UX Optimization Happiness is not something ready made. It comes from your own actions. Sharding DevOps Multi-threading Containerization Framework OAuth
+Event Sourcing Success is how high you bounce when you hit bottom. Virtual Machines Parallel Processing WebSockets Cloud Functions DevOps Python I find that the harder I work, the more luck I seem to have. API

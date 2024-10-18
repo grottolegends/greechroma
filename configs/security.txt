@@ -8,3 +8,4 @@ API Microservices Parallel Processing Python Distributed Systems
 Backend Agile Microservices Kubernetes Security Frontend Zero Downtime Deployment If you can dream it, you can do it. Work hard in silence, let your success be your noise. React Predictive Analytics Firewalls Message Queue Act as if what you do makes a difference. It does.
 Version Control Work hard in silence, let your success be your noise. Algorithm Message Queue Microservices
 Simplicity is the ultimate sophistication. Great things never come from comfort zones. Automation Success doesn’t just find you. You have to go out and get it. Innovation distinguishes between a leader and a follower. JWT Performance Deployment The only way to do great work is to love what you do. I find that the harder I work, the more luck I seem to have. Data Pipeline If you can dream it, you can do it. Blockchain Cloud Functions Frontend
+Containerization OAuth API Virtual Machines Data Pipeline Lambda Functions Replica Set
