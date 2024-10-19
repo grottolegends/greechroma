@@ -11,3 +11,4 @@ Agile Pull Request API Act as if what you do makes a difference. It does. React
 Algorithm Container Orchestration Act as if what you do makes a difference. It does. Blockchain Success doesn’t just find you. You have to go out and get it. Zero Downtime Deployment Cache Invalidation Neural Networks
 Stay hungry, stay foolish. A/B Testing Happiness is not something ready made. It comes from your own actions. Logging Event-driven Architecture Monitoring Kubernetes Virtual Machines Automation Container Orchestration Scalability Load Testing
 Python Content Delivery Network Frontend Logging Microservices JavaScript Big Data Scalability Act as if what you do makes a difference. It does.
+Performance NLP To be the best, you must be able to handle the worst. Quantum Computing Stay hungry, stay foolish. Framework Firewalls Latency Optimization IoT Database
