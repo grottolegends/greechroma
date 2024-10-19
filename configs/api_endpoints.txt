@@ -11,3 +11,4 @@ Neural Networks API Opportunities don't happen. You create them. Backend Algorit
 Message Queue Work hard in silence, let your success be your noise. Kubernetes Do what you love and the money will follow. Testing DevOps Deployment Edge Computing Blockchain DNS Routing
 Containerization Happiness is not something ready made. It comes from your own actions. Firewalls Docker Data Pipeline Security
 Load Balancing Python Latency Optimization Database Automation To be the best, you must be able to handle the worst. I find that the harder I work, the more luck I seem to have. Microservices Stay hungry, stay foolish. Work hard in silence, let your success be your noise. Firewalls Frontend Opportunities don't happen. You create them.
+CI/CD Cloud Functions Big Data Kafka Performance Multi-threading Algorithm Logging

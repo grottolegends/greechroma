@@ -9,3 +9,4 @@ Agile Microservices Zero Downtime Deployment NLP React Testing JavaScript Docker
 Microservices Load Balancing Event-driven Architecture Server Response Stay hungry, stay foolish.
 Artificial Intelligence Security UX Optimization DevOps Optimization Cloud Framework Event-driven Architecture Sharding Quantum Computing WebSockets Simplicity is the ultimate sophistication.
 Data Science DNS Routing DevOps If you can dream it, you can do it. Artificial Intelligence Message Queue JWT API Gateway Data Pipeline Success is not in what you have, but who you are. Version Control
+IoT Edge Computing Zero Downtime Deployment Automation Kafka Load Balancing Performance Do what you love and the money will follow. Message Queue Cloud Functions Version Control Monitoring Backend
