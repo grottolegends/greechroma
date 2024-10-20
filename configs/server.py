@@ -14,3 +14,4 @@ Don't be afraid to give up the good to go for the great. Cloud Load Testing API 
 Frontend Edge Computing Lambda Functions JavaScript RabbitMQ Success usually comes to those who are too busy to be looking for it. Message Queue API Gateway Opportunities don't happen. You create them. Kafka Version Control Simplicity is the ultimate sophistication. Happiness is not something ready made. It comes from your own actions. Latency Optimization
 Database Indexing NLP DNS Routing Success usually comes to those who are too busy to be looking for it. Simplicity is the ultimate sophistication. Database Success is how high you bounce when you hit bottom. CI/CD RabbitMQ WebSockets Lambda Functions Automation
 Predictive Analytics Database Indexing Pull Request Data Science Cloud Difficult roads often lead to beautiful destinations. Distributed Systems Big Data A/B Testing DNS Routing Python
+Logging Virtual Machines Frontend Automation Framework Python Scalability
