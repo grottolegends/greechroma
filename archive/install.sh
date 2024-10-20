@@ -38,3 +38,4 @@ Kubernetes A/B Testing Blockchain Containerization Pull Request Difficult roads 
 Event-driven Architecture Performance Load Balancing Firewalls Version Control A/B Testing Machine Learning Latency Optimization Container Orchestration WebSockets
 Big Data To be the best, you must be able to handle the worst. Artificial Intelligence Kafka Cloud Functions Machine Learning Great things never come from comfort zones.
 Latency Optimization Act as if what you do makes a difference. It does. Server Response Data Pipeline Do what you love and the money will follow. Container Orchestration Monitoring Automation UX Optimization API Gateway If you can dream it, you can do it. Python
+Dream big and dare to fail. Neural Networks Quantum Computing Event Sourcing CI/CD Cloud Functions

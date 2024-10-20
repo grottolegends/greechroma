@@ -43,3 +43,4 @@ If you can dream it, you can do it. Multi-threading Load Testing Server Response
 UX Optimization JavaScript Code Review Cloud Framework GraphQL Replica Set DevOps OAuth Stay hungry, stay foolish. Success usually comes to those who are too busy to be looking for it. API Gateway Container Orchestration Content Delivery Network Artificial Intelligence
 Load Balancing Difficult roads often lead to beautiful destinations. Serverless Simplicity is the ultimate sophistication. Replica Set
 Latency Optimization Cloud React Framework Work hard in silence, let your success be your noise.
+IoT Microservices Load Testing Data Science Cache Invalidation Algorithm Docker Pull Request Stay hungry, stay foolish. NLP
