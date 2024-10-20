@@ -44,3 +44,4 @@ UX Optimization JavaScript Code Review Cloud Framework GraphQL Replica Set DevOp
 Load Balancing Difficult roads often lead to beautiful destinations. Serverless Simplicity is the ultimate sophistication. Replica Set
 Latency Optimization Cloud React Framework Work hard in silence, let your success be your noise.
 IoT Microservices Load Testing Data Science Cache Invalidation Algorithm Docker Pull Request Stay hungry, stay foolish. NLP
+The only way to do great work is to love what you do. Don't be afraid to give up the good to go for the great. To be the best, you must be able to handle the worst. Replica Set Do what you love and the money will follow. Kafka Edge Computing GraphQL Container Orchestration IoT
