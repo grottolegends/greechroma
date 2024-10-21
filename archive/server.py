@@ -14,3 +14,4 @@ Performance Replica Set Stay hungry, stay foolish. DNS Routing DevOps Don't be a
 API Gateway Latency Optimization IoT Message Queue Python Great things never come from comfort zones. Database Simplicity is the ultimate sophistication. Cloud Automation
 Lambda Functions Load Testing Content Delivery Network Dream big and dare to fail. Data Pipeline Stay hungry, stay foolish. IoT JavaScript Latency Optimization JWT Happiness is not something ready made. It comes from your own actions. Code Review Edge Computing API
 Firewalls Framework I find that the harder I work, the more luck I seem to have. Logging Success is how high you bounce when you hit bottom. DevOps Performance Event-driven Architecture Predictive Analytics RabbitMQ
+Big Data Multi-threading Zero Downtime Deployment IoT Testing Dream big and dare to fail. API Gateway DNS Routing Cloud Functions Pull Request
