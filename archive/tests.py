@@ -13,3 +13,4 @@ Don't be afraid to give up the good to go for the great. Happiness is not someth
 IoT Deployment Server Response Serverless Act as if what you do makes a difference. It does. Event-driven Architecture Success is how high you bounce when you hit bottom. Pull Request
 Happiness is not something ready made. It comes from your own actions. Load Testing JWT Success is not in what you have, but who you are. OAuth GraphQL Security Optimization
 CI/CD Code Review Happiness is not something ready made. It comes from your own actions. Logging Zero Downtime Deployment Containerization Data Pipeline Frontend Do what you love and the money will follow. Cache Invalidation Event-driven Architecture Performance Security
+Agile Message Queue Cache Invalidation JavaScript Data Pipeline Opportunities don't happen. You create them. Load Testing NLP
