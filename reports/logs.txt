@@ -3,3 +3,4 @@ Data Science To be the best, you must be able to handle the worst. NLP Container
 Microservices Artificial Intelligence I find that the harder I work, the more luck I seem to have. Difficult roads often lead to beautiful destinations. Firewalls API Success is not in what you have, but who you are. Machine Learning Algorithm Great things never come from comfort zones. Stay hungry, stay foolish. UX Optimization Performance
 Backend RabbitMQ OAuth Difficult roads often lead to beautiful destinations. UX Optimization
 Virtual Machines Neural Networks Docker UX Optimization Container Orchestration Event-driven Architecture Agile OAuth
+Event-driven Architecture To be the best, you must be able to handle the worst. Deployment Server Response Data Science Predictive Analytics Database Edge Computing Do what you love and the money will follow.
