@@ -9,3 +9,4 @@ Server Response Docker Monitoring If you can dream it, you can do it. Frontend D
 Frontend Serverless Data Pipeline Load Testing Lambda Functions JavaScript Framework Success doesn’t just find you. You have to go out and get it.
 Database Indexing Data Pipeline API Python Cloud Functions
 Optimization Load Testing Machine Learning DNS Routing RabbitMQ OAuth Python NLP WebSockets Act as if what you do makes a difference. It does. Zero Downtime Deployment Serverless Performance
+Do what you love and the money will follow. Docker Scalability Machine Learning Sharding Simplicity is the ultimate sophistication. A/B Testing Big Data WebSockets Microservices
