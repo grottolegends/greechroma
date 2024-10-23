@@ -13,3 +13,4 @@ Pull Request API Gateway Cloud Firewalls Latency Optimization Algorithm IoT Fram
 Performance Replica Set Stay hungry, stay foolish. DNS Routing DevOps Don't be afraid to give up the good to go for the great. Deployment Security Scalability
 API Gateway Latency Optimization IoT Message Queue Python Great things never come from comfort zones. Database Simplicity is the ultimate sophistication. Cloud Automation
 Lambda Functions Load Testing Content Delivery Network Dream big and dare to fail. Data Pipeline Stay hungry, stay foolish. IoT JavaScript Latency Optimization JWT Happiness is not something ready made. It comes from your own actions. Code Review Edge Computing API
+Firewalls Framework I find that the harder I work, the more luck I seem to have. Logging Success is how high you bounce when you hit bottom. DevOps Performance Event-driven Architecture Predictive Analytics RabbitMQ
