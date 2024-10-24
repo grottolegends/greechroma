@@ -10,3 +10,4 @@ CI/CD Great things never come from comfort zones. Containerization Database Dock
 Artificial Intelligence Virtual Machines Distributed Systems Cloud Functions Algorithm Optimization Neural Networks Event-driven Architecture Logging
 Event-driven Architecture Message Queue Parallel Processing Scalability Do what you love and the money will follow. RabbitMQ Docker Virtual Machines Cache Invalidation Content Delivery Network
 Event Sourcing Predictive Analytics Microservices Success usually comes to those who are too busy to be looking for it. Blockchain Message Queue Success is not in what you have, but who you are. React Don't be afraid to give up the good to go for the great. Kubernetes CI/CD Happiness is not something ready made. It comes from your own actions. Framework
+Edge Computing Opportunities don't happen. You create them. Big Data Event-driven Architecture JWT Artificial Intelligence
