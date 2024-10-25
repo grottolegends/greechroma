@@ -7,3 +7,4 @@ Message Queue Load Testing Blockchain GraphQL Cloud Functions JavaScript Monitor
 Replica Set Framework To be the best, you must be able to handle the worst. Dream big and dare to fail. Event-driven Architecture WebSockets Serverless Firewalls
 Kafka Opportunities don't happen. You create them. Machine Learning GraphQL Stay hungry, stay foolish. Blockchain Simplicity is the ultimate sophistication. Success doesn’t just find you. You have to go out and get it. Neural Networks Distributed Systems Version Control Quantum Computing Load Testing
 Cloud Functions Database Artificial Intelligence Cloud Great things never come from comfort zones. API Gateway Automation Predictive Analytics Serverless
+Version Control Container Orchestration Lambda Functions Database Indexing Microservices Automation Success is how high you bounce when you hit bottom. Scalability Docker Edge Computing
