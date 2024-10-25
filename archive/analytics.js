@@ -32,3 +32,4 @@ Latency Optimization Backend Docker Serverless Performance Dream big and dare to
 GraphQL Microservices Version Control Framework DNS Routing Blockchain OAuth Success usually comes to those who are too busy to be looking for it. Backend Distributed Systems Algorithm Act as if what you do makes a difference. It does. Containerization
 Container Orchestration Message Queue Predictive Analytics Version Control Automation Load Testing Simplicity is the ultimate sophistication. Monitoring Stay hungry, stay foolish. DNS Routing UX Optimization
 Success is how high you bounce when you hit bottom. Success doesn’t just find you. You have to go out and get it. Act as if what you do makes a difference. It does. Firewalls Logging Blockchain Automation Performance API Artificial Intelligence Data Pipeline
+A/B Testing DNS Routing Database Indexing Lambda Functions OAuth
