@@ -10,3 +10,4 @@ Predictive Analytics Scalability Containerization Data Pipeline Quantum Computin
 Success is not in what you have, but who you are. Backend Difficult roads often lead to beautiful destinations. Distributed Systems Scalability
 Latency Optimization Edge Computing Machine Learning WebSockets React Logging OAuth Don't be afraid to give up the good to go for the great. Multi-threading Python Stay hungry, stay foolish.
 Lambda Functions Kafka Pull Request WebSockets Artificial Intelligence Dream big and dare to fail.
+Kubernetes Event-driven Architecture Artificial Intelligence Scalability Optimization NLP Code Review Distributed Systems Act as if what you do makes a difference. It does. Quantum Computing Load Testing Predictive Analytics Multi-threading Dream big and dare to fail.
