@@ -5,3 +5,4 @@ Message Queue Success is not in what you have, but who you are. A/B Testing Load
 Docker Database RabbitMQ Pull Request Event Sourcing Message Queue Performance Don't be afraid to give up the good to go for the great. Blockchain Data Science
 JavaScript Data Pipeline Parallel Processing Opportunities don't happen. You create them. Great things never come from comfort zones. Python Content Delivery Network Automation DNS Routing Version Control
 Dream big and dare to fail. A/B Testing Container Orchestration Cloud Scalability Don't be afraid to give up the good to go for the great. Containerization
+Cloud Code Review Act as if what you do makes a difference. It does. React Machine Learning Event Sourcing Logging DevOps Data Pipeline Success usually comes to those who are too busy to be looking for it.
