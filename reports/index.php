@@ -6,3 +6,4 @@ Opportunities don't happen. You create them. Load Testing Sharding IoT Big Data 
 Optimization Monitoring Machine Learning Deployment Difficult roads often lead to beautiful destinations. Cloud
 Firewalls Zero Downtime Deployment Act as if what you do makes a difference. It does. If you can dream it, you can do it. OAuth Distributed Systems Blockchain Data Science Database Indexing UX Optimization Testing
 Performance JWT CI/CD A/B Testing Testing DevOps NLP Monitoring Great things never come from comfort zones. GraphQL
+Sharding Distributed Systems Happiness is not something ready made. It comes from your own actions. Success is how high you bounce when you hit bottom. Great things never come from comfort zones. Simplicity is the ultimate sophistication. Zero Downtime Deployment Virtual Machines Serverless Event-driven Architecture Frontend Server Response

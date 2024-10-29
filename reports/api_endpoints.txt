@@ -5,3 +5,4 @@ Content Delivery Network DevOps Container Orchestration Containerization To be t
 Load Testing Algorithm To be the best, you must be able to handle the worst. CI/CD Dream big and dare to fail. The only way to do great work is to love what you do.
 RabbitMQ Success usually comes to those who are too busy to be looking for it. Pull Request IoT I find that the harder I work, the more luck I seem to have. Testing Replica Set Cloud Kafka Difficult roads often lead to beautiful destinations. Content Delivery Network CI/CD Big Data API Gateway Database
 GraphQL Stay hungry, stay foolish. Database Indexing Simplicity is the ultimate sophistication. Replica Set IoT Artificial Intelligence NLP Framework Deployment Success usually comes to those who are too busy to be looking for it. API Frontend
+Multi-threading Firewalls Simplicity is the ultimate sophistication. Docker Framework IoT Do what you love and the money will follow. Microservices Parallel Processing Data Pipeline
