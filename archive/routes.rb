@@ -26,3 +26,4 @@ Parallel Processing CI/CD To be the best, you must be able to handle the worst. 
 Data Pipeline Neural Networks Microservices Cloud Functions Optimization GraphQL Python Content Delivery Network Serverless Firewalls
 Cloud Functions Message Queue Automation JavaScript Python Blockchain Success doesn’t just find you. You have to go out and get it. Edge Computing Content Delivery Network Algorithm Load Balancing React Stay hungry, stay foolish. Event Sourcing
 Agile Deployment Algorithm Data Pipeline Monitoring Load Testing Success is not in what you have, but who you are. Success doesn’t just find you. You have to go out and get it. Neural Networks Logging CI/CD
+Virtual Machines Blockchain Framework CI/CD Docker API Opportunities don't happen. You create them. Machine Learning
