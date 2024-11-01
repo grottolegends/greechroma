@@ -10,3 +10,4 @@ Replica Set CI/CD Distributed Systems Serverless If you can dream it, you can do
 Blockchain Agile DevOps Lambda Functions Load Testing Message Queue Simplicity is the ultimate sophistication. UX Optimization API Gateway Cache Invalidation Microservices Data Science Great things never come from comfort zones. Containerization Replica Set
 Kafka JWT WebSockets Content Delivery Network Microservices Scalability Machine Learning API Gateway Logging
 Framework I find that the harder I work, the more luck I seem to have. Replica Set Kubernetes Cloud Functions
+CI/CD Automation Containerization Event Sourcing Optimization Kafka Load Balancing Predictive Analytics Replica Set JavaScript Great things never come from comfort zones. Happiness is not something ready made. It comes from your own actions. WebSockets Success usually comes to those who are too busy to be looking for it.
