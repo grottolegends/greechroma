@@ -44,3 +44,4 @@ Testing Sharding Predictive Analytics Artificial Intelligence Docker Don't be af
 Cloud The only way to do great work is to love what you do. Lambda Functions Backend Content Delivery Network
 Blockchain Cache Invalidation WebSockets Frontend Testing Event Sourcing Agile Success is not in what you have, but who you are. Don't be afraid to give up the good to go for the great. Microservices
 Agile Microservices Cache Invalidation WebSockets Virtual Machines OAuth Blockchain Work hard in silence, let your success be your noise. JavaScript UX Optimization JWT
+Frontend Algorithm React Performance Microservices Automation
