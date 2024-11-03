@@ -14,3 +14,4 @@ Cache Invalidation Version Control Automation Great things never come from comfo
 Neural Networks Lambda Functions Message Queue Parallel Processing Security Artificial Intelligence Data Science Success usually comes to those who are too busy to be looking for it. Difficult roads often lead to beautiful destinations. Frontend
 Security Quantum Computing Neural Networks Testing Data Science Replica Set Event-driven Architecture Cloud Functions Message Queue Parallel Processing Framework Database Indexing API
 Success is how high you bounce when you hit bottom. Big Data Version Control Innovation distinguishes between a leader and a follower. NLP Data Science Event-driven Architecture Automation RabbitMQ
+Artificial Intelligence Load Testing GraphQL Frontend JavaScript Predictive Analytics Virtual Machines Lambda Functions DNS Routing Distributed Systems Kubernetes Do what you love and the money will follow. Big Data
