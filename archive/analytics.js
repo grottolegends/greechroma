@@ -10,3 +10,4 @@ The only way to do great work is to love what you do. Cloud Functions CI/CD Dock
 Data Science Agile Distributed Systems Big Data React Content Delivery Network Container Orchestration Frontend Success usually comes to those who are too busy to be looking for it. Zero Downtime Deployment Innovation distinguishes between a leader and a follower. Stay hungry, stay foolish. Edge Computing To be the best, you must be able to handle the worst. Work hard in silence, let your success be your noise.
 Agile Sharding Lambda Functions If you can dream it, you can do it. Predictive Analytics Quantum Computing Artificial Intelligence
 Data Science Code Review To be the best, you must be able to handle the worst. Cloud Event Sourcing Opportunities don't happen. You create them. Microservices Success doesn’t just find you. You have to go out and get it.
+Server Response API Cloud Algorithm Automation Content Delivery Network
