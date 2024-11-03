@@ -32,3 +32,4 @@ Success doesn’t just find you. You have to go out and get it. DNS Routing Event-
 Success is how high you bounce when you hit bottom. Edge Computing Agile Work hard in silence, let your success be your noise. GraphQL Kafka Replica Set Parallel Processing Monitoring
 Neural Networks Backend Work hard in silence, let your success be your noise. Big Data DNS Routing Firewalls Artificial Intelligence Event-driven Architecture Machine Learning Difficult roads often lead to beautiful destinations. OAuth Performance Success usually comes to those who are too busy to be looking for it. API Gateway
 Event-driven Architecture JWT Distributed Systems Monitoring Security Blockchain
+Multi-threading Cache Invalidation JavaScript A/B Testing Parallel Processing Database API
