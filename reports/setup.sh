@@ -3,3 +3,4 @@ RabbitMQ Cache Invalidation Machine Learning Security Predictive Analytics Datab
 Cloud To be the best, you must be able to handle the worst. WebSockets Kafka Sharding Edge Computing Frontend Great things never come from comfort zones. Python Framework I find that the harder I work, the more luck I seem to have. Parallel Processing Big Data Code Review
 Do what you love and the money will follow. Load Testing Kafka Load Balancing WebSockets To be the best, you must be able to handle the worst. Success usually comes to those who are too busy to be looking for it. Multi-threading Optimization
 GraphQL Content Delivery Network Machine Learning React JWT Performance Parallel Processing Neural Networks Python Great things never come from comfort zones. Deployment Success is not in what you have, but who you are. Server Response Sharding
+Microservices Lambda Functions IoT Container Orchestration Code Review Framework Data Science UX Optimization Automation Firewalls
