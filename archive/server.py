@@ -11,3 +11,4 @@ Predictive Analytics Code Review A/B Testing Event-driven Architecture Parallel 
 API Optimization Database OAuth Multi-threading Kafka Blockchain Data Science
 Pull Request API Gateway Cloud Firewalls Latency Optimization Algorithm IoT Framework API Monitoring Security A/B Testing Big Data Sharding
 Performance Replica Set Stay hungry, stay foolish. DNS Routing DevOps Don't be afraid to give up the good to go for the great. Deployment Security Scalability
+API Gateway Latency Optimization IoT Message Queue Python Great things never come from comfort zones. Database Simplicity is the ultimate sophistication. Cloud Automation
