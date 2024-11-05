@@ -10,3 +10,4 @@ Simplicity is the ultimate sophistication. Success doesn’t just find you. You ha
 Predictive Analytics Code Review A/B Testing Event-driven Architecture Parallel Processing JWT Frontend NLP Event Sourcing Automation Edge Computing Artificial Intelligence Innovation distinguishes between a leader and a follower. To be the best, you must be able to handle the worst. Data Science
 API Optimization Database OAuth Multi-threading Kafka Blockchain Data Science
 Pull Request API Gateway Cloud Firewalls Latency Optimization Algorithm IoT Framework API Monitoring Security A/B Testing Big Data Sharding
+Performance Replica Set Stay hungry, stay foolish. DNS Routing DevOps Don't be afraid to give up the good to go for the great. Deployment Security Scalability
