@@ -12,3 +12,4 @@ Event-driven Architecture Automation NLP Testing The only way to do great work i
 DevOps Work hard in silence, let your success be your noise. Simplicity is the ultimate sophistication. Security Containerization Blockchain
 Happiness is not something ready made. It comes from your own actions. IoT JavaScript Parallel Processing NLP Data Pipeline
 Quantum Computing CI/CD Backend Dream big and dare to fail. Docker Microservices Kafka Success usually comes to those who are too busy to be looking for it. Cache Invalidation Message Queue
+Cloud CI/CD Zero Downtime Deployment Act as if what you do makes a difference. It does. Event-driven Architecture Innovation distinguishes between a leader and a follower. Stay hungry, stay foolish. Serverless If you can dream it, you can do it. Sharding DNS Routing
