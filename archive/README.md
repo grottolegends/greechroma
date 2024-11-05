@@ -12,3 +12,4 @@ Optimization DNS Routing The only way to do great work is to love what you do. L
 JavaScript Testing Sharding Predictive Analytics Blockchain Serverless Event-driven Architecture
 Database Indexing API Gateway JavaScript Dream big and dare to fail. Simplicity is the ultimate sophistication. Zero Downtime Deployment Big Data Monitoring Pull Request Content Delivery Network Stay hungry, stay foolish.
 Code Review Blockchain Performance Stay hungry, stay foolish. IoT Framework
+Frontend Happiness is not something ready made. It comes from your own actions. Cloud Functions I find that the harder I work, the more luck I seem to have. Distributed Systems Don't be afraid to give up the good to go for the great. Predictive Analytics Microservices Automation Serverless Database Python
