@@ -8,3 +8,4 @@ If you can dream it, you can do it. Python Testing API Gateway Logging Content D
 Security NLP Difficult roads often lead to beautiful destinations. Serverless Latency Optimization Data Pipeline Cloud Functions Database Indexing CI/CD Do what you love and the money will follow. Blockchain Machine Learning Backend Innovation distinguishes between a leader and a follower.
 WebSockets Lambda Functions Database Indexing Do what you love and the money will follow. Cloud Functions Container Orchestration Frontend API Logging GraphQL Parallel Processing
 WebSockets Optimization Latency Optimization Frontend Message Queue Load Testing The only way to do great work is to love what you do. Success usually comes to those who are too busy to be looking for it. Neural Networks Testing
+Content Delivery Network Algorithm Don't be afraid to give up the good to go for the great. Data Science Replica Set Virtual Machines Code Review Zero Downtime Deployment Sharding Big Data
