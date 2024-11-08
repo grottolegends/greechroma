@@ -7,3 +7,4 @@ Agile Distributed Systems Kubernetes Database Indexing Don't be afraid to give u
 Difficult roads often lead to beautiful destinations. Act as if what you do makes a difference. It does. Zero Downtime Deployment Automation Innovation distinguishes between a leader and a follower. Serverless Python Don't be afraid to give up the good to go for the great. Optimization Machine Learning Data Science Event Sourcing Containerization Neural Networks
 Agile Microservices Zero Downtime Deployment NLP React Testing JavaScript Docker
 Microservices Load Balancing Event-driven Architecture Server Response Stay hungry, stay foolish.
+Artificial Intelligence Security UX Optimization DevOps Optimization Cloud Framework Event-driven Architecture Sharding Quantum Computing WebSockets Simplicity is the ultimate sophistication.
