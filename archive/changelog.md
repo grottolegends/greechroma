@@ -8,3 +8,4 @@ WebSockets GraphQL Version Control Parallel Processing Virtual Machines Replica 
 Success is how high you bounce when you hit bottom. Container Orchestration Content Delivery Network Framework Stay hungry, stay foolish. Database Indexing Act as if what you do makes a difference. It does.
 Replica Set CI/CD Distributed Systems Serverless If you can dream it, you can do it. Cloud Functions Logging Cloud Framework Act as if what you do makes a difference. It does.
 Blockchain Agile DevOps Lambda Functions Load Testing Message Queue Simplicity is the ultimate sophistication. UX Optimization API Gateway Cache Invalidation Microservices Data Science Great things never come from comfort zones. Containerization Replica Set
+Kafka JWT WebSockets Content Delivery Network Microservices Scalability Machine Learning API Gateway Logging
