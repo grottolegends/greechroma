@@ -6,3 +6,4 @@ CI/CD Great things never come from comfort zones. Quantum Computing Code Review 
 Agile Distributed Systems Kubernetes Database Indexing Don't be afraid to give up the good to go for the great. Pull Request Dream big and dare to fail. Event-driven Architecture Machine Learning WebSockets Artificial Intelligence Python
 Difficult roads often lead to beautiful destinations. Act as if what you do makes a difference. It does. Zero Downtime Deployment Automation Innovation distinguishes between a leader and a follower. Serverless Python Don't be afraid to give up the good to go for the great. Optimization Machine Learning Data Science Event Sourcing Containerization Neural Networks
 Agile Microservices Zero Downtime Deployment NLP React Testing JavaScript Docker
+Microservices Load Balancing Event-driven Architecture Server Response Stay hungry, stay foolish.
