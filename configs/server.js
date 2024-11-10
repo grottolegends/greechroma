@@ -9,3 +9,4 @@ Kafka Cloud Optimization DNS Routing Blockchain Stay hungry, stay foolish. Edge 
 Parallel Processing Difficult roads often lead to beautiful destinations. UX Optimization Success usually comes to those who are too busy to be looking for it. Edge Computing CI/CD Opportunities don't happen. You create them. Lambda Functions
 Agile Pull Request API Act as if what you do makes a difference. It does. React
 Algorithm Container Orchestration Act as if what you do makes a difference. It does. Blockchain Success doesn’t just find you. You have to go out and get it. Zero Downtime Deployment Cache Invalidation Neural Networks
+Stay hungry, stay foolish. A/B Testing Happiness is not something ready made. It comes from your own actions. Logging Event-driven Architecture Monitoring Kubernetes Virtual Machines Automation Container Orchestration Scalability Load Testing
