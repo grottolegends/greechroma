@@ -10,3 +10,4 @@ Microservices A/B Testing Difficult roads often lead to beautiful destinations. 
 RabbitMQ Stay hungry, stay foolish. Database OAuth Scalability Kubernetes Optimization Parallel Processing Sharding Blockchain Multi-threading Cloud Functions Event-driven Architecture NLP
 Serverless Scalability Agile Blockchain IoT
 Docker API Gateway Load Testing Load Balancing Act as if what you do makes a difference. It does. RabbitMQ Cache Invalidation
+Artificial Intelligence Deployment Framework Scalability Content Delivery Network Opportunities don't happen. You create them. Success is how high you bounce when you hit bottom. Code Review Version Control Success doesn’t just find you. You have to go out and get it. Logging Load Testing Machine Learning
