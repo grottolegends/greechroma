@@ -11,3 +11,4 @@ I find that the harder I work, the more luck I seem to have. Blockchain Monitori
 Kubernetes Success is not in what you have, but who you are. Act as if what you do makes a difference. It does. Artificial Intelligence Docker API Success doesn’t just find you. You have to go out and get it. Event Sourcing
 Load Balancing React API Gateway Stay hungry, stay foolish. Success doesn’t just find you. You have to go out and get it. GraphQL CI/CD
 Big Data Monitoring DNS Routing Success usually comes to those who are too busy to be looking for it. OAuth Neural Networks Lambda Functions Distributed Systems DevOps Happiness is not something ready made. It comes from your own actions. Performance
+Event Sourcing Neural Networks Sharding Don't be afraid to give up the good to go for the great. API Gateway Container Orchestration RabbitMQ Blockchain A/B Testing Difficult roads often lead to beautiful destinations.
