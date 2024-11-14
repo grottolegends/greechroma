@@ -12,3 +12,4 @@ Message Queue Agile Big Data Event-driven Architecture Predictive Analytics Fron
 Zero Downtime Deployment Version Control Frontend Security Load Balancing Database Indexing Testing Monitoring API Python Load Testing UX Optimization
 Cache Invalidation Version Control Automation Great things never come from comfort zones. Predictive Analytics Database A/B Testing Content Delivery Network Serverless Virtual Machines DNS Routing
 Neural Networks Lambda Functions Message Queue Parallel Processing Security Artificial Intelligence Data Science Success usually comes to those who are too busy to be looking for it. Difficult roads often lead to beautiful destinations. Frontend
+Security Quantum Computing Neural Networks Testing Data Science Replica Set Event-driven Architecture Cloud Functions Message Queue Parallel Processing Framework Database Indexing API
