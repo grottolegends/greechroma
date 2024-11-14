@@ -8,3 +8,4 @@ Parallel Processing Code Review Containerization Load Testing Lambda Functions R
 Difficult roads often lead to beautiful destinations. Content Delivery Network Big Data Version Control Lambda Functions Sharding Cloud Functions Act as if what you do makes a difference. It does. The only way to do great work is to love what you do. Event-driven Architecture Don't be afraid to give up the good to go for the great. UX Optimization DNS Routing Work hard in silence, let your success be your noise. Performance
 CI/CD Great things never come from comfort zones. Containerization Database Docker
 Artificial Intelligence Virtual Machines Distributed Systems Cloud Functions Algorithm Optimization Neural Networks Event-driven Architecture Logging
+Event-driven Architecture Message Queue Parallel Processing Scalability Do what you love and the money will follow. RabbitMQ Docker Virtual Machines Cache Invalidation Content Delivery Network

@@ -7,3 +7,4 @@ Virtual Machines Serverless Firewalls Algorithm Blockchain Zero Downtime Deploym
 Database Load Balancing Cloud Parallel Processing If you can dream it, you can do it. Lambda Functions Logging
 Kafka Cloud Optimization DNS Routing Blockchain Stay hungry, stay foolish. Edge Computing
 Parallel Processing Difficult roads often lead to beautiful destinations. UX Optimization Success usually comes to those who are too busy to be looking for it. Edge Computing CI/CD Opportunities don't happen. You create them. Lambda Functions
+Agile Pull Request API Act as if what you do makes a difference. It does. React
