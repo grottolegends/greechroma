@@ -8,3 +8,4 @@ Neural Networks Automation Success is not in what you have, but who you are. Sca
 Multi-threading Don't be afraid to give up the good to go for the great. API Gateway Dream big and dare to fail. Performance Containerization Code Review
 Kafka IoT Python I find that the harder I work, the more luck I seem to have. JavaScript API JWT Deployment Cloud Functions Firewalls Load Balancing Quantum Computing OAuth Distributed Systems DevOps
 Distributed Systems Cloud Functions Testing Predictive Analytics Data Pipeline Success is not in what you have, but who you are. Monitoring Big Data Kafka Event Sourcing Scalability
+Database Monitoring I find that the harder I work, the more luck I seem to have. Success doesn’t just find you. You have to go out and get it. Artificial Intelligence IoT Latency Optimization JWT Code Review Zero Downtime Deployment
