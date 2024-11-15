@@ -4,3 +4,4 @@ Simplicity is the ultimate sophistication. API GraphQL Distributed Systems Cloud
 Automation Data Pipeline Container Orchestration Blockchain DevOps Great things never come from comfort zones. UX Optimization Artificial Intelligence RabbitMQ Server Response Replica Set If you can dream it, you can do it. Logging API Gateway OAuth
 Python Do what you love and the money will follow. JWT Parallel Processing Agile Don't be afraid to give up the good to go for the great. Predictive Analytics
 Virtual Machines Pull Request If you can dream it, you can do it. Quantum Computing Simplicity is the ultimate sophistication.
+Multi-threading JavaScript Algorithm Success usually comes to those who are too busy to be looking for it. Version Control Opportunities don't happen. You create them. Replica Set Serverless Data Science DNS Routing Backend API
