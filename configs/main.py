@@ -7,3 +7,4 @@ CI/CD Microservices Distributed Systems Virtual Machines Opportunities don't hap
 Neural Networks Automation Success is not in what you have, but who you are. Scalability OAuth Opportunities don't happen. You create them. Sharding Agile Great things never come from comfort zones. Container Orchestration Server Response Data Pipeline Code Review Cloud
 Multi-threading Don't be afraid to give up the good to go for the great. API Gateway Dream big and dare to fail. Performance Containerization Code Review
 Kafka IoT Python I find that the harder I work, the more luck I seem to have. JavaScript API JWT Deployment Cloud Functions Firewalls Load Balancing Quantum Computing OAuth Distributed Systems DevOps
+Distributed Systems Cloud Functions Testing Predictive Analytics Data Pipeline Success is not in what you have, but who you are. Monitoring Big Data Kafka Event Sourcing Scalability
