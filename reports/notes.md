@@ -2,3 +2,4 @@ Innovation distinguishes between a leader and a follower. Kubernetes Framework C
 Parallel Processing Data Pipeline Server Response Cloud Big Data Kubernetes Replica Set JWT Python Framework
 Content Delivery Network OAuth Microservices Monitoring Kafka IoT
 DevOps OAuth CI/CD Innovation distinguishes between a leader and a follower. Success doesn’t just find you. You have to go out and get it. Automation Blockchain API Gateway Cache Invalidation Microservices Code Review Event Sourcing Message Queue API
+Logging Quantum Computing Code Review Load Testing Success usually comes to those who are too busy to be looking for it. Algorithm Success is not in what you have, but who you are. Cloud Functions Cloud Lambda Functions Database Indexing Virtual Machines Docker Event Sourcing
