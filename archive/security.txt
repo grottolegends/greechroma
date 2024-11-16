@@ -42,3 +42,4 @@ Agile The only way to do great work is to love what you do. JavaScript Edge Comp
 Database Indexing Innovation distinguishes between a leader and a follower. The only way to do great work is to love what you do. Performance Blockchain Server Response API Gateway Zero Downtime Deployment Message Queue DevOps UX Optimization
 Testing Sharding Predictive Analytics Artificial Intelligence Docker Don't be afraid to give up the good to go for the great. Data Science Simplicity is the ultimate sophistication.
 Cloud The only way to do great work is to love what you do. Lambda Functions Backend Content Delivery Network
+Blockchain Cache Invalidation WebSockets Frontend Testing Event Sourcing Agile Success is not in what you have, but who you are. Don't be afraid to give up the good to go for the great. Microservices
