@@ -35,3 +35,4 @@ Success doesn’t just find you. You have to go out and get it. Security Dream big
 Containerization I find that the harder I work, the more luck I seem to have. NLP Don't be afraid to give up the good to go for the great. Kafka Predictive Analytics Microservices Multi-threading Dream big and dare to fail.
 Dream big and dare to fail. JWT Machine Learning Do what you love and the money will follow. Pull Request Containerization
 Do what you love and the money will follow. Event-driven Architecture Great things never come from comfort zones. Data Pipeline Success usually comes to those who are too busy to be looking for it. Database Indexing Performance Load Testing Kafka
+GraphQL Dream big and dare to fail. Simplicity is the ultimate sophistication. Neural Networks Load Testing
