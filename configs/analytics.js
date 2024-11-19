@@ -10,3 +10,4 @@ Frontend Opportunities don't happen. You create them. API Gateway Event-driven A
 Load Testing Blockchain Security Firewalls Cloud Functions Message Queue Pull Request Event Sourcing Virtual Machines Code Review IoT Success doesn’t just find you. You have to go out and get it. Success is how high you bounce when you hit bottom.
 To be the best, you must be able to handle the worst. Code Review Neural Networks Version Control Predictive Analytics
 Database Scalability Deployment Code Review Docker Predictive Analytics A/B Testing API
+Message Queue Zero Downtime Deployment Opportunities don't happen. You create them. Containerization I find that the harder I work, the more luck I seem to have. Simplicity is the ultimate sophistication.
