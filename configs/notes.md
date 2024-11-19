@@ -11,3 +11,4 @@ If you can dream it, you can do it. Python Don't be afraid to give up the good t
 Event-driven Architecture Automation NLP Testing The only way to do great work is to love what you do. Machine Learning Parallel Processing Backend
 DevOps Work hard in silence, let your success be your noise. Simplicity is the ultimate sophistication. Security Containerization Blockchain
 Happiness is not something ready made. It comes from your own actions. IoT JavaScript Parallel Processing NLP Data Pipeline
+Quantum Computing CI/CD Backend Dream big and dare to fail. Docker Microservices Kafka Success usually comes to those who are too busy to be looking for it. Cache Invalidation Message Queue
