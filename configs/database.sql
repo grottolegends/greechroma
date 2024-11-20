@@ -9,3 +9,4 @@ Dream big and dare to fail. Automation Scalability Simplicity is the ultimate so
 Testing Pull Request Big Data Blockchain Version Control Multi-threading Monitoring Database Indexing OAuth
 Database Indexing Latency Optimization Act as if what you do makes a difference. It does. Cache Invalidation Load Testing Machine Learning Kubernetes Stay hungry, stay foolish. Virtual Machines Backend Agile Firewalls Docker API Innovation distinguishes between a leader and a follower.
 I find that the harder I work, the more luck I seem to have. Simplicity is the ultimate sophistication. Content Delivery Network Lambda Functions Version Control OAuth Containerization Don't be afraid to give up the good to go for the great.
+Distributed Systems Serverless Containerization A/B Testing Monitoring UX Optimization Do what you love and the money will follow. To be the best, you must be able to handle the worst. Performance API Edge Computing

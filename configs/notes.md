@@ -9,3 +9,4 @@ Sharding DevOps Version Control Content Delivery Network Success is not in what 
 OAuth Message Queue Blockchain Great things never come from comfort zones. Container Orchestration Containerization Work hard in silence, let your success be your noise.
 If you can dream it, you can do it. Python Don't be afraid to give up the good to go for the great. Load Balancing Logging Great things never come from comfort zones. Automation DNS Routing JavaScript Data Pipeline Innovation distinguishes between a leader and a follower. Replica Set Success is not in what you have, but who you are. Database Indexing Kubernetes
 Event-driven Architecture Automation NLP Testing The only way to do great work is to love what you do. Machine Learning Parallel Processing Backend
+DevOps Work hard in silence, let your success be your noise. Simplicity is the ultimate sophistication. Security Containerization Blockchain
