@@ -10,3 +10,4 @@ Event Sourcing Dream big and dare to fail. JWT Event-driven Architecture Load Ba
 Difficult roads often lead to beautiful destinations. Success usually comes to those who are too busy to be looking for it. Backend Container Orchestration Distributed Systems Replica Set
 Optimization DNS Routing The only way to do great work is to love what you do. Load Balancing Predictive Analytics Latency Optimization CI/CD
 JavaScript Testing Sharding Predictive Analytics Blockchain Serverless Event-driven Architecture
+Database Indexing API Gateway JavaScript Dream big and dare to fail. Simplicity is the ultimate sophistication. Zero Downtime Deployment Big Data Monitoring Pull Request Content Delivery Network Stay hungry, stay foolish.

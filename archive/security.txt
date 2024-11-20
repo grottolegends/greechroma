@@ -7,3 +7,4 @@ Difficult roads often lead to beautiful destinations. Database API Gateway Paral
 Latency Optimization Monitoring Data Pipeline JavaScript Testing Lambda Functions
 Latency Optimization Predictive Analytics Testing Big Data Monitoring Kubernetes
 Deployment UX Optimization Automation Don't be afraid to give up the good to go for the great. Latency Optimization Predictive Analytics Work hard in silence, let your success be your noise. Innovation distinguishes between a leader and a follower. Big Data Container Orchestration
+CI/CD Lambda Functions Happiness is not something ready made. It comes from your own actions. Great things never come from comfort zones. Blockchain Kafka Data Science API Gateway Stay hungry, stay foolish. Cloud Functions Frontend
