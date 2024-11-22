@@ -7,3 +7,4 @@ Do what you love and the money will follow. Deployment Blockchain Algorithm Oppo
 React Cache Invalidation Don't be afraid to give up the good to go for the great. Event Sourcing Opportunities don't happen. You create them.
 Container Orchestration Content Delivery Network Cloud Load Balancing The only way to do great work is to love what you do. JavaScript Containerization Deployment Multi-threading GraphQL
 Algorithm Deployment Virtual Machines Monitoring Blockchain Load Balancing Dream big and dare to fail. Code Review Success is not in what you have, but who you are. Opportunities don't happen. You create them. NLP WebSockets
+Innovation distinguishes between a leader and a follower. CI/CD Automation WebSockets Serverless Backend Don't be afraid to give up the good to go for the great. Scalability Difficult roads often lead to beautiful destinations. Load Testing IoT Docker API Frontend

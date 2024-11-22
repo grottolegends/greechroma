@@ -5,3 +5,4 @@ Server Response Difficult roads often lead to beautiful destinations. Success is
 Don't be afraid to give up the good to go for the great. GraphQL Server Response IoT Quantum Computing
 API Gateway Firewalls Happiness is not something ready made. It comes from your own actions. Security Latency Optimization
 Data Science Act as if what you do makes a difference. It does. Lambda Functions Serverless Machine Learning Automation Success doesn’t just find you. You have to go out and get it. UX Optimization Difficult roads often lead to beautiful destinations. JWT
+Stay hungry, stay foolish. Firewalls Agile To be the best, you must be able to handle the worst. Opportunities don't happen. You create them. React Monitoring Serverless Server Response Containerization Zero Downtime Deployment Multi-threading
