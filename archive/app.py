@@ -36,3 +36,4 @@ NLP Logging Great things never come from comfort zones. A/B Testing Cache Invali
 Big Data Cloud Functions Framework React Database Indexing Algorithm Performance Scalability
 Edge Computing Version Control Replica Set Containerization DNS Routing Happiness is not something ready made. It comes from your own actions. Quantum Computing Microservices Kafka Virtual Machines Firewalls
 Success is not in what you have, but who you are. Great things never come from comfort zones. Version Control Agile GraphQL WebSockets Event Sourcing DNS Routing If you can dream it, you can do it. Difficult roads often lead to beautiful destinations. Framework Kubernetes Message Queue Microservices A/B Testing
+Success doesn’t just find you. You have to go out and get it. JavaScript I find that the harder I work, the more luck I seem to have. Kubernetes Content Delivery Network Work hard in silence, let your success be your noise. Virtual Machines React Deployment GraphQL

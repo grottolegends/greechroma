@@ -37,3 +37,4 @@ Do what you love and the money will follow. Code Review IoT Docker Automation Ka
 Virtual Machines Performance Logging Multi-threading Load Testing Edge Computing Sharding Simplicity is the ultimate sophistication. Containerization Success is how high you bounce when you hit bottom.
 Optimization Code Review Multi-threading Virtual Machines React
 Zero Downtime Deployment DNS Routing Message Queue Python Microservices WebSockets Big Data A/B Testing Algorithm Data Pipeline CI/CD Latency Optimization Content Delivery Network
+Testing Optimization Big Data Automation Latency Optimization Logging
