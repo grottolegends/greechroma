@@ -7,3 +7,4 @@ I find that the harder I work, the more luck I seem to have. Load Balancing Vers
 Performance Server Response A/B Testing Cache Invalidation Opportunities don't happen. You create them. Algorithm
 Database Indexing RabbitMQ Microservices Security DevOps API
 Zero Downtime Deployment Success usually comes to those who are too busy to be looking for it. If you can dream it, you can do it. Agile Serverless Content Delivery Network Neural Networks Latency Optimization Message Queue The only way to do great work is to love what you do. A/B Testing Edge Computing Database Indexing Simplicity is the ultimate sophistication.
+Sharding Code Review Artificial Intelligence Event Sourcing Cloud Act as if what you do makes a difference. It does.
