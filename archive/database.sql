@@ -8,3 +8,4 @@ Sharding CI/CD Data Science Blockchain Microservices Kubernetes The only way to 
 React Neural Networks Server Response Database Indexing IoT Stay hungry, stay foolish. A/B Testing Sharding Multi-threading
 Microservices A/B Testing Difficult roads often lead to beautiful destinations. Act as if what you do makes a difference. It does. Automation Version Control Great things never come from comfort zones. DevOps If you can dream it, you can do it. Latency Optimization Sharding Event-driven Architecture Work hard in silence, let your success be your noise. Happiness is not something ready made. It comes from your own actions.
 RabbitMQ Stay hungry, stay foolish. Database OAuth Scalability Kubernetes Optimization Parallel Processing Sharding Blockchain Multi-threading Cloud Functions Event-driven Architecture NLP
+Serverless Scalability Agile Blockchain IoT

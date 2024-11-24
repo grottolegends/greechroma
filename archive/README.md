@@ -9,3 +9,4 @@ Database Sharding Serverless Simplicity is the ultimate sophistication. Parallel
 Event Sourcing Dream big and dare to fail. JWT Event-driven Architecture Load Balancing To be the best, you must be able to handle the worst. Serverless Data Pipeline Version Control Backend Firewalls Monitoring Success is not in what you have, but who you are. The only way to do great work is to love what you do. Act as if what you do makes a difference. It does.
 Difficult roads often lead to beautiful destinations. Success usually comes to those who are too busy to be looking for it. Backend Container Orchestration Distributed Systems Replica Set
 Optimization DNS Routing The only way to do great work is to love what you do. Load Balancing Predictive Analytics Latency Optimization CI/CD
+JavaScript Testing Sharding Predictive Analytics Blockchain Serverless Event-driven Architecture
