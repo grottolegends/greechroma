@@ -9,3 +9,4 @@ Containerization Neural Networks If you can dream it, you can do it. IoT Agile A
 Frontend Opportunities don't happen. You create them. API Gateway Event-driven Architecture Success is how high you bounce when you hit bottom. WebSockets Data Pipeline Security JWT Great things never come from comfort zones. Event Sourcing Backend Optimization
 Load Testing Blockchain Security Firewalls Cloud Functions Message Queue Pull Request Event Sourcing Virtual Machines Code Review IoT Success doesn’t just find you. You have to go out and get it. Success is how high you bounce when you hit bottom.
 To be the best, you must be able to handle the worst. Code Review Neural Networks Version Control Predictive Analytics
+Database Scalability Deployment Code Review Docker Predictive Analytics A/B Testing API
