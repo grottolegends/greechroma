@@ -7,3 +7,4 @@ JavaScript Virtual Machines Event Sourcing Artificial Intelligence Cache Invalid
 JavaScript Multi-threading Cloud RabbitMQ Cloud Functions IoT Success is how high you bounce when you hit bottom. Database Indexing Frontend Security Load Testing Framework
 Neural Networks Performance Container Orchestration Multi-threading DevOps Microservices OAuth Success doesn’t just find you. You have to go out and get it.
 UX Optimization Server Response Logging Multi-threading Deployment Containerization Database Agile Blockchain
+Sharding Load Testing Zero Downtime Deployment Success usually comes to those who are too busy to be looking for it. Dream big and dare to fail. DevOps Code Review Do what you love and the money will follow. NLP GraphQL Pull Request The only way to do great work is to love what you do. If you can dream it, you can do it. To be the best, you must be able to handle the worst.

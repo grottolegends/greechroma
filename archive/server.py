@@ -9,3 +9,4 @@ Content Delivery Network CI/CD Stay hungry, stay foolish. Deployment Backend Log
 Simplicity is the ultimate sophistication. Success doesn’t just find you. You have to go out and get it. Python Act as if what you do makes a difference. It does. Don't be afraid to give up the good to go for the great. React API Database Indexing Machine Learning Version Control Blockchain Logging Quantum Computing Big Data DevOps
 Predictive Analytics Code Review A/B Testing Event-driven Architecture Parallel Processing JWT Frontend NLP Event Sourcing Automation Edge Computing Artificial Intelligence Innovation distinguishes between a leader and a follower. To be the best, you must be able to handle the worst. Data Science
 API Optimization Database OAuth Multi-threading Kafka Blockchain Data Science
+Pull Request API Gateway Cloud Firewalls Latency Optimization Algorithm IoT Framework API Monitoring Security A/B Testing Big Data Sharding
