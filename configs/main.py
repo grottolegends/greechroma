@@ -5,3 +5,4 @@ Success usually comes to those who are too busy to be looking for it. Success do
 Database Data Science Neural Networks Code Review Happiness is not something ready made. It comes from your own actions. Quantum Computing Version Control Opportunities don't happen. You create them. JWT Security Machine Learning API API Gateway Predictive Analytics Edge Computing
 CI/CD Microservices Distributed Systems Virtual Machines Opportunities don't happen. You create them. Replica Set Lambda Functions
 Neural Networks Automation Success is not in what you have, but who you are. Scalability OAuth Opportunities don't happen. You create them. Sharding Agile Great things never come from comfort zones. Container Orchestration Server Response Data Pipeline Code Review Cloud
+Multi-threading Don't be afraid to give up the good to go for the great. API Gateway Dream big and dare to fail. Performance Containerization Code Review
