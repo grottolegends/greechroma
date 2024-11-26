@@ -6,3 +6,4 @@ RabbitMQ Simplicity is the ultimate sophistication. Zero Downtime Deployment Con
 Containerization I find that the harder I work, the more luck I seem to have. RabbitMQ Latency Optimization Parallel Processing UX Optimization JWT If you can dream it, you can do it.
 Innovation distinguishes between a leader and a follower. Parallel Processing Artificial Intelligence RabbitMQ Kafka Database Indexing If you can dream it, you can do it. Server Response The only way to do great work is to love what you do. Cloud Functions Containerization OAuth API Gateway Cloud
 JavaScript Logging Cloud Functions Edge Computing Python Success is how high you bounce when you hit bottom. Dream big and dare to fail. Automation Backend
+Event-driven Architecture Cloud Functions Replica Set Serverless Virtual Machines Simplicity is the ultimate sophistication. Difficult roads often lead to beautiful destinations. Kubernetes Database Success is not in what you have, but who you are. API
