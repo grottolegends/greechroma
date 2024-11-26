@@ -8,3 +8,4 @@ Success is how high you bounce when you hit bottom. Event Sourcing Success doesn
 React Lambda Functions Testing Difficult roads often lead to beautiful destinations. Sharding CI/CD Don't be afraid to give up the good to go for the great. Load Testing If you can dream it, you can do it. Success is how high you bounce when you hit bottom. Kubernetes
 Containerization Zero Downtime Deployment IoT Event Sourcing OAuth Sharding Security Act as if what you do makes a difference. It does.
 Do what you love and the money will follow. To be the best, you must be able to handle the worst. Event Sourcing Algorithm Database Deployment IoT Frontend
+Message Queue Agile Big Data Event-driven Architecture Predictive Analytics Frontend Cache Invalidation Edge Computing WebSockets DevOps
