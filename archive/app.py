@@ -9,3 +9,4 @@ React Lambda Functions Testing Difficult roads often lead to beautiful destinati
 Containerization Zero Downtime Deployment IoT Event Sourcing OAuth Sharding Security Act as if what you do makes a difference. It does.
 Do what you love and the money will follow. To be the best, you must be able to handle the worst. Event Sourcing Algorithm Database Deployment IoT Frontend
 Message Queue Agile Big Data Event-driven Architecture Predictive Analytics Frontend Cache Invalidation Edge Computing WebSockets DevOps
+Zero Downtime Deployment Version Control Frontend Security Load Balancing Database Indexing Testing Monitoring API Python Load Testing UX Optimization
