@@ -5,3 +5,4 @@ I find that the harder I work, the more luck I seem to have. JWT Optimization Da
 Success is how high you bounce when you hit bottom. Simplicity is the ultimate sophistication. Success doesn’t just find you. You have to go out and get it. JavaScript Success usually comes to those who are too busy to be looking for it. The only way to do great work is to love what you do. Serverless
 I find that the harder I work, the more luck I seem to have. Load Balancing Version Control Edge Computing Microservices Automation
 Performance Server Response A/B Testing Cache Invalidation Opportunities don't happen. You create them. Algorithm
+Database Indexing RabbitMQ Microservices Security DevOps API
