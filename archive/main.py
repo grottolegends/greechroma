@@ -8,3 +8,4 @@ Data Science Success usually comes to those who are too busy to be looking for i
 Pull Request DNS Routing OAuth DevOps Predictive Analytics Algorithm
 A/B Testing Message Queue Version Control Agile Neural Networks
 I find that the harder I work, the more luck I seem to have. Blockchain Monitoring Opportunities don't happen. You create them. DNS Routing
+Kubernetes Success is not in what you have, but who you are. Act as if what you do makes a difference. It does. Artificial Intelligence Docker API Success doesn’t just find you. You have to go out and get it. Event Sourcing
