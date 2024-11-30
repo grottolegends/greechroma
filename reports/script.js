@@ -5,3 +5,4 @@ Kafka Python Blockchain Load Balancing Distributed Systems
 RabbitMQ Simplicity is the ultimate sophistication. Zero Downtime Deployment Content Delivery Network Kubernetes Automation Serverless Blockchain Microservices If you can dream it, you can do it. Machine Learning
 Containerization I find that the harder I work, the more luck I seem to have. RabbitMQ Latency Optimization Parallel Processing UX Optimization JWT If you can dream it, you can do it.
 Innovation distinguishes between a leader and a follower. Parallel Processing Artificial Intelligence RabbitMQ Kafka Database Indexing If you can dream it, you can do it. Server Response The only way to do great work is to love what you do. Cloud Functions Containerization OAuth API Gateway Cloud
+JavaScript Logging Cloud Functions Edge Computing Python Success is how high you bounce when you hit bottom. Dream big and dare to fail. Automation Backend
