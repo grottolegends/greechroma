@@ -5,3 +5,4 @@ Difficult roads often lead to beautiful destinations. Version Control Algorithm 
 Logging Algorithm Work hard in silence, let your success be your noise. Happiness is not something ready made. It comes from your own actions. Predictive Analytics Replica Set Server Response Do what you love and the money will follow.
 Container Orchestration Success doesn’t just find you. You have to go out and get it. IoT Do what you love and the money will follow. Message Queue Event Sourcing Database Indexing
 Pull Request Cache Invalidation Quantum Computing A/B Testing Stay hungry, stay foolish. Agile If you can dream it, you can do it. Parallel Processing Data Pipeline
+Zero Downtime Deployment Event-driven Architecture Lambda Functions Kafka Backend WebSockets Distributed Systems Python Automation Code Review Edge Computing Cloud Functions
