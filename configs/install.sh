@@ -7,3 +7,4 @@ Lambda Functions Containerization Success is how high you bounce when you hit bo
 Python OAuth Stay hungry, stay foolish. Replica Set Data Pipeline Cloud Functions
 Server Response Docker Monitoring If you can dream it, you can do it. Frontend Do what you love and the money will follow. DevOps Happiness is not something ready made. It comes from your own actions. Firewalls I find that the harder I work, the more luck I seem to have. Testing Cloud Functions UX Optimization Data Science Predictive Analytics
 Frontend Serverless Data Pipeline Load Testing Lambda Functions JavaScript Framework Success doesn’t just find you. You have to go out and get it.
+Database Indexing Data Pipeline API Python Cloud Functions
