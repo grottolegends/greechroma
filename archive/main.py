@@ -5,3 +5,4 @@ Security Event-driven Architecture UX Optimization If you can dream it, you can 
 Success is how high you bounce when you hit bottom. Deployment Stay hungry, stay foolish. Success is not in what you have, but who you are. I find that the harder I work, the more luck I seem to have. Data Science Act as if what you do makes a difference. It does. Containerization Latency Optimization To be the best, you must be able to handle the worst. Great things never come from comfort zones.
 Happiness is not something ready made. It comes from your own actions. Quantum Computing Testing Container Orchestration A/B Testing JavaScript Logging Kafka API Gateway To be the best, you must be able to handle the worst. Load Balancing WebSockets
 Data Science Success usually comes to those who are too busy to be looking for it. Deployment Multi-threading DevOps Cloud Functions If you can dream it, you can do it.
+Pull Request DNS Routing OAuth DevOps Predictive Analytics Algorithm
