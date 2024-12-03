@@ -3,3 +3,4 @@ Version Control Automation Opportunities don't happen. You create them. Optimiza
 Dream big and dare to fail. Version Control Machine Learning Happiness is not something ready made. It comes from your own actions. Lambda Functions GraphQL Algorithm A/B Testing JavaScript Firewalls
 Serverless CI/CD Quantum Computing Replica Set GraphQL Cache Invalidation Event-driven Architecture RabbitMQ To be the best, you must be able to handle the worst. Optimization Load Balancing Dream big and dare to fail.
 DevOps CI/CD I find that the harder I work, the more luck I seem to have. Parallel Processing Logging Multi-threading JWT Stay hungry, stay foolish.
+Predictive Analytics Performance Cache Invalidation Act as if what you do makes a difference. It does. DNS Routing Difficult roads often lead to beautiful destinations. Sharding Artificial Intelligence React IoT Do what you love and the money will follow. Zero Downtime Deployment
