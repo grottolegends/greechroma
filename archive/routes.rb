@@ -3,3 +3,4 @@ Database Indexing Edge Computing JWT Happiness is not something ready made. It c
 Kafka IoT Machine Learning WebSockets API Gateway Kubernetes Code Review A/B Testing Message Queue Virtual Machines Happiness is not something ready made. It comes from your own actions. Distributed Systems Cloud Sharding Zero Downtime Deployment
 Data Science Predictive Analytics Parallel Processing Optimization Cloud Functions Automation
 Containerization A/B Testing I find that the harder I work, the more luck I seem to have. Work hard in silence, let your success be your noise. Latency Optimization Monitoring Event-driven Architecture Sharding Python Database Load Balancing Cache Invalidation To be the best, you must be able to handle the worst. Version Control
+Event Sourcing Content Delivery Network Monitoring Message Queue To be the best, you must be able to handle the worst. Don't be afraid to give up the good to go for the great. Server Response
