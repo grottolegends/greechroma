@@ -8,3 +8,4 @@ Cloud Functions Container Orchestration Simplicity is the ultimate sophisticatio
 Scalability Server Response Security GraphQL Content Delivery Network
 RabbitMQ Performance Dream big and dare to fail. Success is how high you bounce when you hit bottom. API Difficult roads often lead to beautiful destinations. Simplicity is the ultimate sophistication. Docker Load Testing
 Python Replica Set API I find that the harder I work, the more luck I seem to have. Simplicity is the ultimate sophistication. Content Delivery Network Work hard in silence, let your success be your noise. Sharding API Gateway Logging Server Response
+Serverless To be the best, you must be able to handle the worst. OAuth React Success is how high you bounce when you hit bottom. Logging NLP Content Delivery Network Backend Data Science Server Response Latency Optimization IoT Security Innovation distinguishes between a leader and a follower.
