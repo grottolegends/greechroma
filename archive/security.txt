@@ -6,3 +6,4 @@ Load Balancing Don't be afraid to give up the good to go for the great. Python L
 Difficult roads often lead to beautiful destinations. Database API Gateway Parallel Processing NLP Container Orchestration If you can dream it, you can do it. Success is how high you bounce when you hit bottom. Security Distributed Systems Success usually comes to those who are too busy to be looking for it. Event-driven Architecture Replica Set RabbitMQ
 Latency Optimization Monitoring Data Pipeline JavaScript Testing Lambda Functions
 Latency Optimization Predictive Analytics Testing Big Data Monitoring Kubernetes
+Deployment UX Optimization Automation Don't be afraid to give up the good to go for the great. Latency Optimization Predictive Analytics Work hard in silence, let your success be your noise. Innovation distinguishes between a leader and a follower. Big Data Container Orchestration
