@@ -3,3 +3,4 @@ Event-driven Architecture Framework Data Pipeline Deployment The only way to do 
 API Server Response Work hard in silence, let your success be your noise. Distributed Systems Replica Set Dream big and dare to fail. Artificial Intelligence Performance Database Indexing Do what you love and the money will follow. Agile UX Optimization Act as if what you do makes a difference. It does. Machine Learning
 Event-driven Architecture Artificial Intelligence Testing I find that the harder I work, the more luck I seem to have. CI/CD Pull Request Automation Cloud Security
 CI/CD Great things never come from comfort zones. Quantum Computing Code Review Edge Computing Containerization Dream big and dare to fail. Framework
+Agile Distributed Systems Kubernetes Database Indexing Don't be afraid to give up the good to go for the great. Pull Request Dream big and dare to fail. Event-driven Architecture Machine Learning WebSockets Artificial Intelligence Python

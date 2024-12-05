@@ -7,3 +7,4 @@ Don't be afraid to give up the good to go for the great. Framework Frontend Cach
 Cloud Functions Container Orchestration Simplicity is the ultimate sophistication. To be the best, you must be able to handle the worst. Kubernetes Big Data Virtual Machines A/B Testing Algorithm API Gateway Cloud Replica Set Optimization
 Scalability Server Response Security GraphQL Content Delivery Network
 RabbitMQ Performance Dream big and dare to fail. Success is how high you bounce when you hit bottom. API Difficult roads often lead to beautiful destinations. Simplicity is the ultimate sophistication. Docker Load Testing
+Python Replica Set API I find that the harder I work, the more luck I seem to have. Simplicity is the ultimate sophistication. Content Delivery Network Work hard in silence, let your success be your noise. Sharding API Gateway Logging Server Response
