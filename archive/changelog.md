@@ -34,3 +34,4 @@ If you can dream it, you can do it. Stay hungry, stay foolish. Kubernetes JWT Al
 Success doesn’t just find you. You have to go out and get it. React Opportunities don't happen. You create them. Python Firewalls Logging Lambda Functions Framework
 Testing Serverless Server Response Logging Latency Optimization Agile
 Zero Downtime Deployment Serverless Database Cache Invalidation IoT Artificial Intelligence Scalability Work hard in silence, let your success be your noise.
+Monitoring Frontend RabbitMQ JWT Logging Great things never come from comfort zones. API Container Orchestration Don't be afraid to give up the good to go for the great. NLP Difficult roads often lead to beautiful destinations. Machine Learning Lambda Functions Event-driven Architecture
