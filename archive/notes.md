@@ -31,3 +31,4 @@ Security Load Balancing API IoT Firewalls Cloud Functions Version Control Artifi
 Success doesn’t just find you. You have to go out and get it. UX Optimization Blockchain If you can dream it, you can do it. RabbitMQ Data Science Replica Set Cloud
 Data Science Blockchain Cloud Functions Docker Message Queue Neural Networks Difficult roads often lead to beautiful destinations. Database Zero Downtime Deployment Testing Predictive Analytics Python Version Control
 Zero Downtime Deployment Testing Neural Networks Distributed Systems Monitoring Content Delivery Network Lambda Functions Deployment Success is how high you bounce when you hit bottom. Load Testing Kafka Data Science RabbitMQ
+Don't be afraid to give up the good to go for the great. Version Control Containerization A/B Testing Blockchain Zero Downtime Deployment Edge Computing If you can dream it, you can do it. Monitoring Agile React UX Optimization
