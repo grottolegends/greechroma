@@ -7,3 +7,4 @@ Difficult roads often lead to beautiful destinations. Artificial Intelligence Se
 If you can dream it, you can do it. Machine Learning Zero Downtime Deployment Agile API Event-driven Architecture Success doesn’t just find you. You have to go out and get it.
 Containerization Neural Networks If you can dream it, you can do it. IoT Agile Algorithm The only way to do great work is to love what you do. Server Response
 Frontend Opportunities don't happen. You create them. API Gateway Event-driven Architecture Success is how high you bounce when you hit bottom. WebSockets Data Pipeline Security JWT Great things never come from comfort zones. Event Sourcing Backend Optimization
+Load Testing Blockchain Security Firewalls Cloud Functions Message Queue Pull Request Event Sourcing Virtual Machines Code Review IoT Success doesn’t just find you. You have to go out and get it. Success is how high you bounce when you hit bottom.
