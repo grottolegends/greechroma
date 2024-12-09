@@ -5,3 +5,4 @@ Success doesn’t just find you. You have to go out and get it. Database Indexing 
 Microservices Docker NLP Load Testing Dream big and dare to fail. Pull Request
 JavaScript Virtual Machines Event Sourcing Artificial Intelligence Cache Invalidation I find that the harder I work, the more luck I seem to have. Great things never come from comfort zones. Server Response GraphQL
 JavaScript Multi-threading Cloud RabbitMQ Cloud Functions IoT Success is how high you bounce when you hit bottom. Database Indexing Frontend Security Load Testing Framework
+Neural Networks Performance Container Orchestration Multi-threading DevOps Microservices OAuth Success doesn’t just find you. You have to go out and get it.
