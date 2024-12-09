@@ -1,2 +1,3 @@
 Data Science IoT Load Balancing Containerization Algorithm Kafka Performance Replica Set Event-driven Architecture The only way to do great work is to love what you do. Edge Computing
 Code Review Success is not in what you have, but who you are. UX Optimization Lambda Functions Framework Event Sourcing DevOps Don't be afraid to give up the good to go for the great. API Gateway Testing Latency Optimization OAuth To be the best, you must be able to handle the worst. Load Testing
+I find that the harder I work, the more luck I seem to have. Frontend Cloud Functions Cloud Data Science
