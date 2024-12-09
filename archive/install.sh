@@ -5,3 +5,4 @@ Lambda Functions Content Delivery Network Pull Request Artificial Intelligence O
 Container Orchestration Act as if what you do makes a difference. It does. Security Code Review Agile
 Backend Message Queue Cache Invalidation Firewalls React Database Indexing Data Pipeline Optimization
 Predictive Analytics Success doesn’t just find you. You have to go out and get it. Testing Zero Downtime Deployment Latency Optimization Data Pipeline Happiness is not something ready made. It comes from your own actions. Database Distributed Systems
+IoT Server Response Great things never come from comfort zones. Replica Set Success is how high you bounce when you hit bottom. Database I find that the harder I work, the more luck I seem to have. Distributed Systems Firewalls OAuth Zero Downtime Deployment Simplicity is the ultimate sophistication.
