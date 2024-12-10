@@ -6,3 +6,4 @@ Act as if what you do makes a difference. It does. React WebSockets Load Testing
 Do what you love and the money will follow. Backend Docker DevOps Logging Opportunities don't happen. You create them. Innovation distinguishes between a leader and a follower. Data Science Database Indexing Predictive Analytics Replica Set RabbitMQ Kubernetes Load Balancing
 Distributed Systems Edge Computing If you can dream it, you can do it. Data Pipeline Success is not in what you have, but who you are. Replica Set Predictive Analytics
 Dream big and dare to fail. Automation Scalability Simplicity is the ultimate sophistication. Innovation distinguishes between a leader and a follower. Agile API Gateway
+Testing Pull Request Big Data Blockchain Version Control Multi-threading Monitoring Database Indexing OAuth
