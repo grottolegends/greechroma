@@ -2,3 +2,4 @@ Cloud Functions Containerization Performance Predictive Analytics Data Pipeline 
 Cloud Functions Code Review Big Data The only way to do great work is to love what you do. Security Lambda Functions If you can dream it, you can do it.
 Load Testing Deployment API Cloud Functions Code Review Automation
 Dream big and dare to fail. React Logging Deployment Success is how high you bounce when you hit bottom. Content Delivery Network Cache Invalidation Agile
+Neural Networks Server Response Work hard in silence, let your success be your noise. Algorithm Stay hungry, stay foolish. Cache Invalidation Act as if what you do makes a difference. It does. Cloud Functions Microservices DevOps
