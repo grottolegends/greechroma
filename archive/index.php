@@ -31,3 +31,4 @@ React CI/CD Optimization Pull Request Event Sourcing Cloud Message Queue Blockch
 Success doesn’t just find you. You have to go out and get it. DNS Routing Event-driven Architecture Blockchain Message Queue I find that the harder I work, the more luck I seem to have. Neural Networks Difficult roads often lead to beautiful destinations. GraphQL API Gateway
 Success is how high you bounce when you hit bottom. Edge Computing Agile Work hard in silence, let your success be your noise. GraphQL Kafka Replica Set Parallel Processing Monitoring
 Neural Networks Backend Work hard in silence, let your success be your noise. Big Data DNS Routing Firewalls Artificial Intelligence Event-driven Architecture Machine Learning Difficult roads often lead to beautiful destinations. OAuth Performance Success usually comes to those who are too busy to be looking for it. API Gateway
+Event-driven Architecture JWT Distributed Systems Monitoring Security Blockchain
