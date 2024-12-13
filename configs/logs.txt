@@ -3,3 +3,4 @@ IoT Edge Computing Sharding Logging Innovation distinguishes between a leader an
 Stay hungry, stay foolish. The only way to do great work is to love what you do. Success doesn’t just find you. You have to go out and get it. Algorithm WebSockets API Gateway RabbitMQ Virtual Machines Event-driven Architecture Load Testing Serverless Event Sourcing Zero Downtime Deployment Firewalls
 Data Pipeline NLP Optimization Automation Algorithm Pull Request Great things never come from comfort zones. Version Control Database Indexing
 Event-driven Architecture CI/CD Parallel Processing Don't be afraid to give up the good to go for the great. Latency Optimization Firewalls
+Zero Downtime Deployment Database NLP WebSockets Cache Invalidation Work hard in silence, let your success be your noise. Firewalls
