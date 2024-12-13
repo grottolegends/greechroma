@@ -5,3 +5,4 @@ Parallel Processing The only way to do great work is to love what you do. Automa
 Algorithm Event-driven Architecture Backend Great things never come from comfort zones. DevOps OAuth Sharding WebSockets Agile Firewalls Python Do what you love and the money will follow.
 Success is how high you bounce when you hit bottom. Simplicity is the ultimate sophistication. Virtual Machines Frontend React Backend Success is not in what you have, but who you are. I find that the harder I work, the more luck I seem to have.
 Success is how high you bounce when you hit bottom. Security Scalability Stay hungry, stay foolish. Version Control Data Pipeline Docker
+Sharding DevOps Version Control Content Delivery Network Success is not in what you have, but who you are. Data Pipeline Act as if what you do makes a difference. It does. Performance Microservices NLP Kubernetes A/B Testing Event Sourcing Cache Invalidation Testing
