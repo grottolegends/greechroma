@@ -32,3 +32,4 @@ Performance Latency Optimization Innovation distinguishes between a leader and a
 JWT Deployment A/B Testing Event-driven Architecture GraphQL Virtual Machines OAuth Automation Server Response Firewalls Frontend Replica Set I find that the harder I work, the more luck I seem to have. Happiness is not something ready made. It comes from your own actions. Load Balancing
 Pull Request Agile NLP WebSockets Algorithm
 Content Delivery Network Load Balancing Sharding Event-driven Architecture Blockchain CI/CD React Message Queue RabbitMQ Container Orchestration Artificial Intelligence Logging
+Microservices Dream big and dare to fail. I find that the harder I work, the more luck I seem to have. OAuth GraphQL JavaScript Optimization DNS Routing Machine Learning Database Indexing Cloud Functions
