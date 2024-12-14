@@ -33,3 +33,4 @@ Edge Computing Happiness is not something ready made. It comes from your own act
 If you can dream it, you can do it. Stay hungry, stay foolish. Kubernetes JWT Algorithm
 Success doesn’t just find you. You have to go out and get it. React Opportunities don't happen. You create them. Python Firewalls Logging Lambda Functions Framework
 Testing Serverless Server Response Logging Latency Optimization Agile
+Zero Downtime Deployment Serverless Database Cache Invalidation IoT Artificial Intelligence Scalability Work hard in silence, let your success be your noise.
