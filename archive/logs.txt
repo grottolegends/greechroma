@@ -26,3 +26,4 @@ Predictive Analytics Success is how high you bounce when you hit bottom. Pull Re
 Quantum Computing Data Science Python Load Balancing JWT Work hard in silence, let your success be your noise. Docker Logging Version Control API Gateway Latency Optimization Virtual Machines
 Logging CI/CD Firewalls Data Science Kafka Parallel Processing Serverless Success is how high you bounce when you hit bottom. Artificial Intelligence
 Optimization Opportunities don't happen. You create them. Testing Database Kubernetes Edge Computing Distributed Systems Container Orchestration Cloud Functions
+Backend Framework Logging Load Testing To be the best, you must be able to handle the worst. Sharding
