@@ -4,3 +4,4 @@ Cache Invalidation Big Data Success doesn’t just find you. You have to go out an
 Lambda Functions Content Delivery Network Pull Request Artificial Intelligence Optimization Innovation distinguishes between a leader and a follower. Database Cloud Functions
 Container Orchestration Act as if what you do makes a difference. It does. Security Code Review Agile
 Backend Message Queue Cache Invalidation Firewalls React Database Indexing Data Pipeline Optimization
+Predictive Analytics Success doesn’t just find you. You have to go out and get it. Testing Zero Downtime Deployment Latency Optimization Data Pipeline Happiness is not something ready made. It comes from your own actions. Database Distributed Systems
