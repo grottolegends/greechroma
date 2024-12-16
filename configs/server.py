@@ -5,3 +5,4 @@ Lambda Functions Innovation distinguishes between a leader and a follower. NLP S
 Data Science Server Response Stay hungry, stay foolish. Virtual Machines Pull Request DevOps Version Control Success usually comes to those who are too busy to be looking for it. Performance NLP Sharding The only way to do great work is to love what you do. Machine Learning Neural Networks
 Don't be afraid to give up the good to go for the great. Framework Frontend Cache Invalidation Success is how high you bounce when you hit bottom. GraphQL Load Testing Pull Request DNS Routing OAuth Success usually comes to those who are too busy to be looking for it. Agile
 Cloud Functions Container Orchestration Simplicity is the ultimate sophistication. To be the best, you must be able to handle the worst. Kubernetes Big Data Virtual Machines A/B Testing Algorithm API Gateway Cloud Replica Set Optimization
+Scalability Server Response Security GraphQL Content Delivery Network
