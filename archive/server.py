@@ -34,3 +34,4 @@ Opportunities don't happen. You create them. Success usually comes to those who 
 Load Balancing GraphQL Distributed Systems Data Science I find that the harder I work, the more luck I seem to have. Blockchain
 Algorithm Microservices Version Control Content Delivery Network The only way to do great work is to love what you do. NLP JWT Blockchain IoT Automation Stay hungry, stay foolish. Zero Downtime Deployment
 Python To be the best, you must be able to handle the worst. Microservices JavaScript Multi-threading Frontend Code Review
+Agile Great things never come from comfort zones. Database Work hard in silence, let your success be your noise. Data Pipeline WebSockets Don't be afraid to give up the good to go for the great. Blockchain JavaScript Deployment React API Gateway Testing IoT
