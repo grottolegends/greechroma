@@ -34,3 +34,4 @@ Container Orchestration Containerization Data Pipeline Success doesn’t just find
 Security Framework Containerization Innovation distinguishes between a leader and a follower. Scalability The only way to do great work is to love what you do. JavaScript
 NLP Logging Great things never come from comfort zones. A/B Testing Cache Invalidation Scalability Success is how high you bounce when you hit bottom.
 Big Data Cloud Functions Framework React Database Indexing Algorithm Performance Scalability
+Edge Computing Version Control Replica Set Containerization DNS Routing Happiness is not something ready made. It comes from your own actions. Quantum Computing Microservices Kafka Virtual Machines Firewalls
