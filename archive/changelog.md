@@ -4,3 +4,4 @@ Kafka Optimization IoT Database Version Control Work hard in silence, let your s
 Simplicity is the ultimate sophistication. Automation Kafka Don't be afraid to give up the good to go for the great. Content Delivery Network Database Event-driven Architecture
 Backend Frontend Scalability Version Control Testing API Gateway Message Queue Code Review
 Lambda Functions The only way to do great work is to love what you do. Database Performance Scalability I find that the harder I work, the more luck I seem to have. If you can dream it, you can do it. Backend Event Sourcing Great things never come from comfort zones. Zero Downtime Deployment Neural Networks
+WebSockets GraphQL Version Control Parallel Processing Virtual Machines Replica Set Edge Computing Difficult roads often lead to beautiful destinations.

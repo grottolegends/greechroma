@@ -3,3 +3,4 @@ Monitoring Data Science Testing Replica Set Opportunities don't happen. You crea
 Don't be afraid to give up the good to go for the great. Load Testing Container Orchestration Artificial Intelligence Version Control Lambda Functions
 WebSockets Testing Parallel Processing Framework Docker Innovation distinguishes between a leader and a follower. Neural Networks Scalability
 Simplicity is the ultimate sophistication. Neural Networks JWT API Gateway I find that the harder I work, the more luck I seem to have. DNS Routing API Message Queue
+Work hard in silence, let your success be your noise. Predictive Analytics Do what you love and the money will follow. Database Indexing Load Balancing Containerization Innovation distinguishes between a leader and a follower. To be the best, you must be able to handle the worst. Difficult roads often lead to beautiful destinations. Simplicity is the ultimate sophistication. Testing
