@@ -2,3 +2,4 @@ I find that the harder I work, the more luck I seem to have. NLP Automation JWT 
 Machine Learning UX Optimization Latency Optimization Cloud API DevOps Success is not in what you have, but who you are. Cloud Functions Virtual Machines Edge Computing CI/CD Kubernetes Testing Innovation distinguishes between a leader and a follower.
 Simplicity is the ultimate sophistication. API GraphQL Distributed Systems Cloud Functions Database Indexing Kubernetes OAuth
 Automation Data Pipeline Container Orchestration Blockchain DevOps Great things never come from comfort zones. UX Optimization Artificial Intelligence RabbitMQ Server Response Replica Set If you can dream it, you can do it. Logging API Gateway OAuth
+Python Do what you love and the money will follow. JWT Parallel Processing Agile Don't be afraid to give up the good to go for the great. Predictive Analytics

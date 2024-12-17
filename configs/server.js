@@ -5,3 +5,4 @@ Machine Learning Data Science Parallel Processing Pull Request Load Testing Dist
 Frontend Neural Networks API Gateway Database Zero Downtime Deployment API Firewalls
 Virtual Machines Serverless Firewalls Algorithm Blockchain Zero Downtime Deployment
 Database Load Balancing Cloud Parallel Processing If you can dream it, you can do it. Lambda Functions Logging
+Kafka Cloud Optimization DNS Routing Blockchain Stay hungry, stay foolish. Edge Computing
