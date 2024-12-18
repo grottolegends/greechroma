@@ -4,3 +4,4 @@ Predictive Analytics Success is not in what you have, but who you are. Testing K
 Success doesn’t just find you. You have to go out and get it. Database Indexing Quantum Computing Blockchain DNS Routing Agile Work hard in silence, let your success be your noise. I find that the harder I work, the more luck I seem to have. DevOps GraphQL
 Microservices Docker NLP Load Testing Dream big and dare to fail. Pull Request
 JavaScript Virtual Machines Event Sourcing Artificial Intelligence Cache Invalidation I find that the harder I work, the more luck I seem to have. Great things never come from comfort zones. Server Response GraphQL
+JavaScript Multi-threading Cloud RabbitMQ Cloud Functions IoT Success is how high you bounce when you hit bottom. Database Indexing Frontend Security Load Testing Framework
