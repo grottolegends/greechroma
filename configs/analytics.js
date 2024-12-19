@@ -5,3 +5,4 @@ Event Sourcing Work hard in silence, let your success be your noise. Success usu
 IoT Virtual Machines Scalability Replica Set Success is not in what you have, but who you are. WebSockets Work hard in silence, let your success be your noise.
 Difficult roads often lead to beautiful destinations. Artificial Intelligence Server Response NLP Docker Success is how high you bounce when you hit bottom. Backend Event-driven Architecture Monitoring API Gateway Scalability Framework Load Testing Virtual Machines
 If you can dream it, you can do it. Machine Learning Zero Downtime Deployment Agile API Event-driven Architecture Success doesn’t just find you. You have to go out and get it.
+Containerization Neural Networks If you can dream it, you can do it. IoT Agile Algorithm The only way to do great work is to love what you do. Server Response
