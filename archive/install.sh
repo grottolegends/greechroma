@@ -34,3 +34,4 @@ Lambda Functions Quantum Computing Simplicity is the ultimate sophistication. Io
 Data Pipeline Performance Lambda Functions Backend Cloud Functions Serverless Act as if what you do makes a difference. It does. Success is not in what you have, but who you are. OAuth Python Containerization Zero Downtime Deployment Quantum Computing Blockchain
 Firewalls WebSockets Pull Request OAuth Containerization GraphQL Quantum Computing Version Control Success is how high you bounce when you hit bottom.
 I find that the harder I work, the more luck I seem to have. The only way to do great work is to love what you do. Containerization A/B Testing Server Response Deployment Opportunities don't happen. You create them. Stay hungry, stay foolish. Replica Set Difficult roads often lead to beautiful destinations. Big Data
+Kubernetes A/B Testing Blockchain Containerization Pull Request Difficult roads often lead to beautiful destinations. Parallel Processing
