@@ -33,3 +33,4 @@ Code Review A/B Testing Dream big and dare to fail. JavaScript Automation DNS Ro
 Act as if what you do makes a difference. It does. Algorithm Success is not in what you have, but who you are. Kafka Containerization Sharding To be the best, you must be able to handle the worst. JWT Parallel Processing
 Difficult roads often lead to beautiful destinations. Logging Agile Frontend RabbitMQ Simplicity is the ultimate sophistication. Backend
 CI/CD Kubernetes Do what you love and the money will follow. Cloud Functions Data Science Latency Optimization Happiness is not something ready made. It comes from your own actions. API Gateway Innovation distinguishes between a leader and a follower. Big Data If you can dream it, you can do it.
+API RabbitMQ Algorithm OAuth Version Control Virtual Machines Latency Optimization
