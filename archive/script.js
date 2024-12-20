@@ -28,3 +28,4 @@ Serverless Python Content Delivery Network Parallel Processing Happiness is not 
 Logging Neural Networks Latency Optimization Success is how high you bounce when you hit bottom. Blockchain Backend Containerization Replica Set Predictive Analytics Agile
 Simplicity is the ultimate sophistication. Serverless React UX Optimization Agile Data Science Success is how high you bounce when you hit bottom. Success is not in what you have, but who you are. Innovation distinguishes between a leader and a follower. Monitoring Pull Request Database Machine Learning WebSockets Replica Set
 Success is how high you bounce when you hit bottom. Containerization Cloud Functions Machine Learning Logging Lambda Functions
+Frontend Quantum Computing Event Sourcing GraphQL Framework Replica Set If you can dream it, you can do it. Server Response Success is not in what you have, but who you are.
