@@ -3,3 +3,4 @@ API Gateway Testing Container Orchestration I find that the harder I work, the m
 Kafka Optimization IoT Database Version Control Work hard in silence, let your success be your noise. To be the best, you must be able to handle the worst. Database Indexing
 Simplicity is the ultimate sophistication. Automation Kafka Don't be afraid to give up the good to go for the great. Content Delivery Network Database Event-driven Architecture
 Backend Frontend Scalability Version Control Testing API Gateway Message Queue Code Review
+Lambda Functions The only way to do great work is to love what you do. Database Performance Scalability I find that the harder I work, the more luck I seem to have. If you can dream it, you can do it. Backend Event Sourcing Great things never come from comfort zones. Zero Downtime Deployment Neural Networks

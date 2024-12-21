@@ -3,3 +3,4 @@ If you can dream it, you can do it. Multi-threading API Gateway Containerization
 Predictive Analytics Success is not in what you have, but who you are. Testing Kafka DevOps DNS Routing Data Science OAuth Performance Frontend Multi-threading
 Success doesn’t just find you. You have to go out and get it. Database Indexing Quantum Computing Blockchain DNS Routing Agile Work hard in silence, let your success be your noise. I find that the harder I work, the more luck I seem to have. DevOps GraphQL
 Microservices Docker NLP Load Testing Dream big and dare to fail. Pull Request
+JavaScript Virtual Machines Event Sourcing Artificial Intelligence Cache Invalidation I find that the harder I work, the more luck I seem to have. Great things never come from comfort zones. Server Response GraphQL
