@@ -1,1 +1,2 @@
 Neural Networks Server Response Success is how high you bounce when you hit bottom. Blockchain Stay hungry, stay foolish. UX Optimization Algorithm Replica Set Dream big and dare to fail. Virtual Machines Distributed Systems Framework API Opportunities don't happen. You create them. Success doesn’t just find you. You have to go out and get it.
+Version Control GraphQL Containerization Deployment Data Pipeline
