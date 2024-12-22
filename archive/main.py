@@ -26,3 +26,4 @@ Kubernetes Kafka Parallel Processing Lambda Functions Content Delivery Network C
 Artificial Intelligence Algorithm CI/CD IoT Database Indexing Simplicity is the ultimate sophistication.
 Pull Request Load Balancing Parallel Processing Opportunities don't happen. You create them. Testing Event-driven Architecture
 Container Orchestration Serverless Success usually comes to those who are too busy to be looking for it. Agile Work hard in silence, let your success be your noise. Framework Predictive Analytics API DNS Routing Neural Networks JavaScript
+Event Sourcing Great things never come from comfort zones. The only way to do great work is to love what you do. Distributed Systems Logging Message Queue Event-driven Architecture Lambda Functions Sharding Version Control To be the best, you must be able to handle the worst. React
