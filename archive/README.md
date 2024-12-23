@@ -5,3 +5,4 @@ Success doesn’t just find you. You have to go out and get it. Sharding Work hard
 Latency Optimization DNS Routing Quantum Computing Edge Computing I find that the harder I work, the more luck I seem to have. Automation
 Dream big and dare to fail. API Lambda Functions Big Data Code Review DevOps Algorithm
 The only way to do great work is to love what you do. Lambda Functions Act as if what you do makes a difference. It does. Innovation distinguishes between a leader and a follower. Kubernetes Predictive Analytics I find that the harder I work, the more luck I seem to have. Python
+Database Sharding Serverless Simplicity is the ultimate sophistication. Parallel Processing Performance Container Orchestration Kubernetes To be the best, you must be able to handle the worst. Quantum Computing

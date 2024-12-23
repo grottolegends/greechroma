@@ -6,3 +6,4 @@ Automation Do what you love and the money will follow. Artificial Intelligence S
 Do what you love and the money will follow. Deployment Blockchain Algorithm Opportunities don't happen. You create them. Multi-threading Neural Networks Agile Innovation distinguishes between a leader and a follower. Success usually comes to those who are too busy to be looking for it.
 React Cache Invalidation Don't be afraid to give up the good to go for the great. Event Sourcing Opportunities don't happen. You create them.
 Container Orchestration Content Delivery Network Cloud Load Balancing The only way to do great work is to love what you do. JavaScript Containerization Deployment Multi-threading GraphQL
+Algorithm Deployment Virtual Machines Monitoring Blockchain Load Balancing Dream big and dare to fail. Code Review Success is not in what you have, but who you are. Opportunities don't happen. You create them. NLP WebSockets
