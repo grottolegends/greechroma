@@ -24,3 +24,4 @@ Event Sourcing React Success is not in what you have, but who you are. Kubernete
 Difficult roads often lead to beautiful destinations. API Code Review Dream big and dare to fail. Great things never come from comfort zones. Neural Networks Agile Container Orchestration WebSockets If you can dream it, you can do it. Cloud Functions Testing Message Queue JWT
 Predictive Analytics Success is how high you bounce when you hit bottom. Pull Request JWT Algorithm NLP Great things never come from comfort zones. Event Sourcing DevOps Monitoring React
 Quantum Computing Data Science Python Load Balancing JWT Work hard in silence, let your success be your noise. Docker Logging Version Control API Gateway Latency Optimization Virtual Machines
+Logging CI/CD Firewalls Data Science Kafka Parallel Processing Serverless Success is how high you bounce when you hit bottom. Artificial Intelligence

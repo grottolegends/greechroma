@@ -30,3 +30,4 @@ JWT Logging Cloud Functions Load Balancing Dream big and dare to fail. Optimizat
 Security Load Balancing API IoT Firewalls Cloud Functions Version Control Artificial Intelligence Testing
 Success doesn’t just find you. You have to go out and get it. UX Optimization Blockchain If you can dream it, you can do it. RabbitMQ Data Science Replica Set Cloud
 Data Science Blockchain Cloud Functions Docker Message Queue Neural Networks Difficult roads often lead to beautiful destinations. Database Zero Downtime Deployment Testing Predictive Analytics Python Version Control
+Zero Downtime Deployment Testing Neural Networks Distributed Systems Monitoring Content Delivery Network Lambda Functions Deployment Success is how high you bounce when you hit bottom. Load Testing Kafka Data Science RabbitMQ
