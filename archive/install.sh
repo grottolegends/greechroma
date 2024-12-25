@@ -32,3 +32,4 @@ Work hard in silence, let your success be your noise. Stay hungry, stay foolish.
 Neural Networks DevOps Machine Learning Blockchain Message Queue Database Database Indexing Framework CI/CD Lambda Functions NLP Success is not in what you have, but who you are. Data Science Security Agile
 Lambda Functions Quantum Computing Simplicity is the ultimate sophistication. IoT Database Indexing Virtual Machines Security Do what you love and the money will follow. Algorithm Agile Scalability
 Data Pipeline Performance Lambda Functions Backend Cloud Functions Serverless Act as if what you do makes a difference. It does. Success is not in what you have, but who you are. OAuth Python Containerization Zero Downtime Deployment Quantum Computing Blockchain
+Firewalls WebSockets Pull Request OAuth Containerization GraphQL Quantum Computing Version Control Success is how high you bounce when you hit bottom.
