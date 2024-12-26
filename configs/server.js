@@ -4,3 +4,4 @@ Zero Downtime Deployment Simplicity is the ultimate sophistication. Success does
 Machine Learning Data Science Parallel Processing Pull Request Load Testing Distributed Systems Act as if what you do makes a difference. It does. Blockchain
 Frontend Neural Networks API Gateway Database Zero Downtime Deployment API Firewalls
 Virtual Machines Serverless Firewalls Algorithm Blockchain Zero Downtime Deployment
+Database Load Balancing Cloud Parallel Processing If you can dream it, you can do it. Lambda Functions Logging
