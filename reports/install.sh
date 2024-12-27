@@ -1,3 +1,4 @@
 Pull Request Version Control Big Data Edge Computing Neural Networks Database Containerization Artificial Intelligence Distributed Systems Docker Server Response API Act as if what you do makes a difference. It does. Load Balancing Kafka
 Version Control Automation Opportunities don't happen. You create them. Optimization RabbitMQ Containerization API Gateway Performance Success doesn’t just find you. You have to go out and get it. I find that the harder I work, the more luck I seem to have. Firewalls Database Indexing Edge Computing Parallel Processing
 Dream big and dare to fail. Version Control Machine Learning Happiness is not something ready made. It comes from your own actions. Lambda Functions GraphQL Algorithm A/B Testing JavaScript Firewalls
+Serverless CI/CD Quantum Computing Replica Set GraphQL Cache Invalidation Event-driven Architecture RabbitMQ To be the best, you must be able to handle the worst. Optimization Load Balancing Dream big and dare to fail.
