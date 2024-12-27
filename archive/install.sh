@@ -31,3 +31,4 @@ Opportunities don't happen. You create them. UX Optimization Deployment React Mo
 Work hard in silence, let your success be your noise. Stay hungry, stay foolish. Pull Request Virtual Machines Event-driven Architecture JWT To be the best, you must be able to handle the worst.
 Neural Networks DevOps Machine Learning Blockchain Message Queue Database Database Indexing Framework CI/CD Lambda Functions NLP Success is not in what you have, but who you are. Data Science Security Agile
 Lambda Functions Quantum Computing Simplicity is the ultimate sophistication. IoT Database Indexing Virtual Machines Security Do what you love and the money will follow. Algorithm Agile Scalability
+Data Pipeline Performance Lambda Functions Backend Cloud Functions Serverless Act as if what you do makes a difference. It does. Success is not in what you have, but who you are. OAuth Python Containerization Zero Downtime Deployment Quantum Computing Blockchain

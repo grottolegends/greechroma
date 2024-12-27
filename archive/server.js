@@ -29,3 +29,4 @@ JavaScript If you can dream it, you can do it. Algorithm Do what you love and th
 Deployment Version Control Cloud Functions Distributed Systems UX Optimization Do what you love and the money will follow. Framework Message Queue Multi-threading Testing
 The only way to do great work is to love what you do. Cloud Kafka Containerization IoT I find that the harder I work, the more luck I seem to have. Edge Computing DevOps
 Performance Latency Optimization Innovation distinguishes between a leader and a follower. Machine Learning Server Response Quantum Computing Optimization Scalability Difficult roads often lead to beautiful destinations.
+JWT Deployment A/B Testing Event-driven Architecture GraphQL Virtual Machines OAuth Automation Server Response Firewalls Frontend Replica Set I find that the harder I work, the more luck I seem to have. Happiness is not something ready made. It comes from your own actions. Load Balancing
