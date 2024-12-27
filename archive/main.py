@@ -25,3 +25,4 @@ Virtual Machines Firewalls Replica Set Artificial Intelligence Zero Downtime Dep
 Kubernetes Kafka Parallel Processing Lambda Functions Content Delivery Network Cloud Functions Cache Invalidation Serverless
 Artificial Intelligence Algorithm CI/CD IoT Database Indexing Simplicity is the ultimate sophistication.
 Pull Request Load Balancing Parallel Processing Opportunities don't happen. You create them. Testing Event-driven Architecture
+Container Orchestration Serverless Success usually comes to those who are too busy to be looking for it. Agile Work hard in silence, let your success be your noise. Framework Predictive Analytics API DNS Routing Neural Networks JavaScript
