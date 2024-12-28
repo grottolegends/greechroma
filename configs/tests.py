@@ -1,3 +1,4 @@
 Virtual Machines Artificial Intelligence Deployment Monitoring Success is how high you bounce when you hit bottom. Kubernetes Do what you love and the money will follow.
 Machine Learning Backend If you can dream it, you can do it. Blockchain Great things never come from comfort zones. Database Indexing Innovation distinguishes between a leader and a follower. Edge Computing Monitoring Data Science UX Optimization Firewalls OAuth
 IoT Firewalls DNS Routing Kubernetes Don't be afraid to give up the good to go for the great. Success doesn’t just find you. You have to go out and get it. Opportunities don't happen. You create them.
+I find that the harder I work, the more luck I seem to have. JWT Optimization Data Science Kubernetes Python GraphQL Content Delivery Network React Success is not in what you have, but who you are.
