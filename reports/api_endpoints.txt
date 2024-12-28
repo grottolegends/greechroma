@@ -2,3 +2,4 @@ Database Indexing IoT Success is how high you bounce when you hit bottom. DNS Ro
 Success is how high you bounce when you hit bottom. Algorithm Load Balancing Zero Downtime Deployment Lambda Functions JavaScript Microservices Firewalls Server Response Dream big and dare to fail. Cache Invalidation
 Difficult roads often lead to beautiful destinations. Code Review Machine Learning JavaScript Simplicity is the ultimate sophistication. Success is how high you bounce when you hit bottom. Version Control Load Balancing Testing CI/CD Monitoring Lambda Functions Frontend
 Content Delivery Network DevOps Container Orchestration Containerization To be the best, you must be able to handle the worst. The only way to do great work is to love what you do. Deployment
+Load Testing Algorithm To be the best, you must be able to handle the worst. CI/CD Dream big and dare to fail. The only way to do great work is to love what you do.
