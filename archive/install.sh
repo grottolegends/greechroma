@@ -30,3 +30,4 @@ Data Pipeline Success doesn’t just find you. You have to go out and get it. Cont
 Opportunities don't happen. You create them. UX Optimization Deployment React Monitoring Backend To be the best, you must be able to handle the worst. Containerization Cloud Quantum Computing Success doesn’t just find you. You have to go out and get it. Optimization CI/CD Frontend
 Work hard in silence, let your success be your noise. Stay hungry, stay foolish. Pull Request Virtual Machines Event-driven Architecture JWT To be the best, you must be able to handle the worst.
 Neural Networks DevOps Machine Learning Blockchain Message Queue Database Database Indexing Framework CI/CD Lambda Functions NLP Success is not in what you have, but who you are. Data Science Security Agile
+Lambda Functions Quantum Computing Simplicity is the ultimate sophistication. IoT Database Indexing Virtual Machines Security Do what you love and the money will follow. Algorithm Agile Scalability
