@@ -32,3 +32,4 @@ Latency Optimization IoT Cloud Functions Virtual Machines Replica Set Parallel P
 Scalability Distributed Systems Containerization NLP Big Data
 Opportunities don't happen. You create them. Success usually comes to those who are too busy to be looking for it. NLP Load Balancing Distributed Systems GraphQL Event-driven Architecture JWT
 Load Balancing GraphQL Distributed Systems Data Science I find that the harder I work, the more luck I seem to have. Blockchain
+Algorithm Microservices Version Control Content Delivery Network The only way to do great work is to love what you do. NLP JWT Blockchain IoT Automation Stay hungry, stay foolish. Zero Downtime Deployment
