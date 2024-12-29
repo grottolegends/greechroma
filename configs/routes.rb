@@ -2,3 +2,4 @@ Framework Agile React Backend Machine Learning Blockchain Latency Optimization D
 JavaScript Zero Downtime Deployment Frontend Security Scalability Big Data IoT Pull Request Cloud Functions Artificial Intelligence
 React Load Testing DNS Routing Pull Request Replica Set GraphQL Distributed Systems Opportunities don't happen. You create them. Success is not in what you have, but who you are. WebSockets Latency Optimization
 DNS Routing Lambda Functions Virtual Machines Deployment Work hard in silence, let your success be your noise. Database UX Optimization Load Balancing Cloud
+Success doesn’t just find you. You have to go out and get it. Microservices CI/CD Message Queue Serverless React Firewalls Lambda Functions Neural Networks Backend Success is how high you bounce when you hit bottom. Monitoring Edge Computing Event Sourcing

@@ -2,3 +2,4 @@ Distributed Systems Docker Testing Edge Computing Cloud Functions Success is not
 Event-driven Architecture Framework Data Pipeline Deployment The only way to do great work is to love what you do. Version Control Success is how high you bounce when you hit bottom.
 API Server Response Work hard in silence, let your success be your noise. Distributed Systems Replica Set Dream big and dare to fail. Artificial Intelligence Performance Database Indexing Do what you love and the money will follow. Agile UX Optimization Act as if what you do makes a difference. It does. Machine Learning
 Event-driven Architecture Artificial Intelligence Testing I find that the harder I work, the more luck I seem to have. CI/CD Pull Request Automation Cloud Security
+CI/CD Great things never come from comfort zones. Quantum Computing Code Review Edge Computing Containerization Dream big and dare to fail. Framework
