@@ -29,3 +29,4 @@ If you can dream it, you can do it. Happiness is not something ready made. It co
 JWT Logging Cloud Functions Load Balancing Dream big and dare to fail. Optimization Content Delivery Network DNS Routing Stay hungry, stay foolish. Event-driven Architecture JavaScript Success is not in what you have, but who you are. Database
 Security Load Balancing API IoT Firewalls Cloud Functions Version Control Artificial Intelligence Testing
 Success doesn’t just find you. You have to go out and get it. UX Optimization Blockchain If you can dream it, you can do it. RabbitMQ Data Science Replica Set Cloud
+Data Science Blockchain Cloud Functions Docker Message Queue Neural Networks Difficult roads often lead to beautiful destinations. Database Zero Downtime Deployment Testing Predictive Analytics Python Version Control
