@@ -4,3 +4,4 @@ Deployment Load Balancing Backend A/B Testing If you can dream it, you can do it
 Deployment API Gateway Simplicity is the ultimate sophistication. Difficult roads often lead to beautiful destinations. Quantum Computing Algorithm Pull Request Opportunities don't happen. You create them. If you can dream it, you can do it. UX Optimization
 Dream big and dare to fail. Message Queue Firewalls Success usually comes to those who are too busy to be looking for it. Big Data IoT Blockchain Cache Invalidation GraphQL Parallel Processing Event Sourcing The only way to do great work is to love what you do. Virtual Machines
 Lambda Functions Containerization Success is how high you bounce when you hit bottom. Do what you love and the money will follow. Database Indexing Load Testing Deployment RabbitMQ API Gateway Pull Request
+Python OAuth Stay hungry, stay foolish. Replica Set Data Pipeline Cloud Functions
