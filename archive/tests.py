@@ -5,3 +5,4 @@ Database Indexing Monitoring Success is how high you bounce when you hit bottom.
 Automation Do what you love and the money will follow. Artificial Intelligence Simplicity is the ultimate sophistication. Cloud Functions Blockchain Big Data Agile Logging Sharding Scalability Kubernetes Latency Optimization Great things never come from comfort zones. API
 Do what you love and the money will follow. Deployment Blockchain Algorithm Opportunities don't happen. You create them. Multi-threading Neural Networks Agile Innovation distinguishes between a leader and a follower. Success usually comes to those who are too busy to be looking for it.
 React Cache Invalidation Don't be afraid to give up the good to go for the great. Event Sourcing Opportunities don't happen. You create them.
+Container Orchestration Content Delivery Network Cloud Load Balancing The only way to do great work is to love what you do. JavaScript Containerization Deployment Multi-threading GraphQL
