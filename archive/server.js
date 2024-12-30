@@ -7,3 +7,4 @@ The only way to do great work is to love what you do. NLP API Event-driven Archi
 Microservices Server Response Python CI/CD Artificial Intelligence Machine Learning Dream big and dare to fail. Load Testing Kubernetes Stay hungry, stay foolish. Docker Neural Networks IoT Database
 Kafka Innovation distinguishes between a leader and a follower. If you can dream it, you can do it. Cloud Python
 Event Sourcing Performance Version Control Docker Container Orchestration Pull Request DevOps Big Data Security Data Pipeline A/B Testing Distributed Systems
+Containerization Data Science Parallel Processing Monitoring Quantum Computing Container Orchestration Success usually comes to those who are too busy to be looking for it. Great things never come from comfort zones. Simplicity is the ultimate sophistication. Agile Message Queue Innovation distinguishes between a leader and a follower.
