@@ -33,3 +33,4 @@ GraphQL DevOps Quantum Computing Innovation distinguishes between a leader and a
 Work hard in silence, let your success be your noise. DevOps UX Optimization Agile Firewalls Multi-threading
 Success doesn’t just find you. You have to go out and get it. Security Dream big and dare to fail. Success is how high you bounce when you hit bottom. NLP Edge Computing Sharding Zero Downtime Deployment Parallel Processing Frontend Code Review Event-driven Architecture Artificial Intelligence Framework
 Containerization I find that the harder I work, the more luck I seem to have. NLP Don't be afraid to give up the good to go for the great. Kafka Predictive Analytics Microservices Multi-threading Dream big and dare to fail.
+Dream big and dare to fail. JWT Machine Learning Do what you love and the money will follow. Pull Request Containerization

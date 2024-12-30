@@ -28,3 +28,4 @@ Server Response JavaScript IoT Scalability Happiness is not something ready made
 JavaScript If you can dream it, you can do it. Algorithm Do what you love and the money will follow. Server Response Deployment Kubernetes Innovation distinguishes between a leader and a follower.
 Deployment Version Control Cloud Functions Distributed Systems UX Optimization Do what you love and the money will follow. Framework Message Queue Multi-threading Testing
 The only way to do great work is to love what you do. Cloud Kafka Containerization IoT I find that the harder I work, the more luck I seem to have. Edge Computing DevOps
+Performance Latency Optimization Innovation distinguishes between a leader and a follower. Machine Learning Server Response Quantum Computing Optimization Scalability Difficult roads often lead to beautiful destinations.
