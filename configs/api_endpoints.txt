@@ -4,3 +4,4 @@ Latency Optimization Code Review Serverless CI/CD JWT DNS Routing
 Database Event-driven Architecture Kafka Edge Computing Cloud Functions
 Cloud Event-driven Architecture API Message Queue Latency Optimization Success doesn’t just find you. You have to go out and get it. Cloud Functions Version Control
 Performance Scalability Content Delivery Network Testing Event Sourcing Cache Invalidation To be the best, you must be able to handle the worst. Machine Learning CI/CD Load Testing Load Balancing Difficult roads often lead to beautiful destinations. A/B Testing Pull Request Logging
+WebSockets NLP RabbitMQ Work hard in silence, let your success be your noise. I find that the harder I work, the more luck I seem to have. Predictive Analytics Do what you love and the money will follow. Replica Set Load Balancing Data Pipeline
