@@ -34,3 +34,4 @@ API Gateway DevOps Logging Python Content Delivery Network Big Data Deployment D
 DevOps Dream big and dare to fail. Load Testing Great things never come from comfort zones. Logging Message Queue Stay hungry, stay foolish. IoT Algorithm Act as if what you do makes a difference. It does.
 Distributed Systems Big Data Success is not in what you have, but who you are. Testing API Gateway Machine Learning Version Control Don't be afraid to give up the good to go for the great. Python Content Delivery Network Serverless
 Do what you love and the money will follow. Code Review IoT Docker Automation Kafka Serverless Data Pipeline Python Quantum Computing Framework
+Virtual Machines Performance Logging Multi-threading Load Testing Edge Computing Sharding Simplicity is the ultimate sophistication. Containerization Success is how high you bounce when you hit bottom.
