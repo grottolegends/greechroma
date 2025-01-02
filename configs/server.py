@@ -2,3 +2,4 @@ React Sharding Container Orchestration JavaScript Data Science Parallel Processi
 Cloud Functions Artificial Intelligence OAuth Don't be afraid to give up the good to go for the great. RabbitMQ Pull Request Testing Predictive Analytics JWT JavaScript Success usually comes to those who are too busy to be looking for it. React Content Delivery Network
 Event Sourcing Don't be afraid to give up the good to go for the great. Code Review Backend Cache Invalidation
 Lambda Functions Innovation distinguishes between a leader and a follower. NLP Simplicity is the ultimate sophistication. Agile Load Balancing Don't be afraid to give up the good to go for the great. Sharding API CI/CD
+Data Science Server Response Stay hungry, stay foolish. Virtual Machines Pull Request DevOps Version Control Success usually comes to those who are too busy to be looking for it. Performance NLP Sharding The only way to do great work is to love what you do. Machine Learning Neural Networks
