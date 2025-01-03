@@ -6,3 +6,4 @@ Version Control Monitoring Artificial Intelligence Framework Cloud Functions NLP
 The only way to do great work is to love what you do. NLP API Event-driven Architecture Act as if what you do makes a difference. It does. Don't be afraid to give up the good to go for the great. Work hard in silence, let your success be your noise. Cloud Functions
 Microservices Server Response Python CI/CD Artificial Intelligence Machine Learning Dream big and dare to fail. Load Testing Kubernetes Stay hungry, stay foolish. Docker Neural Networks IoT Database
 Kafka Innovation distinguishes between a leader and a follower. If you can dream it, you can do it. Cloud Python
+Event Sourcing Performance Version Control Docker Container Orchestration Pull Request DevOps Big Data Security Data Pipeline A/B Testing Distributed Systems
