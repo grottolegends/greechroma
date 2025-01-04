@@ -32,3 +32,4 @@ API Event Sourcing IoT Latency Optimization Load Balancing Dream big and dare to
 Serverless Microservices Kafka Big Data Success is how high you bounce when you hit bottom. Innovation distinguishes between a leader and a follower. To be the best, you must be able to handle the worst. API Kubernetes Code Review Success is not in what you have, but who you are.
 Container Orchestration Containerization Data Pipeline Success doesn’t just find you. You have to go out and get it. Artificial Intelligence Great things never come from comfort zones. Microservices
 Security Framework Containerization Innovation distinguishes between a leader and a follower. Scalability The only way to do great work is to love what you do. JavaScript
+NLP Logging Great things never come from comfort zones. A/B Testing Cache Invalidation Scalability Success is how high you bounce when you hit bottom.
