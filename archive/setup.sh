@@ -2,3 +2,4 @@ Performance JavaScript Algorithm Logging Virtual Machines Machine Learning Messa
 Monitoring Data Science Testing Replica Set Opportunities don't happen. You create them. Database Performance Code Review Act as if what you do makes a difference. It does. API Difficult roads often lead to beautiful destinations. CI/CD
 Don't be afraid to give up the good to go for the great. Load Testing Container Orchestration Artificial Intelligence Version Control Lambda Functions
 WebSockets Testing Parallel Processing Framework Docker Innovation distinguishes between a leader and a follower. Neural Networks Scalability
+Simplicity is the ultimate sophistication. Neural Networks JWT API Gateway I find that the harder I work, the more luck I seem to have. DNS Routing API Message Queue
