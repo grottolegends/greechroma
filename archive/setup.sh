@@ -31,3 +31,4 @@ Multi-threading API Version Control Cloud Functions IoT Act as if what you do ma
 Work hard in silence, let your success be your noise. Containerization Load Balancing Data Science Pull Request Performance Opportunities don't happen. You create them. Lambda Functions RabbitMQ Difficult roads often lead to beautiful destinations.
 GraphQL DevOps Quantum Computing Innovation distinguishes between a leader and a follower. UX Optimization Testing API Parallel Processing Database Indexing Kubernetes NLP Event Sourcing Message Queue
 Work hard in silence, let your success be your noise. DevOps UX Optimization Agile Firewalls Multi-threading
+Success doesn’t just find you. You have to go out and get it. Security Dream big and dare to fail. Success is how high you bounce when you hit bottom. NLP Edge Computing Sharding Zero Downtime Deployment Parallel Processing Frontend Code Review Event-driven Architecture Artificial Intelligence Framework

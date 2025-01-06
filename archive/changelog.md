@@ -30,3 +30,4 @@ Algorithm I find that the harder I work, the more luck I seem to have. UX Optimi
 Load Testing DevOps OAuth Multi-threading Data Science
 Containerization Opportunities don't happen. You create them. To be the best, you must be able to handle the worst. Parallel Processing Message Queue Act as if what you do makes a difference. It does. CI/CD
 Edge Computing Happiness is not something ready made. It comes from your own actions. Python WebSockets OAuth
+If you can dream it, you can do it. Stay hungry, stay foolish. Kubernetes JWT Algorithm
