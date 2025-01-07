@@ -29,3 +29,4 @@ Distributed Systems Logging OAuth Latency Optimization Database Indexing Virtual
 Database Python Version Control Distributed Systems Deployment Database Indexing Work hard in silence, let your success be your noise. Lambda Functions DNS Routing API Difficult roads often lead to beautiful destinations. Replica Set Serverless
 To be the best, you must be able to handle the worst. Docker Do what you love and the money will follow. Simplicity is the ultimate sophistication. Algorithm Lambda Functions
 API Event Sourcing IoT Latency Optimization Load Balancing Dream big and dare to fail.
+Serverless Microservices Kafka Big Data Success is how high you bounce when you hit bottom. Innovation distinguishes between a leader and a follower. To be the best, you must be able to handle the worst. API Kubernetes Code Review Success is not in what you have, but who you are.
