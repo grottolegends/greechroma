@@ -23,3 +23,4 @@ Monitoring The only way to do great work is to love what you do. Work hard in si
 Dream big and dare to fail. Backend Algorithm Cloud Do what you love and the money will follow. Quantum Computing If you can dream it, you can do it.
 Container Orchestration DNS Routing Artificial Intelligence Success is not in what you have, but who you are. API Scalability IoT Success usually comes to those who are too busy to be looking for it. Zero Downtime Deployment Cache Invalidation Success is how high you bounce when you hit bottom. Success doesn’t just find you. You have to go out and get it.
 Parallel Processing CI/CD To be the best, you must be able to handle the worst. React API Gateway GraphQL Content Delivery Network Difficult roads often lead to beautiful destinations.
+Data Pipeline Neural Networks Microservices Cloud Functions Optimization GraphQL Python Content Delivery Network Serverless Firewalls

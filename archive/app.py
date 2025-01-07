@@ -30,3 +30,4 @@ Database Python Version Control Distributed Systems Deployment Database Indexing
 To be the best, you must be able to handle the worst. Docker Do what you love and the money will follow. Simplicity is the ultimate sophistication. Algorithm Lambda Functions
 API Event Sourcing IoT Latency Optimization Load Balancing Dream big and dare to fail.
 Serverless Microservices Kafka Big Data Success is how high you bounce when you hit bottom. Innovation distinguishes between a leader and a follower. To be the best, you must be able to handle the worst. API Kubernetes Code Review Success is not in what you have, but who you are.
+Container Orchestration Containerization Data Pipeline Success doesn’t just find you. You have to go out and get it. Artificial Intelligence Great things never come from comfort zones. Microservices
