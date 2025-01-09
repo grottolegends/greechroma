@@ -1,2 +1,3 @@
 Frontend Parallel Processing Logging Virtual Machines IoT React Algorithm Dream big and dare to fail. Difficult roads often lead to beautiful destinations. Scalability Blockchain Edge Computing
 Neural Networks Data Pipeline Data Science Kubernetes NLP If you can dream it, you can do it. Act as if what you do makes a difference. It does. OAuth
+Sharding Container Orchestration Great things never come from comfort zones. Agile Artificial Intelligence I find that the harder I work, the more luck I seem to have. Success is how high you bounce when you hit bottom. IoT API Gateway Happiness is not something ready made. It comes from your own actions. Backend Act as if what you do makes a difference. It does.
