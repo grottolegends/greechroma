@@ -3,3 +3,4 @@ JWT Framework Docker Python Version Control RabbitMQ A/B Testing Code Review Ser
 Backend UX Optimization DNS Routing OAuth Edge Computing IoT
 Act as if what you do makes a difference. It does. Backend Edge Computing Monitoring Kubernetes Cloud Opportunities don't happen. You create them. Pull Request Version Control
 Version Control Monitoring Artificial Intelligence Framework Cloud Functions NLP Backend If you can dream it, you can do it. Success is not in what you have, but who you are. Frontend Neural Networks Container Orchestration Opportunities don't happen. You create them. GraphQL
+The only way to do great work is to love what you do. NLP API Event-driven Architecture Act as if what you do makes a difference. It does. Don't be afraid to give up the good to go for the great. Work hard in silence, let your success be your noise. Cloud Functions
