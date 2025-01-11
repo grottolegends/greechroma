@@ -31,3 +31,4 @@ Container Orchestration Docker Happiness is not something ready made. It comes f
 Latency Optimization IoT Cloud Functions Virtual Machines Replica Set Parallel Processing Don't be afraid to give up the good to go for the great. Version Control Message Queue Microservices Code Review Backend Framework
 Scalability Distributed Systems Containerization NLP Big Data
 Opportunities don't happen. You create them. Success usually comes to those who are too busy to be looking for it. NLP Load Balancing Distributed Systems GraphQL Event-driven Architecture JWT
+Load Balancing GraphQL Distributed Systems Data Science I find that the harder I work, the more luck I seem to have. Blockchain

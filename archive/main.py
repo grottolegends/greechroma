@@ -24,3 +24,4 @@ Python API Gateway Message Queue Do what you love and the money will follow. Pre
 Virtual Machines Firewalls Replica Set Artificial Intelligence Zero Downtime Deployment Database Indexing CI/CD Do what you love and the money will follow. API
 Kubernetes Kafka Parallel Processing Lambda Functions Content Delivery Network Cloud Functions Cache Invalidation Serverless
 Artificial Intelligence Algorithm CI/CD IoT Database Indexing Simplicity is the ultimate sophistication.
+Pull Request Load Balancing Parallel Processing Opportunities don't happen. You create them. Testing Event-driven Architecture
