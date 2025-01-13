@@ -2,3 +2,4 @@ Success usually comes to those who are too busy to be looking for it. Stay hungr
 JWT Framework Docker Python Version Control RabbitMQ A/B Testing Code Review Serverless The only way to do great work is to love what you do. Quantum Computing Containerization Big Data Dream big and dare to fail.
 Backend UX Optimization DNS Routing OAuth Edge Computing IoT
 Act as if what you do makes a difference. It does. Backend Edge Computing Monitoring Kubernetes Cloud Opportunities don't happen. You create them. Pull Request Version Control
+Version Control Monitoring Artificial Intelligence Framework Cloud Functions NLP Backend If you can dream it, you can do it. Success is not in what you have, but who you are. Frontend Neural Networks Container Orchestration Opportunities don't happen. You create them. GraphQL
