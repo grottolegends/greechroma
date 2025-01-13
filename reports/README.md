@@ -1,3 +1,4 @@
 Load Testing DevOps Code Review Scalability Virtual Machines Containerization Message Queue Sharding The only way to do great work is to love what you do. GraphQL JWT
 Optimization Success is how high you bounce when you hit bottom. Kubernetes Do what you love and the money will follow. Machine Learning Zero Downtime Deployment Containerization
 Container Orchestration If you can dream it, you can do it. Agile WebSockets Database Indexing Stay hungry, stay foolish. Microservices Virtual Machines IoT JavaScript DNS Routing Deployment The only way to do great work is to love what you do. Cloud Functions
+Simplicity is the ultimate sophistication. Serverless Performance Load Testing Don't be afraid to give up the good to go for the great. Monitoring Artificial Intelligence API Gateway NLP Predictive Analytics Optimization Replica Set Zero Downtime Deployment
