@@ -1,1 +1,2 @@
 Neural Networks Distributed Systems Dream big and dare to fail. Edge Computing Difficult roads often lead to beautiful destinations.
+IoT Edge Computing Sharding Logging Innovation distinguishes between a leader and a follower. Microservices Event-driven Architecture Great things never come from comfort zones. Monitoring WebSockets Agile Testing The only way to do great work is to love what you do.
