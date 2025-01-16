@@ -23,3 +23,4 @@ JavaScript Load Balancing UX Optimization Happiness is not something ready made.
 Python API Gateway Message Queue Do what you love and the money will follow. Predictive Analytics Kafka DNS Routing Artificial Intelligence Happiness is not something ready made. It comes from your own actions. Blockchain Automation Kubernetes
 Virtual Machines Firewalls Replica Set Artificial Intelligence Zero Downtime Deployment Database Indexing CI/CD Do what you love and the money will follow. API
 Kubernetes Kafka Parallel Processing Lambda Functions Content Delivery Network Cloud Functions Cache Invalidation Serverless
+Artificial Intelligence Algorithm CI/CD IoT Database Indexing Simplicity is the ultimate sophistication.
