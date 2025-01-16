@@ -29,3 +29,4 @@ GraphQL A/B Testing Database Kubernetes API Gateway Great things never come from
 Algorithm I find that the harder I work, the more luck I seem to have. UX Optimization Quantum Computing GraphQL To be the best, you must be able to handle the worst. RabbitMQ Pull Request NLP Act as if what you do makes a difference. It does.
 Load Testing DevOps OAuth Multi-threading Data Science
 Containerization Opportunities don't happen. You create them. To be the best, you must be able to handle the worst. Parallel Processing Message Queue Act as if what you do makes a difference. It does. CI/CD
+Edge Computing Happiness is not something ready made. It comes from your own actions. Python WebSockets OAuth

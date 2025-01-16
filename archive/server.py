@@ -29,3 +29,4 @@ GraphQL Firewalls Backend Great things never come from comfort zones. Frontend
 Version Control Serverless Agile Multi-threading OAuth Parallel Processing Cache Invalidation Quantum Computing Pull Request
 Container Orchestration Docker Happiness is not something ready made. It comes from your own actions. JavaScript Content Delivery Network Algorithm GraphQL Event-driven Architecture I find that the harder I work, the more luck I seem to have. Frontend
 Latency Optimization IoT Cloud Functions Virtual Machines Replica Set Parallel Processing Don't be afraid to give up the good to go for the great. Version Control Message Queue Microservices Code Review Backend Framework
+Scalability Distributed Systems Containerization NLP Big Data
