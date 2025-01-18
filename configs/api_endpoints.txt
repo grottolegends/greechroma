@@ -2,3 +2,4 @@ Dream big and dare to fail. Cloud Functions Latency Optimization Stay hungry, st
 Load Balancing Replica Set Automation Data Pipeline Security
 Latency Optimization Code Review Serverless CI/CD JWT DNS Routing
 Database Event-driven Architecture Kafka Edge Computing Cloud Functions
+Cloud Event-driven Architecture API Message Queue Latency Optimization Success doesn’t just find you. You have to go out and get it. Cloud Functions Version Control
