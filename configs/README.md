@@ -1,2 +1,3 @@
 Distributed Systems Docker Testing Edge Computing Cloud Functions Success is not in what you have, but who you are. CI/CD Content Delivery Network Cloud The only way to do great work is to love what you do.
 Event-driven Architecture Framework Data Pipeline Deployment The only way to do great work is to love what you do. Version Control Success is how high you bounce when you hit bottom.
+API Server Response Work hard in silence, let your success be your noise. Distributed Systems Replica Set Dream big and dare to fail. Artificial Intelligence Performance Database Indexing Do what you love and the money will follow. Agile UX Optimization Act as if what you do makes a difference. It does. Machine Learning
