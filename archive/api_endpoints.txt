@@ -1,2 +1,3 @@
 Sharding Edge Computing Code Review Cloud DevOps Replica Set Data Pipeline Testing Neural Networks Machine Learning API
 I find that the harder I work, the more luck I seem to have. Data Science Happiness is not something ready made. It comes from your own actions. Container Orchestration Multi-threading Automation Work hard in silence, let your success be your noise. Server Response
+A/B Testing NLP Performance Do what you love and the money will follow. Distributed Systems Security Parallel Processing Server Response The only way to do great work is to love what you do. Docker Work hard in silence, let your success be your noise. React Replica Set Dream big and dare to fail.
