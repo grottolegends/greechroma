@@ -28,3 +28,4 @@ DNS Routing Cloud Functions Opportunities don't happen. You create them. Lambda 
 Distributed Systems Logging OAuth Latency Optimization Database Indexing Virtual Machines DevOps The only way to do great work is to love what you do. Great things never come from comfort zones. I find that the harder I work, the more luck I seem to have. Kafka Python
 Database Python Version Control Distributed Systems Deployment Database Indexing Work hard in silence, let your success be your noise. Lambda Functions DNS Routing API Difficult roads often lead to beautiful destinations. Replica Set Serverless
 To be the best, you must be able to handle the worst. Docker Do what you love and the money will follow. Simplicity is the ultimate sophistication. Algorithm Lambda Functions
+API Event Sourcing IoT Latency Optimization Load Balancing Dream big and dare to fail.
