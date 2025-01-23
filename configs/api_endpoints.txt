@@ -1,2 +1,3 @@
 Dream big and dare to fail. Cloud Functions Latency Optimization Stay hungry, stay foolish. Kubernetes Lambda Functions Data Science Event-driven Architecture Microservices DevOps A/B Testing Frontend
 Load Balancing Replica Set Automation Data Pipeline Security
+Latency Optimization Code Review Serverless CI/CD JWT DNS Routing
