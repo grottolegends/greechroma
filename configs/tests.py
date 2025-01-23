@@ -1,1 +1,2 @@
 Virtual Machines Artificial Intelligence Deployment Monitoring Success is how high you bounce when you hit bottom. Kubernetes Do what you love and the money will follow.
+Machine Learning Backend If you can dream it, you can do it. Blockchain Great things never come from comfort zones. Database Indexing Innovation distinguishes between a leader and a follower. Edge Computing Monitoring Data Science UX Optimization Firewalls OAuth
