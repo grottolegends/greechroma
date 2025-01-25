@@ -25,3 +25,4 @@ Artificial Intelligence CI/CD NLP Multi-threading Pull Request Firewalls React B
 Innovation distinguishes between a leader and a follower. Load Balancing Multi-threading Security NLP
 Virtual Machines JWT Simplicity is the ultimate sophistication. OAuth I find that the harder I work, the more luck I seem to have. Blockchain
 Stay hungry, stay foolish. Frontend Quantum Computing JWT Parallel Processing Logging Distributed Systems
+RabbitMQ A/B Testing Python Data Pipeline Happiness is not something ready made. It comes from your own actions. Sharding Performance API Gateway Do what you love and the money will follow. UX Optimization
