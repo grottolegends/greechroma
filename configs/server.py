@@ -1,1 +1,2 @@
 React Sharding Container Orchestration JavaScript Data Science Parallel Processing DevOps Innovation distinguishes between a leader and a follower. Success is not in what you have, but who you are. Containerization Edge Computing Neural Networks Load Testing Optimization
+Cloud Functions Artificial Intelligence OAuth Don't be afraid to give up the good to go for the great. RabbitMQ Pull Request Testing Predictive Analytics JWT JavaScript Success usually comes to those who are too busy to be looking for it. React Content Delivery Network
