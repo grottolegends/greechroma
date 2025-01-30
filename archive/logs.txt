@@ -19,3 +19,4 @@ Dream big and dare to fail. Multi-threading Testing GraphQL Predictive Analytics
 GraphQL Optimization Success usually comes to those who are too busy to be looking for it. Kubernetes Version Control Lambda Functions Virtual Machines Difficult roads often lead to beautiful destinations. Agile Distributed Systems Firewalls A/B Testing API Serverless Frontend
 Latency Optimization Kafka Data Science Event Sourcing To be the best, you must be able to handle the worst. Optimization
 RabbitMQ Agile Parallel Processing Predictive Analytics If you can dream it, you can do it. Deployment Database Indexing Microservices
+Lambda Functions Success usually comes to those who are too busy to be looking for it. To be the best, you must be able to handle the worst. NLP Dream big and dare to fail. GraphQL Stay hungry, stay foolish. Load Testing Data Science API Gateway
