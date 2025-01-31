@@ -1,0 +1,1 @@
+Event Sourcing Backend Event-driven Architecture Sharding Success usually comes to those who are too busy to be looking for it. Load Balancing Pull Request Agile Act as if what you do makes a difference. It does. Success is how high you bounce when you hit bottom. Happiness is not something ready made. It comes from your own actions. IoT
