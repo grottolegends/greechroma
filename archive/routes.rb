@@ -1,0 +1,1 @@
+I find that the harder I work, the more luck I seem to have. Monitoring Success usually comes to those who are too busy to be looking for it. UX Optimization Python Containerization Optimization Machine Learning Logging Kafka Do what you love and the money will follow. OAuth
