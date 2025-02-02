@@ -28,3 +28,4 @@ JWT The only way to do great work is to love what you do. Data Science Great thi
 GraphQL A/B Testing Database Kubernetes API Gateway Great things never come from comfort zones. Optimization Success is not in what you have, but who you are. Lambda Functions Load Balancing JWT Serverless
 Algorithm I find that the harder I work, the more luck I seem to have. UX Optimization Quantum Computing GraphQL To be the best, you must be able to handle the worst. RabbitMQ Pull Request NLP Act as if what you do makes a difference. It does.
 Load Testing DevOps OAuth Multi-threading Data Science
+Containerization Opportunities don't happen. You create them. To be the best, you must be able to handle the worst. Parallel Processing Message Queue Act as if what you do makes a difference. It does. CI/CD

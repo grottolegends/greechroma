@@ -27,3 +27,4 @@ CI/CD Message Queue Data Pipeline Replica Set Quantum Computing Algorithm Framew
 Performance Innovation distinguishes between a leader and a follower. Kubernetes Success doesn’t just find you. You have to go out and get it. Latency Optimization
 Opportunities don't happen. You create them. Zero Downtime Deployment Act as if what you do makes a difference. It does. Great things never come from comfort zones. A/B Testing Virtual Machines React
 Data Pipeline Success doesn’t just find you. You have to go out and get it. Containerization Database Multi-threading
+Opportunities don't happen. You create them. UX Optimization Deployment React Monitoring Backend To be the best, you must be able to handle the worst. Containerization Cloud Quantum Computing Success doesn’t just find you. You have to go out and get it. Optimization CI/CD Frontend
