@@ -1,0 +1,1 @@
+Serverless Work hard in silence, let your success be your noise. Logging Success is not in what you have, but who you are. Parallel Processing Cloud Innovation distinguishes between a leader and a follower. Backend Do what you love and the money will follow. Edge Computing Kubernetes Testing Stay hungry, stay foolish. Data Science If you can dream it, you can do it.
