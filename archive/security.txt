@@ -22,3 +22,4 @@ Simplicity is the ultimate sophistication. API Gateway JavaScript Message Queue 
 CI/CD Simplicity is the ultimate sophistication. JWT Machine Learning Optimization Great things never come from comfort zones.
 NLP React UX Optimization Docker Testing Data Science Backend Success doesn’t just find you. You have to go out and get it.
 JavaScript Data Science Quantum Computing Multi-threading Monitoring Content Delivery Network Message Queue Backend Parallel Processing Load Testing Do what you love and the money will follow. Predictive Analytics Latency Optimization
+Innovation distinguishes between a leader and a follower. A/B Testing OAuth GraphQL Happiness is not something ready made. It comes from your own actions. Optimization
