@@ -28,3 +28,4 @@ Success is not in what you have, but who you are. Kubernetes Opportunities don't
 Algorithm Agile Code Review Parallel Processing Database Indexing Testing Edge Computing Great things never come from comfort zones. Optimization Content Delivery Network Kubernetes Multi-threading Automation API Work hard in silence, let your success be your noise.
 Performance Version Control Content Delivery Network Container Orchestration Success is not in what you have, but who you are. Neural Networks Great things never come from comfort zones. Event-driven Architecture
 Multi-threading API Version Control Cloud Functions IoT Act as if what you do makes a difference. It does.
+Work hard in silence, let your success be your noise. Containerization Load Balancing Data Science Pull Request Performance Opportunities don't happen. You create them. Lambda Functions RabbitMQ Difficult roads often lead to beautiful destinations.
