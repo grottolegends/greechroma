@@ -27,3 +27,4 @@ Work hard in silence, let your success be your noise. Version Control Dream big 
 Latency Optimization Logging API Gateway Data Science Message Queue API Algorithm Quantum Computing Pull Request A/B Testing Python Happiness is not something ready made. It comes from your own actions. GraphQL
 GraphQL Firewalls Backend Great things never come from comfort zones. Frontend
 Version Control Serverless Agile Multi-threading OAuth Parallel Processing Cache Invalidation Quantum Computing Pull Request
+Container Orchestration Docker Happiness is not something ready made. It comes from your own actions. JavaScript Content Delivery Network Algorithm GraphQL Event-driven Architecture I find that the harder I work, the more luck I seem to have. Frontend
