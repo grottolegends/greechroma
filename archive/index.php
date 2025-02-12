@@ -23,3 +23,4 @@ Kafka Optimization Work hard in silence, let your success be your noise. RabbitM
 Data Pipeline OAuth Great things never come from comfort zones. Happiness is not something ready made. It comes from your own actions. Database Optimization Distributed Systems WebSockets DevOps Dream big and dare to fail. Success doesn’t just find you. You have to go out and get it. Load Testing
 GraphQL Big Data Difficult roads often lead to beautiful destinations. Zero Downtime Deployment JWT WebSockets DNS Routing
 Frontend Framework Database Indexing Simplicity is the ultimate sophistication. GraphQL Latency Optimization Success is how high you bounce when you hit bottom. Security Difficult roads often lead to beautiful destinations. Predictive Analytics Data Science Firewalls Container Orchestration JavaScript Neural Networks
+Backend Frontend If you can dream it, you can do it. Blockchain Cache Invalidation
